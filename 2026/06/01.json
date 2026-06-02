@@ -1,332 +1,332 @@
 {
-    "status": true,
-    "date": "01-06-2026",
-    "total_questions": 25,
     "data": [
         {
+            "correct_answer": "वरील सर्व",
+            "answer_no": 4,
             "date": "01-06-2026",
-            "question_no": 1,
-            "question": "खालीलपैकी कोणत्या क्षेत्रांमध्ये AI (कृत्रिम बुद्धिमत्ता) चा वापर वाढत आहे?",
             "options": [
                 "उद्योग",
                 "शिक्षण",
                 "आरोग्यसेवा",
                 "वरील सर्व"
             ],
-            "answer": "वरील सर्व",
-            "answerno": 4
+            "question": "खालीलपैकी कोणत्या क्षेत्रांमध्ये AI (कृत्रिम बुद्धिमत्ता) चा वापर वाढत आहे?",
+            "question_no": 1
         },
         {
+            "correct_answer": "युवक आणि विद्यार्थी",
+            "answer_no": 4,
             "date": "01-06-2026",
-            "question_no": 2,
-            "question": "कौशल्य विकास कार्यक्रम कोणासाठी महत्त्वाचे आहेत?",
             "options": [
                 "केवळ शेतकरी",
                 "केवळ व्यापारी",
                 "केवळ अधिकारी",
                 "युवक आणि विद्यार्थी"
             ],
-            "answer": "युवक आणि विद्यार्थी",
-            "answerno": 4
+            "question": "कौशल्य विकास कार्यक्रम कोणासाठी महत्त्वाचे आहेत?",
+            "question_no": 2
         },
         {
+            "correct_answer": "डिजिटल सेवांचा विस्तार",
+            "answer_no": 1,
             "date": "01-06-2026",
-            "question_no": 3,
-            "question": "'डिजिटल इंडिया' मोहिमेचे मुख्य उद्दिष्ट काय आहे?",
             "options": [
                 "डिजिटल सेवांचा विस्तार",
                 "कृषी विकास",
                 "पर्यटन विकास",
                 "औद्योगिक विकास"
             ],
-            "answer": "डिजिटल सेवांचा विस्तार",
-            "answerno": 1
+            "question": "'डिजिटल इंडिया' मोहिमेचे मुख्य उद्दिष्ट काय आहे?",
+            "question_no": 3
         },
         {
+            "correct_answer": "विद्यार्थ्यांना",
+            "answer_no": 2,
             "date": "01-06-2026",
-            "question_no": 4,
-            "question": "डिजिटल शिक्षणाचा फायदा कोणाला होतो?",
             "options": [
                 "व्यापाऱ्यांना",
                 "विद्यार्थ्यांना",
                 "शेतकऱ्यांना",
                 "खेळाडूंना"
             ],
-            "answer": "विद्यार्थ्यांना",
-            "answerno": 2
+            "question": "डिजिटल शिक्षणाचा फायदा कोणाला होतो?",
+            "question_no": 4
         },
         {
+            "correct_answer": "इंटरनेट आणि डेटा संरक्षण",
+            "answer_no": 2,
             "date": "01-06-2026",
-            "question_no": 5,
-            "question": "सायबर सुरक्षा कशाशी संबंधित आहे?",
             "options": [
                 "कृषी",
                 "इंटरनेट आणि डेटा संरक्षण",
                 "मत्स्यव्यवसाय",
                 "दुग्धव्यवसाय"
             ],
-            "answer": "इंटरनेट आणि डेटा संरक्षण",
-            "answerno": 2
+            "question": "सायबर सुरक्षा कशाशी संबंधित आहे?",
+            "question_no": 5
         },
         {
+            "correct_answer": "नैसर्गिक आपत्ती",
+            "answer_no": 3,
             "date": "01-06-2026",
-            "question_no": 6,
-            "question": "हवामान बदलामुळे कोणती समस्या अधिक गंभीर होते?",
             "options": [
                 "उत्पादन",
                 "साक्षरता",
                 "नैसर्गिक आपत्ती",
                 "निर्यात"
             ],
-            "answer": "नैसर्गिक आपत्ती",
-            "answerno": 3
+            "question": "हवामान बदलामुळे कोणती समस्या अधिक गंभीर होते?",
+            "question_no": 6
         },
         {
+            "correct_answer": "हवामान बदल",
+            "answer_no": 3,
             "date": "01-06-2026",
-            "question_no": 7,
-            "question": "कार्बन उत्सर्जनातील कपातीचा संबंध कशाशी आहे?",
             "options": [
                 "व्यापार",
                 "शिक्षण",
                 "हवामान बदल",
                 "क्रीडा"
             ],
-            "answer": "हवामान बदल",
-            "answerno": 3
+            "question": "कार्बन उत्सर्जनातील कपातीचा संबंध कशाशी आहे?",
+            "question_no": 7
         },
         {
+            "correct_answer": "जलसंधारण",
+            "answer_no": 4,
             "date": "01-06-2026",
-            "question_no": 8,
-            "question": "जलसंधारण प्रकल्पांचे मुख्य उद्दिष्ट काय आहे?",
             "options": [
                 "शैक्षणिक विकास",
                 "पर्यटन विकास",
                 "व्यापारातील वाढ",
                 "जलसंधारण"
             ],
-            "answer": "जलसंधारण",
-            "answerno": 4
+            "question": "जलसंधारण प्रकल्पांचे मुख्य उद्दिष्ट काय आहे?",
+            "question_no": 8
         },
         {
+            "correct_answer": "तंत्रज्ञानाचा वापर",
+            "answer_no": 2,
             "date": "01-06-2026",
-            "question_no": 9,
-            "question": "भारतात डिजिटल व्यवहारांमध्ये वाढ होण्यामागील मुख्य कारण काय आहे?",
             "options": [
                 "लोकसंख्येतील घट",
                 "तंत्रज्ञानाचा वापर",
                 "निर्यात",
                 "पर्जन्यमान पातळी"
             ],
-            "answer": "तंत्रज्ञानाचा वापर",
-            "answerno": 2
+            "question": "भारतात डिजिटल व्यवहारांमध्ये वाढ होण्यामागील मुख्य कारण काय आहे?",
+            "question_no": 9
         },
         {
+            "correct_answer": "Mistral AI",
+            "answer_no": 1,
             "date": "01-06-2026",
-            "question_no": 10,
-            "question": "'एंटरप्राइज जनरेटिव्ह AI' (Enterprise Generative AI) समाधानांसाठी TCS ने कोणत्या फ्रेंच AI स्टार्टअपशी भागीदारी केली आहे?",
             "options": [
                 "Mistral AI",
                 "DeepMind",
                 "OpenAI",
                 "Anthropic"
             ],
-            "answer": "Mistral AI",
-            "answerno": 1
+            "question": "'एंटरप्राइज जनरेटिव्ह AI' (Enterprise Generative AI) समाधानांसाठी TCS ने कोणत्या फ्रेंच AI स्टार्टअपशी भागीदारी केली आहे?",
+            "question_no": 10
         },
         {
+            "correct_answer": "संयुक्त राष्ट्रे (United Nations)",
+            "answer_no": 3,
             "date": "01-06-2026",
-            "question_no": 11,
-            "question": "हवामान बदलावर चर्चा करण्यासाठी परिषदांचे आयोजन कोणती संस्था करते?",
             "options": [
                 "WHO",
                 "WTO",
                 "संयुक्त राष्ट्रे (United Nations)",
                 "IMF"
             ],
-            "answer": "संयुक्त राष्ट्रे (United Nations)",
-            "answerno": 3
+            "question": "हवामान बदलावर चर्चा करण्यासाठी परिषदांचे आयोजन कोणती संस्था करते?",
+            "question_no": 11
         },
         {
+            "correct_answer": "Dual-Frequency Synthetic Aperture Radar (DFSAR)",
+            "answer_no": 3,
             "date": "01-06-2026",
-            "question_no": 12,
-            "question": "चंद्रयान-2 वरील कोणत्या उपकरणाद्वारे चंद्राच्या 'फौस्टिनी बेसिन'मध्ये (Faustini Basin) 'जल-बर्फा'चे (water ice) पुरावे आढळले?",
             "options": [
                 "Terrain Mapping Camera 2",
                 "Imaging Infra-Red Spectrometer (IIRS)",
                 "Dual-Frequency Synthetic Aperture Radar (DFSAR)",
                 "Chandra’s Surface Thermophysical Experiment"
             ],
-            "answer": "Dual-Frequency Synthetic Aperture Radar (DFSAR)",
-            "answerno": 3
+            "question": "चंद्रयान-2 वरील कोणत्या उपकरणाद्वारे चंद्राच्या 'फौस्टिनी बेसिन'मध्ये (Faustini Basin) 'जल-बर्फा'चे (water ice) पुरावे आढळले?",
+            "question_no": 12
         },
         {
+            "correct_answer": "४ निकष",
+            "answer_no": 2,
             "date": "01-06-2026",
-            "question_no": 13,
-            "question": "JNPA द्वारे सुरू करण्यात आलेल्या 'लॉजिस्टिक्स पोर्ट परफॉर्मन्स इंडेक्स' (LPPI) मध्ये कार्यक्षमता मोजण्यासाठी किती कार्यसंचालन निकषांचा (operational metrics) वापर केला जातो?",
             "options": [
                 "१० निकष",
                 "४ निकष",
                 "८ निकष",
                 "६ निकष"
             ],
-            "answer": "४ निकष",
-            "answerno": 2
+            "question": "JNPA द्वारे सुरू करण्यात आलेल्या 'लॉजिस्टिक्स पोर्ट परफॉर्मन्स इंडेक्स' (LPPI) मध्ये कार्यक्षमता मोजण्यासाठी किती कार्यसंचालन निकषांचा (operational metrics) वापर केला जातो?",
+            "question_no": 13
         },
         {
+            "correct_answer": "उपचारांच्या नवीन पद्धती विकसित करणे",
+            "answer_no": 2,
             "date": "01-06-2026",
-            "question_no": 14,
-            "question": "वैद्यकीय संशोधनाचे उद्दिष्ट काय आहे?",
             "options": [
                 "उद्योगाला चालना देणे",
                 "उपचारांच्या नवीन पद्धती विकसित करणे",
                 "व्यापाराला चालना देणे",
                 "पर्यटनाला चालना देणे"
             ],
-            "answer": "उपचारांच्या नवीन पद्धती विकसित करणे",
-            "answerno": 2
+            "question": "वैद्यकीय संशोधनाचे उद्दिष्ट काय आहे?",
+            "question_no": 14
         },
         {
+            "correct_answer": "सागर आकलन आराखडा (Sagar Aankalan Framework)",
+            "answer_no": 1,
             "date": "01-06-2026",
-            "question_no": 15,
-            "question": "भारतीय बंदरांचे मानांकन (benchmarking) करण्यासाठी LPPI कोणत्या आराखड्यावर आधारित विकसित करण्यात आले आहे?",
             "options": [
                 "सागर आकलन आराखडा (Sagar Aankalan Framework)",
                 "सागरमाला उपक्रम (Sagar Mala Initiative)",
                 "गती शक्ती आराखडा (Gati Shakti Framework)",
                 "मेरीटाइम इंडिया आराखडा (Maritime India Framework)"
             ],
-            "answer": "सागर आकलन आराखडा (Sagar Aankalan Framework)",
-            "answerno": 1
+            "question": "भारतीय बंदरांचे मानांकन (benchmarking) करण्यासाठी LPPI कोणत्या आराखड्यावर आधारित विकसित करण्यात आले आहे?",
+            "question_no": 15
         },
         {
+            "correct_answer": "स्मार्ट सिग्नलिंग प्रणाली",
+            "answer_no": 4,
             "date": "01-06-2026",
-            "question_no": 16,
-            "question": "भारतीय रेल्वेच्या आधुनिकीकरणामध्ये कोणत्या प्रणालीवर भर दिला जात आहे?",
             "options": [
                 "खाजगीकरण",
                 "भाडेवाढ",
                 "जुनी इंजिने (Locomotives)",
                 "स्मार्ट सिग्नलिंग प्रणाली"
             ],
-            "answer": "स्मार्ट सिग्नलिंग प्रणाली",
-            "answerno": 4
+            "question": "भारतीय रेल्वेच्या आधुनिकीकरणामध्ये कोणत्या प्रणालीवर भर दिला जात आहे?",
+            "question_no": 16
         },
         {
+            "correct_answer": "₹५,०००",
+            "answer_no": 4,
             "date": "01-06-2026",
-            "question_no": 17,
-            "question": "बँक ऑफ बडोदाच्या 'bob i Pay' ॲपवर बायोमेट्रिक प्रमाणीकरणाद्वारे केल्या जाणाऱ्या UPI व्यवहारांची कमाल मर्यादा किती आहे?",
             "options": [
                 "₹१०,०००",
                 "₹२,०००",
                 "₹१,०००",
                 "₹५,०००"
             ],
-            "answer": "₹५,०००",
-            "answerno": 4
+            "question": "बँक ऑफ बडोदाच्या 'bob i Pay' ॲपवर बायोमेट्रिक प्रमाणीकरणाद्वारे केल्या जाणाऱ्या UPI व्यवहारांची कमाल मर्यादा किती आहे?",
+            "question_no": 17
         },
         {
+            "correct_answer": "पायाभूत सुविधा",
+            "answer_no": 2,
             "date": "01-06-2026",
-            "question_no": 18,
-            "question": "महाराष्ट्रात कोणत्या क्षेत्राच्या विकासाला गती दिली जात आहे?",
             "options": [
                 "सागरी वाहतूक",
                 "पायाभूत सुविधा",
                 "विमान निर्मिती",
                 "खाणकाम"
             ],
-            "answer": "पायाभूत सुविधा",
-            "answerno": 2
+            "question": "महाराष्ट्रात कोणत्या क्षेत्राच्या विकासाला गती दिली जात आहे?",
+            "question_no": 18
         },
         {
+            "correct_answer": "पहिला",
+            "answer_no": 1,
             "date": "01-06-2026",
-            "question_no": 19,
-            "question": "जगातील दूध उत्पादक देशांमध्ये भारताचा क्रमांक कितवा आहे?",
             "options": [
                 "पहिला",
                 "चौथा",
                 "तिसरा",
                 "दुसरा"
             ],
-            "answer": "पहिला",
-            "answerno": 1
+            "question": "जगातील दूध उत्पादक देशांमध्ये भारताचा क्रमांक कितवा आहे?",
+            "question_no": 19
         },
         {
+            "correct_answer": "Artificial Intelligence (कृत्रिम बुद्धिमत्ता)",
+            "answer_no": 1,
             "date": "01-06-2026",
-            "question_no": 20,
-            "question": "AI चा पूर्ण विस्तार (Full Form) काय आहे?",
             "options": [
                 "Artificial Intelligence (कृत्रिम बुद्धिमत्ता)",
                 "Advanced Information",
                 "Automatic Internet",
                 "Artificial Internet"
             ],
-            "answer": "Artificial Intelligence (कृत्रिम बुद्धिमत्ता)",
-            "answerno": 1
+            "question": "AI चा पूर्ण विस्तार (Full Form) काय आहे?",
+            "question_no": 20
         },
         {
+            "correct_answer": "व्हाइस ॲडमिरल संजय वत्सयान",
+            "answer_no": 1,
             "date": "01-06-2026",
-            "question_no": 21,
-            "question": "भारतीय नौदलाचे 48 वे 'उप-प्रमुख' (VCNS) म्हणून अलीकडेच कोणाची नियुक्ती करण्यात आली?",
             "options": [
                 "व्हाइस ॲडमिरल संजय वत्सयान",
                 "व्हाइस ॲडमिरल आर. हरी कुमार",
                 "व्हाइस ॲडमिरल दिनेश त्रिपाठी",
                 "व्हाइस ॲडमिरल अजय कोचर"
             ],
-            "answer": "व्हाइस ॲडमिरल संजय वत्सयान",
-            "answerno": 1
+            "question": "भारतीय नौदलाचे 48 वे 'उप-प्रमुख' (VCNS) म्हणून अलीकडेच कोणाची नियुक्ती करण्यात आली?",
+            "question_no": 21
         },
         {
+            "correct_answer": "स्वच्छ ऊर्जा",
+            "answer_no": 2,
             "date": "01-06-2026",
-            "question_no": 22,
-            "question": "हरित ऊर्जा (Green Energy) म्हणजे काय?",
             "options": [
                 "अणुऊर्जा",
                 "स्वच्छ ऊर्जा",
                 "पेट्रोल ऊर्जा",
                 "कोळसा ऊर्जा"
             ],
-            "answer": "स्वच्छ ऊर्जा",
-            "answerno": 2
+            "question": "हरित ऊर्जा (Green Energy) म्हणजे काय?",
+            "question_no": 22
         },
         {
+            "correct_answer": "डिजिटल संरक्षण",
+            "answer_no": 2,
             "date": "01-06-2026",
-            "question_no": 23,
-            "question": "सायबर सुरक्षा (Cyber ​​Security) कशाशी संबंधित आहे?",
             "options": [
                 "शेती",
                 "डिजिटल संरक्षण",
                 "पर्यटन",
                 "वाहतूक"
             ],
-            "answer": "डिजिटल संरक्षण",
-            "answerno": 2
+            "question": "सायबर सुरक्षा (Cyber ​​Security) कशाशी संबंधित आहे?",
+            "question_no": 23
         },
         {
+            "correct_answer": "नारंगी रिबन",
+            "answer_no": 1,
             "date": "01-06-2026",
-            "question_no": 24,
-            "question": "'मल्टिपल स्क्लेरोसिस' (MS) जागृतीचे प्रतीक म्हणून कोणत्या रंगाच्या रिबनचा वापर केला जातो?",
             "options": [
                 "नारंगी रिबन",
                 "जांभळी रिबन",
                 "निळी रिबन",
                 "गुलाबी रिबन"
             ],
-            "answer": "नारंगी रिबन",
-            "answerno": 1
+            "question": "'मल्टिपल स्क्लेरोसिस' (MS) जागृतीचे प्रतीक म्हणून कोणत्या रंगाच्या रिबनचा वापर केला जातो?",
+            "question_no": 24
         },
         {
+            "correct_answer": "Better Never Stops",
+            "answer_no": 4,
             "date": "01-06-2026",
-            "question_no": 25,
-            "question": "श्याम श्रीनिवासन यांच्या नेतृत्वावर आधारित पुस्तकाचे शीर्षक काय आहे?",
             "options": [
                 "The Banking Transformation",
                 "Leading with Resilience",
                 "Beyond the Boardroom",
                 "Better Never Stops"
             ],
-            "answer": "Better Never Stops",
-            "answerno": 4
+            "question": "श्याम श्रीनिवासन यांच्या नेतृत्वावर आधारित पुस्तकाचे शीर्षक काय आहे?",
+            "question_no": 25
         }
-    ]
+    ],
+    "date": "01-06-2026",
+    "status": true,
+    "total_questions": 25
 }
