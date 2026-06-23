@@ -65,10 +65,13 @@
         },
         {
             "day": 22
+        },
+        {
+            "day": 23
         }
     ],
     "month": "6",
     "status": true,
-    "total": 22,
+    "total": 23,
     "year": "2026"
 }
