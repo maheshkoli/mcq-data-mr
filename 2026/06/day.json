@@ -71,10 +71,13 @@
         },
         {
             "day": 24
+        },
+        {
+            "day": 25
         }
     ],
     "month": "6",
     "status": true,
-    "total": 24,
+    "total": 25,
     "year": "2026"
 }
