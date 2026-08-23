@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "23-08-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Regarding the recent surge in India's domestic sugar prices, what is the government's official stance on its relationship with the ethanol-blending programme?",
+            "options": [
+                "The ethanol programme is the primary cause",
+                "The government officially denies any link between price spikes and ethanol diversion",
+                "Sugar prices are solely linked to export demand",
+                "Ethanol diversion is partially responsible"
+            ],
+            "correct_answer": "The government officially denies any link between price spikes and ethanol diversion",
+            "answer_no": 2
+        },
+        {
+            "question_no": 2,
+            "question": "Which of the following environmental and agricultural factors significantly contributed to the recent shortfall in India's sugar production?",
+            "options": [
+                "Extreme heatwave conditions in late spring",
+                "Excessive drought across North India",
+                "Outbreaks of Red Rot and Top Borer in major cane varieties",
+                "High soil alkalinity across Deccan states"
+            ],
+            "correct_answer": "Outbreaks of Red Rot and Top Borer in major cane varieties",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "What is the primary objective of the government's recent decision to impose stock limits on sugar dealers until November 30?",
+            "options": [
+                "To encourage farmers to store their own harvest",
+                "To boost international trade margins",
+                "To reduce the tax burden on bulk manufacturers",
+                "To prevent hoarding and artificially created supply scarcity"
+            ],
+            "correct_answer": "To prevent hoarding and artificially created supply scarcity",
+            "answer_no": 4
+        },
+        {
+            "question_no": 4,
+            "question": "Which factor distinguishes the National Population Register (NPR) from the decennial Census exercise?",
+            "options": [
+                "The NPR focuses on 'usual residents' who live in an area for at least six months",
+                "The NPR excludes children under the age of eighteen",
+                "The NPR is mandatory for every person irrespective of residence",
+                "The NPR only counts citizens"
+            ],
+            "correct_answer": "The NPR focuses on 'usual residents' who live in an area for at least six months",
+            "answer_no": 1
+        },
+        {
+            "question_no": 5,
+            "question": "Why has the inclusion of 'parental birth details' in the Census 2027 questionnaire sparked public debate?",
+            "options": [
+                "Because these questions were previously linked to citizenship verification processes",
+                "Because it duplicates information already present in passports",
+                "Because the digital portal is prone to data leaks",
+                "Because such data is irrelevant to demographics"
+            ],
+            "correct_answer": "Because these questions were previously linked to citizenship verification processes",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "Political clearance from the Ministry of External Affairs is a mandatory requirement for which of the following groups when traveling abroad?",
+            "options": [
+                "All government servants and public representatives",
+                "Only Ministers and Members of Parliament",
+                "Only high-ranking officials above the Joint Secretary level",
+                "Only officials visiting countries with poor diplomatic relations"
+            ],
+            "correct_answer": "All government servants and public representatives",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "In the context of the recent cancellation of a Chief Minister's US visit, what role does the Screening Committee of Secretaries (ScoS) play?",
+            "options": [
+                "They handle the booking of diplomatic air travel",
+                "They grant initial financial grants",
+                "They manage the schedule of official foreign events",
+                "They review and approve foreign travel proposals for high-level officials"
+            ],
+            "correct_answer": "They review and approve foreign travel proposals for high-level officials",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "Which vaccine has been recently allocated to Congo by the WHO to combat the Ebola virus?",
+            "options": [
+                "Ziviface",
+                "Ervebo",
+                "Covishield",
+                "Sputnik V"
+            ],
+            "correct_answer": "Ervebo",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "Ebola is primarily characterized by the medical term 'hemorrhagic fever' because it causes:",
+            "options": [
+                "Rapid dehydration and kidney failure",
+                "Problems with the body's clotting system and internal bleeding",
+                "Neurological impairment and paralysis",
+                "Severe respiratory distress"
+            ],
+            "correct_answer": "Problems with the body's clotting system and internal bleeding",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "What is the primary goal of the National Animal Disease Control Programme (NADCP)?",
+            "options": [
+                "To promote dairy exports globally",
+                "To mandate the use of artificial insemination",
+                "To eradicate Foot and Mouth Disease and Brucellosis",
+                "To increase the total headcount of non-bovine livestock"
+            ],
+            "correct_answer": "To eradicate Foot and Mouth Disease and Brucellosis",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "Brucellosis, a target disease of the NADCP, is notoriously difficult for farmers because it causes:",
+            "options": [
+                "Stunted growth in all newborn calves",
+                "Fever and reproductive failure, leading to abortion",
+                "Respiratory blockage in adult cattle",
+                "Loss of appetite in aging buffaloes"
+            ],
+            "correct_answer": "Fever and reproductive failure, leading to abortion",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "What primary operational capability does the newly delivered INS Mangrol offer to the Indian Navy?",
+            "options": [
+                "Global satellite signal reconnaissance",
+                "Airborne early warning and control",
+                "Anti-submarine warfare in shallow coastal waters",
+                "Long-range deep-sea ballistic defense"
+            ],
+            "correct_answer": "Anti-submarine warfare in shallow coastal waters",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "What makes INS Mangrol a notable milestone in India's naval defense journey?",
+            "options": [
+                "It was gifted by a foreign maritime ally",
+                "It is the largest destroyer commissioned this year",
+                "It is the first submarine produced in India",
+                "It features over 80% indigenous design and content"
+            ],
+            "correct_answer": "It features over 80% indigenous design and content",
+            "answer_no": 4
+        },
+        {
+            "question_no": 14,
+            "question": "Which of the following best describes the 'modal price' of a commodity?",
+            "options": [
+                "The average of the highest and lowest recorded prices",
+                "The price regulated by government legislation",
+                "The cost of production plus a fixed profit margin",
+                "The price at which most transactions occur in a market"
+            ],
+            "correct_answer": "The price at which most transactions occur in a market",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "The National Population Register update was controversial in 2020 primarily because:",
+            "options": [
+                "It was only applicable to rural population sectors",
+                "Many perceived it as a potential precursor to citizenship verification exercises",
+                "The data collection was outsourced to a foreign firm",
+                "It did not include digital literacy data"
+            ],
+            "correct_answer": "Many perceived it as a potential precursor to citizenship verification exercises",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "Which body oversees the approval of foreign trips for Members of the Lok Sabha?",
+            "options": [
+                "Department of Personnel and Training",
+                "Ministry of External Affairs",
+                "The Speaker of the Lok Sabha",
+                "Prime Minister's Office"
+            ],
+            "correct_answer": "The Speaker of the Lok Sabha",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "How does the 'recombinant' nature of the Ervebo vaccine aid in its safety profile?",
+            "options": [
+                "It uses the entire deactivated Ebola virus",
+                "It relies on plant-based biological triggers",
+                "It only utilizes a single protein from the virus, making the disease impossible",
+                "It requires multiple doses to reach full effectiveness"
+            ],
+            "correct_answer": "It only utilizes a single protein from the virus, making the disease impossible",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "Cloven-hoofed animals, the primary target of Foot and Mouth Disease (FMD), include:",
+            "options": [
+                "Only cattle and buffaloes",
+                "Only ruminants with single-chambered stomachs",
+                "Horses, donkeys, and mules",
+                "Cattle, buffaloes, sheep, goats, and pigs"
+            ],
+            "correct_answer": "Cattle, buffaloes, sheep, goats, and pigs",
+            "answer_no": 4
+        },
+        {
+            "question_no": 19,
+            "question": "In the current economic context of the sugar industry, what does the 'closing stock' indicate?",
+            "options": [
+                "Estimated leftover sugar supply at the end of the season",
+                "The quantity of sugar wasted due to spoilage",
+                "The amount of sugar kept for exports",
+                "Total sugar sold during the year"
+            ],
+            "correct_answer": "Estimated leftover sugar supply at the end of the season",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "Which feature of the ASW SWC ships ensures their effectiveness in tracking submarines?",
+            "options": [
+                "Lightweight torpedoes and shallow-water sonars",
+                "Integration with long-range aircraft",
+                "High-altitude radar arrays",
+                "Ability to stay submerged for 30 days"
+            ],
+            "correct_answer": "Lightweight torpedoes and shallow-water sonars",
+            "answer_no": 1
+        }
+    ]
+}
