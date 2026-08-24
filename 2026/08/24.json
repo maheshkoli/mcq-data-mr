@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "24-08-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which specific entity in Odisha recently received a financial boost of over Rs 400 crore for infrastructure upgrades, including dredging and bridge construction?",
+            "options": [
+                "Paradip Port Authority",
+                "Dhamra Port Company",
+                "Kolkata Port Authority",
+                "Visakhapatnam Port Authority"
+            ],
+            "correct_answer": "Paradip Port Authority",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "Under the amended Foreign Trade Policy (FTP 2023), Indian exporters can now invoice overseas sales in INR for most countries, excluding which two nations?",
+            "options": [
+                "Sri Lanka and Maldives",
+                "Pakistan and Afghanistan",
+                "Nepal and Bhutan",
+                "Bangladesh and Myanmar"
+            ],
+            "correct_answer": "Nepal and Bhutan",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "‘MALHAR 2026’, a youth-focused cultural event held in New Delhi, celebrates which genre of Indian music associated with the monsoon?",
+            "options": [
+                "Sufi",
+                "Carnatic",
+                "Folk",
+                "Classical"
+            ],
+            "correct_answer": "Classical",
+            "answer_no": 4
+        },
+        {
+            "question_no": 4,
+            "question": "The proposed National Coach Accreditation Board (NCAB) aims to standardize sports coaching in India. Who leads the task force that recommended this body?",
+            "options": [
+                "C. P. Radhakrishnan",
+                "Pullela Gopichand",
+                "Hari Ranjan Rao",
+                "Mansukh Mandaviya"
+            ],
+            "correct_answer": "Pullela Gopichand",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "Which rural-focused campaign aims to formalize enterprises and support the 'Lakhpati Didis' mission by onboarding women onto the ONDC platform?",
+            "options": [
+                "DAY-NRLM Outreach",
+                "Udyam Sakhi Initiative",
+                "Sankalp Shakti",
+                "National Campaign on Entrepreneurship-II"
+            ],
+            "correct_answer": "National Campaign on Entrepreneurship-II",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "India and Singapore are expanding their 'Comprehensive Strategic Partnership' in several key sectors. Which of the following is a focus area under their latest agreement?",
+            "options": [
+                "Textile exports",
+                "Automotive manufacturing",
+                "Semiconductors",
+                "Deep-sea mining"
+            ],
+            "correct_answer": "Semiconductors",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "What is the primary objective of the five-year supply agreement signed between the Indian Oil Corporation (IOC) and Mauritius's State Trading Corporation?",
+            "options": [
+                "Solar panel technology transfer",
+                "Coal exports for thermal plants",
+                "Natural gas pipeline infrastructure",
+                "Assured delivery of petroleum products"
+            ],
+            "correct_answer": "Assured delivery of petroleum products",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "Which financial institution partnered with the Tamil Nadu government to modernise Chennai's water supply using a ring-main system?",
+            "options": [
+                "Asian Development Bank",
+                "World Bank",
+                "International Monetary Fund",
+                "New Development Bank"
+            ],
+            "correct_answer": "Asian Development Bank",
+            "answer_no": 1
+        },
+        {
+            "question_no": 9,
+            "question": "Which fintech platform launched the 'Multi-Currency EEFC Settlement Facility' to help Indian exporters retain earnings in foreign denominations?",
+            "options": [
+                "Paytm",
+                "Instamojo",
+                "Razorpay",
+                "PhonePe"
+            ],
+            "correct_answer": "Razorpay",
+            "answer_no": 3
+        },
+        {
+            "question_no": 10,
+            "question": "Cochin Shipyard Limited recently delivered the 3rd Anti-Submarine Warfare Shallow Water Craft to the Indian Navy. What is the ship named?",
+            "options": [
+                "INS Androth",
+                "INS Anjadip",
+                "INS Mangrol",
+                "INS Amini"
+            ],
+            "correct_answer": "INS Mangrol",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "The RDE technology, recently demonstrated by D-Propulse Aerospace, offers a significant efficiency advantage over traditional jet engines by using which principle?",
+            "options": [
+                "Electro-magnetic lift",
+                "Pressure-gain combustion",
+                "Liquid-fuel cooling",
+                "Solid-state propulsion"
+            ],
+            "correct_answer": "Pressure-gain combustion",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "The late actress Sowcar Janaki, a recipient of the Padma Shri in 2022, is best remembered for her debut performance in which landmark Telugu film?",
+            "options": [
+                "Shavukaru",
+                "Samsaram",
+                "Missamma",
+                "Bangaru Papa"
+            ],
+            "correct_answer": "Shavukaru",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "August 22 is observed annually as the International Day commemorating victims of violence based on what?",
+            "options": [
+                "Race or Ethnicity",
+                "Religion or Belief",
+                "Political ideology",
+                "Gender identity"
+            ],
+            "correct_answer": "Religion or Belief",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "Himachal Pradesh is collaborating with the Indian School of Business (ISB) to unlock the potential of which specific economic sector?",
+            "options": [
+                "Tourism and Hospitality",
+                "High-altitude Agriculture",
+                "IT and Startups",
+                "Forest and Pastoral economy"
+            ],
+            "correct_answer": "Forest and Pastoral economy",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "Chhattisgarh received recognition as a high performer in logistics. Which national framework was the state strengthening through its latest MoUs with BISAG-N and NLDSL?",
+            "options": [
+                "PM GatiShakti",
+                "Startup India",
+                "Make in India",
+                "Digital India"
+            ],
+            "correct_answer": "PM GatiShakti",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "Under the new Mobile Phone Manufacturing Scheme (MPMS), how much of the incentive can Indian-owned brands earn specifically for indigenous design and R&D?",
+            "options": [
+                "1%",
+                "5%",
+                "3%",
+                "2.25%"
+            ],
+            "correct_answer": "3%",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "Which of the following describes the core allegation made in the White House report, 'The Great Transhipment Scam'?",
+            "options": [
+                "India is ignoring environmental standards",
+                "Countries are relabeling Chinese goods to bypass US tariffs",
+                "Illegal subsidies are being provided for oil exports",
+                "India is dumping cheap textiles"
+            ],
+            "correct_answer": "Countries are relabeling Chinese goods to bypass US tariffs",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "Which US legislative act would, if passed, require voters to submit proof of citizenship for registration?",
+            "options": [
+                "Voter Eligibility Act",
+                "SAVE America Act",
+                "Help America Vote Act",
+                "Elections Clause Act"
+            ],
+            "correct_answer": "SAVE America Act",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "The Election Commission of India's Special Intensive Revision (SIR) process is legally supported by what practice to purify electoral rolls?",
+            "options": [
+                "Online Aadhaar seeding only",
+                "Automatic data scrapping",
+                "Third-party audit of names",
+                "House-to-house enumeration"
+            ],
+            "correct_answer": "House-to-house enumeration",
+            "answer_no": 4
+        },
+        {
+            "question_no": 20,
+            "question": "Compared to India, which major factor makes the US electoral system decentralized according to constitutional experts?",
+            "options": [
+                "Absence of a national election authority",
+                "Compulsory postal balloting",
+                "Presidential power to override states",
+                "Electronic voting machine diversity"
+            ],
+            "correct_answer": "Absence of a national election authority",
+            "answer_no": 1
+        }
+    ]
+}
