@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "26-08-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which specific report highlighted that roughly 8.7 crore young Indians are not currently engaged in studies, work, or professional training?",
+            "options": [
+                "The Annual Status of Education Report (ASER) 2026",
+                "The Periodic Labour Force Survey (PLFS) report of 2026",
+                "A research paper by the Ministry of Education on school dropouts",
+                "A report on 'Reimagining Skilling for Viksit Bharat@ 2047' by NITI Aayog"
+            ],
+            "correct_answer": "A report on 'Reimagining Skilling for Viksit Bharat@ 2047' by NITI Aayog",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "In a strategic move to boost digital infrastructure, MeitY launched the third cohort of which program to nurture aspiring startup founders?",
+            "options": [
+                "MeitY Next-Gen Incubator",
+                "Startup India Seed Fund Scheme",
+                "GENESIS Entrepreneur-in-Residence (EIR)",
+                "Digital India Innovation Challenge"
+            ],
+            "correct_answer": "GENESIS Entrepreneur-in-Residence (EIR)",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "What primary objective drove the PNGRB to approve the development of an 1,800 km LPG pipeline network?",
+            "options": [
+                "To lower the price of cooking gas for urban households",
+                "To enhance energy supply-chain resilience and cut down road congestion",
+                "To exclusively support the 'Make in India' manufacturing sector",
+                "To replace all coal-based energy sources in the authorized six states"
+            ],
+            "correct_answer": "To enhance energy supply-chain resilience and cut down road congestion",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "The newly revamped 'Dak Sewa' application offers citizens access to postal services and language support through which platform?",
+            "options": [
+                "BHASHINI interface",
+                "Microsoft Azure AI",
+                "Google Translate API",
+                "National Language Translation Mission (NLTM)"
+            ],
+            "correct_answer": "BHASHINI interface",
+            "answer_no": 1
+        },
+        {
+            "question_no": 5,
+            "question": "Regarding the recent MoU between the Central Bureau of Narcotics (CBN) and PHARMEXCIL, which statement best reflects its purpose?",
+            "options": [
+                "To authorize foreign firms to manufacture generic medicines in India",
+                "To restrict the import of raw active pharmaceutical ingredients (APIs)",
+                "To foster legitimate drug exports while tightening the monitoring of controlled substances",
+                "To set up new drug de-addiction centers across Madhya Pradesh"
+            ],
+            "correct_answer": "To foster legitimate drug exports while tightening the monitoring of controlled substances",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "Over the past decade, how has the transaction landscape of the Unified Payments Interface (UPI) evolved in terms of sheer volume?",
+            "options": [
+                "It remained stagnant due to market saturation",
+                "It shifted focus exclusively from P2P to corporate transfers only",
+                "It has surged roughly 13,000 times since its inception in FY17",
+                "It experienced a modest two-fold increase"
+            ],
+            "correct_answer": "It has surged roughly 13,000 times since its inception in FY17",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "Which two entities have partnered to provide a financing framework for NRIs interested in FCNR deposits?",
+            "options": [
+                "HDFC Bank and Standard Chartered",
+                "Citigroup and Axis Bank",
+                "State Bank of India and Citibank",
+                "ICICI Bank and HSBC"
+            ],
+            "correct_answer": "Citigroup and Axis Bank",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "Who was crowned Miss Universe India 2026, marking a historic achievement for her home state?",
+            "options": [
+                "Kaziah Liz Mejo",
+                "Manika Vishwakarma",
+                "Anushri Satavlekar",
+                "Vaishnavi Ganesh"
+            ],
+            "correct_answer": "Kaziah Liz Mejo",
+            "answer_no": 1
+        },
+        {
+            "question_no": 9,
+            "question": "TCS recently finalized a significant acquisition of MHP, a management and IT consulting arm of which major global automotive company?",
+            "options": [
+                "Volkswagen AG",
+                "BMW AG",
+                "Mercedes-Benz Group",
+                "Porsche AG"
+            ],
+            "correct_answer": "Porsche AG",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "The 100% indigenized AK-203 'Sher' assault rifle is being manufactured in which district of Uttar Pradesh?",
+            "options": [
+                "Amethi",
+                "Kanpur",
+                "Lucknow",
+                "Noida"
+            ],
+            "correct_answer": "Amethi",
+            "answer_no": 1
+        },
+        {
+            "question_no": 11,
+            "question": "What is the key technological feature of the newly unveiled US Navy 'AIM-424 Malice' missile?",
+            "options": [
+                "A purely passive sonar-based guidance system",
+                "A manual targeting scope for ground-based operation",
+                "A two-stage rocket motor allowing for extreme long-range engagement",
+                "A single-stage solid fuel system for short-range combat"
+            ],
+            "correct_answer": "A two-stage rocket motor allowing for extreme long-range engagement",
+            "answer_no": 3
+        },
+        {
+            "question_no": 12,
+            "question": "Due to a clash with security preparations for Republic Day, the 2028 India Open Badminton Tournament has been shifted to which city?",
+            "options": [
+                "Hyderabad",
+                "Bengaluru",
+                "Mumbai",
+                "Guwahati"
+            ],
+            "correct_answer": "Guwahati",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "The late cricketer Karn Sharma is noted for achieving what unique feat in the history of the Indian Premier League?",
+            "options": [
+                "Holding the record for the most runs in a single season",
+                "Winning four titles including a rare three-peat with three different franchises",
+                "Captaining three different teams to victory in the same year",
+                "Bowling the highest number of maiden overs in T20 cricket"
+            ],
+            "correct_answer": "Winning four titles including a rare three-peat with three different franchises",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "In his new book 'Africa Before America', Dr. Arindam Chaudhuri introduces the '1.25:1 Egalitarian Concept', which suggests what?",
+            "options": [
+                "That the world's highest-paid person should earn no more than 1.25 times the salary of the lowest-paid person",
+                "That inequality in the US is 1.25 times higher than in India",
+                "That Africa should prioritize GDP growth by 1.25 percent annually",
+                "That corporate taxes should be capped at 1.25 percent to encourage innovation"
+            ],
+            "correct_answer": "That the world's highest-paid person should earn no more than 1.25 times the salary of the lowest-paid person",
+            "answer_no": 1
+        },
+        {
+            "question_no": 15,
+            "question": "Which international body led the proclamation of August 23 as the 'International Day for the Remembrance of the Slave Trade and its Abolition'?",
+            "options": [
+                "UNICEF",
+                "UNHCR",
+                "WHO",
+                "UNESCO"
+            ],
+            "correct_answer": "UNESCO",
+            "answer_no": 4
+        },
+        {
+            "question_no": 16,
+            "question": "What is the primary target demographic for the 'Bidesh Sikhyabruti' scheme recently launched by Odisha?",
+            "options": [
+                "General category engineering students only",
+                "SC/ST students seeking to pursue higher education abroad",
+                "Post-graduate teachers moving for specialized training",
+                "Sports persons interested in training at foreign academies"
+            ],
+            "correct_answer": "SC/ST students seeking to pursue higher education abroad",
+            "answer_no": 2
+        },
+        {
+            "question_no": 17,
+            "question": "As part of their new cooperation, the Yamanashi Prefecture of Japan and the Uttar Pradesh government are focusing on establishing what type of centers in Noida?",
+            "options": [
+                "Agricultural training centers",
+                "Cultural heritage museums",
+                "Global Capability Centres (GCCs)",
+                "Marine biology research labs"
+            ],
+            "correct_answer": "Global Capability Centres (GCCs)",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "Regarding the recent updates to Press Note 3, under what specific condition can entities from land-bordering countries invest through the automatic route?",
+            "options": [
+                "If they possess less than 10% ownership in the firm",
+                "If they hold a 100% majority stake in the venture",
+                "If the entity is headquartered in a neutral third-party country",
+                "If they have government approval for only the first year of operation"
+            ],
+            "correct_answer": "If they possess less than 10% ownership in the firm",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "Which concept serves as a more comprehensive measure of labor market under-utilization than the standard unemployment rate?",
+            "options": [
+                "Gross Domestic Product (GDP)",
+                "Purchasing Power Parity (PPP)",
+                "Human Development Index (HDI)",
+                "NEET (Not in Education, Employment, or Training)"
+            ],
+            "correct_answer": "NEET (Not in Education, Employment, or Training)",
+            "answer_no": 4
+        },
+        {
+            "question_no": 20,
+            "question": "Why is the Vaishya Tekri site in Ujjain considered significant by modern researchers examining the Mauryan period?",
+            "options": [
+                "Because it is the only site in India where punch-marked coins are found",
+                "Because it represents an opportunity to investigate Ashoka's viceroyalty in Avanti",
+                "Because it serves as a modern capital for the State Archaeological Department",
+                "Because it is the site where Ashoka's edicts were first translated into English"
+            ],
+            "correct_answer": "Because it represents an opportunity to investigate Ashoka's viceroyalty in Avanti",
+            "answer_no": 2
+        }
+    ]
+}
