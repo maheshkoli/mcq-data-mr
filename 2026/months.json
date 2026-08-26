@@ -1,8 +1,12 @@
 {
     "status": true,
     "year": "2026",
-    "total": 1,
+    "total": 2,
     "data": [
+        {
+            "month_no": 7,
+            "month_name": "July"
+        },
         {
             "month_no": 8,
             "month_name": "August"
