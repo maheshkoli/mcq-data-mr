@@ -5,242 +5,242 @@
     "data": [
         {
             "question_no": 1,
-            "question": "Regarding the recent surge in India's domestic sugar prices, what is the government's official stance on its relationship with the ethanol-blending programme?",
+            "question": "भारतातील देशांतर्गत साखरेच्या किमतीत अलीकडच्या वाढीबाबत, इथेनॉल-मिश्रण कार्यक्रमाशी संबंधित असलेल्या सरकारची अधिकृत भूमिका काय आहे?",
             "options": [
-                "The ethanol programme is the primary cause",
-                "The government officially denies any link between price spikes and ethanol diversion",
-                "Sugar prices are solely linked to export demand",
-                "Ethanol diversion is partially responsible"
+                "इथेनॉल प्रोग्राम हे प्राथमिक कारण आहे",
+                "सरकार अधिकृतपणे किंमत वाढ आणि इथेनॉल वळव यांच्यातील कोणताही संबंध नाकारते",
+                "साखरेच्या किमती केवळ निर्यात मागणीशी निगडीत आहेत",
+                "इथेनॉल वळवणे अंशतः जबाबदार आहे"
             ],
-            "correct_answer": "The government officially denies any link between price spikes and ethanol diversion",
+            "correct_answer": "सरकार अधिकृतपणे किंमत वाढ आणि इथेनॉल वळव यांच्यातील कोणताही संबंध नाकारते",
             "answer_no": 2
         },
         {
             "question_no": 2,
-            "question": "Which of the following environmental and agricultural factors significantly contributed to the recent shortfall in India's sugar production?",
+            "question": "भारतातील साखर उत्पादनात अलीकडच्या काळात झालेल्या कमतरतेमध्ये खालीलपैकी कोणत्या पर्यावरणीय आणि कृषी घटकांनी महत्त्वपूर्ण योगदान दिले?",
             "options": [
-                "Extreme heatwave conditions in late spring",
-                "Excessive drought across North India",
-                "Outbreaks of Red Rot and Top Borer in major cane varieties",
-                "High soil alkalinity across Deccan states"
+                "वसंत ऋतूच्या उत्तरार्धात अत्यंत उष्णतेच्या लाटेची परिस्थिती",
+                "संपूर्ण उत्तर भारतात अति दुष्काळ",
+                "उसाच्या प्रमुख जातींमध्ये रेड रॉट आणि टॉप बोअररचा प्रादुर्भाव",
+                "संपूर्ण डेक्कन राज्यांमध्ये मातीची उच्च क्षारता"
             ],
-            "correct_answer": "Outbreaks of Red Rot and Top Borer in major cane varieties",
+            "correct_answer": "उसाच्या प्रमुख जातींमध्ये रेड रॉट आणि टॉप बोअररचा प्रादुर्भाव",
             "answer_no": 3
         },
         {
             "question_no": 3,
-            "question": "What is the primary objective of the government's recent decision to impose stock limits on sugar dealers until November 30?",
+            "question": "साखर विक्रेत्यांवर 30 नोव्हेंबरपर्यंत साठा मर्यादा लागू करण्याच्या सरकारच्या अलीकडील निर्णयाचे प्राथमिक उद्दिष्ट काय आहे?",
             "options": [
-                "To encourage farmers to store their own harvest",
-                "To boost international trade margins",
-                "To reduce the tax burden on bulk manufacturers",
-                "To prevent hoarding and artificially created supply scarcity"
+                "शेतकऱ्यांना स्वतःचे पीक साठवण्यासाठी प्रोत्साहित करणे",
+                "आंतरराष्ट्रीय व्यापार मार्जिन वाढवण्यासाठी",
+                "मोठ्या प्रमाणात उत्पादकांवरील कराचा बोजा कमी करणे",
+                "साठेबाजी आणि कृत्रिमरीत्या निर्माण झालेली पुरवठा टंचाई रोखण्यासाठी"
             ],
-            "correct_answer": "To prevent hoarding and artificially created supply scarcity",
+            "correct_answer": "साठेबाजी आणि कृत्रिमरीत्या निर्माण झालेली पुरवठा टंचाई रोखण्यासाठी",
             "answer_no": 4
         },
         {
             "question_no": 4,
-            "question": "Which factor distinguishes the National Population Register (NPR) from the decennial Census exercise?",
+            "question": "कोणता घटक राष्ट्रीय लोकसंख्या नोंदणी (NPR) ला दशवार्षिक जनगणना अभ्यासापेक्षा वेगळे करतो?",
             "options": [
-                "The NPR focuses on 'usual residents' who live in an area for at least six months",
-                "The NPR excludes children under the age of eighteen",
-                "The NPR is mandatory for every person irrespective of residence",
-                "The NPR only counts citizens"
+                "एनपीआर 'सामान्य रहिवाशांवर' लक्ष केंद्रित करते जे कमीत कमी सहा महिने एखाद्या भागात राहतात",
+                "NPR मध्ये अठरा वर्षांखालील मुलांना वगळण्यात आले आहे",
+                "निवासस्थानाची पर्वा न करता प्रत्येक व्यक्तीसाठी एनपीआर अनिवार्य आहे",
+                "NPR फक्त नागरिकांची गणना करते"
             ],
-            "correct_answer": "The NPR focuses on 'usual residents' who live in an area for at least six months",
+            "correct_answer": "एनपीआर 'सामान्य रहिवाशांवर' लक्ष केंद्रित करते जे कमीत कमी सहा महिने एखाद्या भागात राहतात",
             "answer_no": 1
         },
         {
             "question_no": 5,
-            "question": "Why has the inclusion of 'parental birth details' in the Census 2027 questionnaire sparked public debate?",
+            "question": "जनगणना 2027 प्रश्नावलीमध्ये 'पालकांच्या जन्माचा तपशील' समाविष्ट केल्याने सार्वजनिक चर्चेला का उधाण आले आहे?",
             "options": [
-                "Because these questions were previously linked to citizenship verification processes",
-                "Because it duplicates information already present in passports",
-                "Because the digital portal is prone to data leaks",
-                "Because such data is irrelevant to demographics"
+                "कारण हे प्रश्न पूर्वी नागरिकत्व पडताळणी प्रक्रियेशी जोडलेले होते",
+                "कारण ते पासपोर्टमध्ये आधीपासून असलेल्या माहितीची नक्कल करते",
+                "कारण डिजिटल पोर्टल डेटा लीक होण्याची शक्यता असते",
+                "कारण असा डेटा लोकसंख्याशास्त्राशी अप्रासंगिक आहे"
             ],
-            "correct_answer": "Because these questions were previously linked to citizenship verification processes",
+            "correct_answer": "कारण हे प्रश्न पूर्वी नागरिकत्व पडताळणी प्रक्रियेशी जोडलेले होते",
             "answer_no": 1
         },
         {
             "question_no": 6,
-            "question": "Political clearance from the Ministry of External Affairs is a mandatory requirement for which of the following groups when traveling abroad?",
+            "question": "परदेशात प्रवास करताना खालीलपैकी कोणत्या गटासाठी परराष्ट्र मंत्रालयाकडून राजकीय मंजुरी घेणे अनिवार्य आहे?",
             "options": [
-                "All government servants and public representatives",
-                "Only Ministers and Members of Parliament",
-                "Only high-ranking officials above the Joint Secretary level",
-                "Only officials visiting countries with poor diplomatic relations"
+                "सर्व सरकारी कर्मचारी आणि लोकप्रतिनिधी",
+                "फक्त मंत्री आणि खासदार",
+                "केवळ सहसचिव स्तरावरील उच्चपदस्थ अधिकारी",
+                "केवळ खराब राजनैतिक संबंध असलेल्या देशांना भेट देणारे अधिकारी"
             ],
-            "correct_answer": "All government servants and public representatives",
+            "correct_answer": "सर्व सरकारी कर्मचारी आणि लोकप्रतिनिधी",
             "answer_no": 1
         },
         {
             "question_no": 7,
-            "question": "In the context of the recent cancellation of a Chief Minister's US visit, what role does the Screening Committee of Secretaries (ScoS) play?",
+            "question": "मुख्यमंत्र्यांचा नुकताच अमेरिकेचा दौरा रद्द झाल्याच्या संदर्भात, सचिवांची स्क्रीनिंग कमिटी (ScoS) काय भूमिका बजावते?",
             "options": [
-                "They handle the booking of diplomatic air travel",
-                "They grant initial financial grants",
-                "They manage the schedule of official foreign events",
-                "They review and approve foreign travel proposals for high-level officials"
+                "ते राजनैतिक हवाई प्रवासाचे बुकिंग हाताळतात",
+                "ते प्रारंभिक आर्थिक अनुदान देतात",
+                "ते अधिकृत परदेशी कार्यक्रमांचे वेळापत्रक व्यवस्थापित करतात",
+                "ते उच्चस्तरीय अधिकाऱ्यांसाठी परदेश प्रवासाच्या प्रस्तावांचे पुनरावलोकन करतात आणि मंजूर करतात"
             ],
-            "correct_answer": "They review and approve foreign travel proposals for high-level officials",
+            "correct_answer": "ते उच्चस्तरीय अधिकाऱ्यांसाठी परदेश प्रवासाच्या प्रस्तावांचे पुनरावलोकन करतात आणि मंजूर करतात",
             "answer_no": 4
         },
         {
             "question_no": 8,
-            "question": "Which vaccine has been recently allocated to Congo by the WHO to combat the Ebola virus?",
+            "question": "इबोला विषाणूचा सामना करण्यासाठी WHO ने अलीकडेच काँगोला कोणती लस दिली आहे?",
             "options": [
-                "Ziviface",
-                "Ervebo",
-                "Covishield",
-                "Sputnik V"
+                "झिव्हिफेस",
+                "एरवेबो",
+                "कोविशील्ड",
+                "स्पुतनिक व्ही"
             ],
-            "correct_answer": "Ervebo",
+            "correct_answer": "एरवेबो",
             "answer_no": 2
         },
         {
             "question_no": 9,
-            "question": "Ebola is primarily characterized by the medical term 'hemorrhagic fever' because it causes:",
+            "question": "इबोला हे प्रामुख्याने वैद्यकीय संज्ञा 'रक्तस्रावी ताप' द्वारे दर्शविले जाते कारण यामुळे:",
             "options": [
-                "Rapid dehydration and kidney failure",
-                "Problems with the body's clotting system and internal bleeding",
-                "Neurological impairment and paralysis",
-                "Severe respiratory distress"
+                "जलद निर्जलीकरण आणि मूत्रपिंड निकामी होणे",
+                "शरीराच्या गोठण्याची प्रणाली आणि अंतर्गत रक्तस्त्राव सह समस्या",
+                "न्यूरोलॉजिकल कमजोरी आणि अर्धांगवायू",
+                "तीव्र श्वसन त्रास"
             ],
-            "correct_answer": "Problems with the body's clotting system and internal bleeding",
+            "correct_answer": "शरीराच्या गोठण्याची प्रणाली आणि अंतर्गत रक्तस्त्राव सह समस्या",
             "answer_no": 2
         },
         {
             "question_no": 10,
-            "question": "What is the primary goal of the National Animal Disease Control Programme (NADCP)?",
+            "question": "राष्ट्रीय प्राणी रोग नियंत्रण कार्यक्रम (NADCP) चे प्राथमिक उद्दिष्ट काय आहे?",
             "options": [
-                "To promote dairy exports globally",
-                "To mandate the use of artificial insemination",
-                "To eradicate Foot and Mouth Disease and Brucellosis",
-                "To increase the total headcount of non-bovine livestock"
+                "जागतिक स्तरावर दुग्धजन्य पदार्थांच्या निर्यातीला प्रोत्साहन देण्यासाठी",
+                "कृत्रिम रेतनाचा वापर अनिवार्य करणे",
+                "पाय आणि तोंड रोग आणि ब्रुसेलोसिस नष्ट करण्यासाठी",
+                "गोवंश नसलेल्या पशुधनाची एकूण संख्या वाढवणे"
             ],
-            "correct_answer": "To eradicate Foot and Mouth Disease and Brucellosis",
+            "correct_answer": "पाय आणि तोंड रोग आणि ब्रुसेलोसिस नष्ट करण्यासाठी",
             "answer_no": 3
         },
         {
             "question_no": 11,
-            "question": "Brucellosis, a target disease of the NADCP, is notoriously difficult for farmers because it causes:",
+            "question": "ब्रुसेलोसिस, एनएडीसीपीचा एक लक्ष्यित रोग, शेतकऱ्यांसाठी कुख्यातपणे कठीण आहे कारण यामुळे:",
             "options": [
-                "Stunted growth in all newborn calves",
-                "Fever and reproductive failure, leading to abortion",
-                "Respiratory blockage in adult cattle",
-                "Loss of appetite in aging buffaloes"
+                "सर्व नवजात वासरांची वाढ खुंटली",
+                "ताप आणि पुनरुत्पादक अपयश, ज्यामुळे गर्भपात होतो",
+                "प्रौढ गुरांमध्ये श्वसनास अडथळा",
+                "वृद्ध म्हशींमध्ये भूक न लागणे"
             ],
-            "correct_answer": "Fever and reproductive failure, leading to abortion",
+            "correct_answer": "ताप आणि पुनरुत्पादक अपयश, ज्यामुळे गर्भपात होतो",
             "answer_no": 2
         },
         {
             "question_no": 12,
-            "question": "What primary operational capability does the newly delivered INS Mangrol offer to the Indian Navy?",
+            "question": "भारतीय नौदलाला नव्याने वितरित करण्यात आलेली INS मंगरोल कोणती प्राथमिक परिचालन क्षमता प्रदान करते?",
             "options": [
-                "Global satellite signal reconnaissance",
-                "Airborne early warning and control",
-                "Anti-submarine warfare in shallow coastal waters",
-                "Long-range deep-sea ballistic defense"
+                "ग्लोबल सॅटेलाइट सिग्नल टोही",
+                "एअरबोर्न लवकर चेतावणी आणि नियंत्रण",
+                "उथळ किनारपट्टीच्या पाण्यात पाणबुडीविरोधी युद्ध",
+                "लांब पल्ल्याच्या खोल समुद्रातील बॅलिस्टिक संरक्षण"
             ],
-            "correct_answer": "Anti-submarine warfare in shallow coastal waters",
+            "correct_answer": "उथळ किनारपट्टीच्या पाण्यात पाणबुडीविरोधी युद्ध",
             "answer_no": 3
         },
         {
             "question_no": 13,
-            "question": "What makes INS Mangrol a notable milestone in India's naval defense journey?",
+            "question": "भारताच्या नौदल संरक्षण प्रवासातील आयएनएस मंगरूळ हा एक महत्त्वाचा टप्पा कशामुळे आहे?",
             "options": [
-                "It was gifted by a foreign maritime ally",
-                "It is the largest destroyer commissioned this year",
-                "It is the first submarine produced in India",
-                "It features over 80% indigenous design and content"
+                "हे परदेशी सागरी मित्राने भेट दिले होते",
+                "यावर्षी सुरू करण्यात आलेला हा सर्वात मोठा विनाशक आहे",
+                "भारतात उत्पादित झालेली ही पहिली पाणबुडी आहे",
+                "यात 80% पेक्षा जास्त देशी रचना आणि सामग्री आहे"
             ],
-            "correct_answer": "It features over 80% indigenous design and content",
+            "correct_answer": "यात 80% पेक्षा जास्त देशी रचना आणि सामग्री आहे",
             "answer_no": 4
         },
         {
             "question_no": 14,
-            "question": "Which of the following best describes the 'modal price' of a commodity?",
+            "question": "खालीलपैकी कोणते वस्तूच्या 'मोडल किंमतीचे' उत्तम वर्णन करते?",
             "options": [
-                "The average of the highest and lowest recorded prices",
-                "The price regulated by government legislation",
-                "The cost of production plus a fixed profit margin",
-                "The price at which most transactions occur in a market"
+                "सर्वोच्च आणि सर्वात कमी नोंदवलेल्या किमतींची सरासरी",
+                "सरकारी कायद्याद्वारे नियमन केलेली किंमत",
+                "उत्पादन खर्च आणि निश्चित नफा मार्जिन",
+                "बाजारामध्ये ज्या किंमतीला सर्वाधिक व्यवहार होतात"
             ],
-            "correct_answer": "The price at which most transactions occur in a market",
+            "correct_answer": "बाजारामध्ये ज्या किंमतीला सर्वाधिक व्यवहार होतात",
             "answer_no": 4
         },
         {
             "question_no": 15,
-            "question": "The National Population Register update was controversial in 2020 primarily because:",
+            "question": "राष्ट्रीय लोकसंख्या नोंदणी अद्यतन 2020 मध्ये वादग्रस्त होते कारण:",
             "options": [
-                "It was only applicable to rural population sectors",
-                "Many perceived it as a potential precursor to citizenship verification exercises",
-                "The data collection was outsourced to a foreign firm",
-                "It did not include digital literacy data"
+                "हे फक्त ग्रामीण लोकसंख्येच्या क्षेत्रांना लागू होते",
+                "बऱ्याच जणांनी हे नागरिकत्व पडताळणी व्यायामाचे संभाव्य अग्रदूत मानले",
+                "डेटा कलेक्शन एका परदेशी फर्मला आउटसोर्स करण्यात आला होता",
+                "त्यात डिजिटल साक्षरता डेटा समाविष्ट नव्हता"
             ],
-            "correct_answer": "Many perceived it as a potential precursor to citizenship verification exercises",
+            "correct_answer": "बऱ्याच जणांनी हे नागरिकत्व पडताळणी व्यायामाचे संभाव्य अग्रदूत मानले",
             "answer_no": 2
         },
         {
             "question_no": 16,
-            "question": "Which body oversees the approval of foreign trips for Members of the Lok Sabha?",
+            "question": "लोकसभेच्या सदस्यांच्या परदेश दौऱ्यांच्या मान्यतेवर कोणती संस्था देखरेख करते?",
             "options": [
-                "Department of Personnel and Training",
-                "Ministry of External Affairs",
-                "The Speaker of the Lok Sabha",
-                "Prime Minister's Office"
+                "कार्मिक आणि प्रशिक्षण विभाग",
+                "परराष्ट्र मंत्रालय",
+                "लोकसभेचे अध्यक्ष",
+                "पंतप्रधान कार्यालय"
             ],
-            "correct_answer": "The Speaker of the Lok Sabha",
+            "correct_answer": "लोकसभेचे अध्यक्ष",
             "answer_no": 3
         },
         {
             "question_no": 17,
-            "question": "How does the 'recombinant' nature of the Ervebo vaccine aid in its safety profile?",
+            "question": "एरवेबो लसीचे 'रिकॉम्बिनंट' स्वरूप त्याच्या सुरक्षितता प्रोफाइलमध्ये कसे मदत करते?",
             "options": [
-                "It uses the entire deactivated Ebola virus",
-                "It relies on plant-based biological triggers",
-                "It only utilizes a single protein from the virus, making the disease impossible",
-                "It requires multiple doses to reach full effectiveness"
+                "हे संपूर्ण निष्क्रिय इबोला विषाणू वापरते",
+                "हे वनस्पती-आधारित जैविक ट्रिगर्सवर अवलंबून असते",
+                "हे विषाणूपासून केवळ एकच प्रथिने वापरते, ज्यामुळे रोग अशक्य होतो",
+                "पूर्ण परिणामकारकतेपर्यंत पोहोचण्यासाठी अनेक डोस आवश्यक आहेत"
             ],
-            "correct_answer": "It only utilizes a single protein from the virus, making the disease impossible",
+            "correct_answer": "हे विषाणूपासून केवळ एकच प्रथिने वापरते, ज्यामुळे रोग अशक्य होतो",
             "answer_no": 3
         },
         {
             "question_no": 18,
-            "question": "Cloven-hoofed animals, the primary target of Foot and Mouth Disease (FMD), include:",
+            "question": "पाय आणि तोंड रोग (FMD) चे प्राथमिक लक्ष्य, क्लोव्हन-हूफड प्राणी, यांचा समावेश होतो:",
             "options": [
-                "Only cattle and buffaloes",
-                "Only ruminants with single-chambered stomachs",
-                "Horses, donkeys, and mules",
-                "Cattle, buffaloes, sheep, goats, and pigs"
+                "फक्त गाई-म्हशी",
+                "एकल-चेंबर केलेले पोट असलेले फक्त ruminants",
+                "घोडे, गाढवे आणि खेचर",
+                "गुरे, म्हशी, मेंढ्या, शेळ्या आणि डुक्कर"
             ],
-            "correct_answer": "Cattle, buffaloes, sheep, goats, and pigs",
+            "correct_answer": "गुरे, म्हशी, मेंढ्या, शेळ्या आणि डुक्कर",
             "answer_no": 4
         },
         {
             "question_no": 19,
-            "question": "In the current economic context of the sugar industry, what does the 'closing stock' indicate?",
+            "question": "साखर उद्योगाच्या सध्याच्या आर्थिक संदर्भात, 'क्लोजिंग स्टॉक' काय सूचित करतो?",
             "options": [
-                "Estimated leftover sugar supply at the end of the season",
-                "The quantity of sugar wasted due to spoilage",
-                "The amount of sugar kept for exports",
-                "Total sugar sold during the year"
+                "हंगामाच्या शेवटी उरलेल्या साखरेचा अंदाज",
+                "साखरेचे प्रमाण खराब झाल्याने वाया जाते",
+                "निर्यातीसाठी ठेवलेल्या साखरेचे प्रमाण",
+                "वर्षभरात एकूण साखर विकली"
             ],
-            "correct_answer": "Estimated leftover sugar supply at the end of the season",
+            "correct_answer": "हंगामाच्या शेवटी उरलेल्या साखरेचा अंदाज",
             "answer_no": 1
         },
         {
             "question_no": 20,
-            "question": "Which feature of the ASW SWC ships ensures their effectiveness in tracking submarines?",
+            "question": "ASW SWC जहाजांचे कोणते वैशिष्ट्य पाणबुड्यांचा मागोवा घेण्यासाठी त्यांची प्रभावीता सुनिश्चित करते?",
             "options": [
-                "Lightweight torpedoes and shallow-water sonars",
-                "Integration with long-range aircraft",
-                "High-altitude radar arrays",
-                "Ability to stay submerged for 30 days"
+                "हलक्या वजनाचे टॉर्पेडो आणि उथळ पाण्याचे सोनार",
+                "लांब पल्ल्याच्या विमानासह एकत्रीकरण",
+                "उच्च-उंची रडार ॲरे",
+                "30 दिवस पाण्याखाली राहण्याची क्षमता"
             ],
-            "correct_answer": "Lightweight torpedoes and shallow-water sonars",
+            "correct_answer": "हलक्या वजनाचे टॉर्पेडो आणि उथळ पाण्याचे सोनार",
             "answer_no": 1
         }
     ]
