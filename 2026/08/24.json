@@ -5,242 +5,242 @@
     "data": [
         {
             "question_no": 1,
-            "question": "Which specific entity in Odisha recently received a financial boost of over Rs 400 crore for infrastructure upgrades, including dredging and bridge construction?",
+            "question": "ओडिशातील कोणत्या विशिष्ट घटकाला अलीकडेच ड्रेझिंग आणि पूल बांधणीसह पायाभूत सुविधांच्या सुधारणांसाठी 400 कोटी रुपयांहून अधिक आर्थिक प्रोत्साहन मिळाले?",
             "options": [
-                "Paradip Port Authority",
-                "Dhamra Port Company",
-                "Kolkata Port Authority",
-                "Visakhapatnam Port Authority"
+                "पारादीप बंदर प्राधिकरण",
+                "धामरा पोर्ट कंपनी",
+                "कोलकाता बंदर प्राधिकरण",
+                "विशाखापट्टणम बंदर प्राधिकरण"
             ],
-            "correct_answer": "Paradip Port Authority",
+            "correct_answer": "पारादीप बंदर प्राधिकरण",
             "answer_no": 1
         },
         {
             "question_no": 2,
-            "question": "Under the amended Foreign Trade Policy (FTP 2023), Indian exporters can now invoice overseas sales in INR for most countries, excluding which two nations?",
+            "question": "सुधारित परकीय व्यापार धोरण (FTP 2023) अंतर्गत, भारतीय निर्यातदार आता कोणत्या दोन देशांना वगळून बहुतेक देशांसाठी INR मध्ये परदेशात विक्रीचे बीजक करू शकतात?",
             "options": [
-                "Sri Lanka and Maldives",
-                "Pakistan and Afghanistan",
-                "Nepal and Bhutan",
-                "Bangladesh and Myanmar"
+                "श्रीलंका आणि मालदीव",
+                "पाकिस्तान आणि अफगाणिस्तान",
+                "नेपाळ आणि भूतान",
+                "बांगलादेश आणि म्यानमार"
             ],
-            "correct_answer": "Nepal and Bhutan",
+            "correct_answer": "नेपाळ आणि भूतान",
             "answer_no": 3
         },
         {
             "question_no": 3,
-            "question": "‘MALHAR 2026’, a youth-focused cultural event held in New Delhi, celebrates which genre of Indian music associated with the monsoon?",
+            "question": "‘मल्हार 2026’, नवी दिल्ली येथे आयोजित करण्यात आलेला तरुण-केंद्रित सांस्कृतिक कार्यक्रम, मान्सूनशी संबंधित भारतीय संगीताच्या कोणत्या शैलीचा उत्सव साजरा करतो?",
             "options": [
-                "Sufi",
-                "Carnatic",
-                "Folk",
-                "Classical"
+                "सुफी",
+                "कर्नाटक",
+                "लोक",
+                "शास्त्रीय"
             ],
-            "correct_answer": "Classical",
+            "correct_answer": "शास्त्रीय",
             "answer_no": 4
         },
         {
             "question_no": 4,
-            "question": "The proposed National Coach Accreditation Board (NCAB) aims to standardize sports coaching in India. Who leads the task force that recommended this body?",
+            "question": "प्रस्तावित राष्ट्रीय प्रशिक्षक मान्यता मंडळ (NCAB) चे भारतातील क्रीडा प्रशिक्षणाचे प्रमाणीकरण करण्याचे उद्दिष्ट आहे. या संस्थेची शिफारस करणाऱ्या टास्क फोर्सचे नेतृत्व कोण करते?",
             "options": [
-                "C. P. Radhakrishnan",
-                "Pullela Gopichand",
-                "Hari Ranjan Rao",
-                "Mansukh Mandaviya"
+                "सी. पी. राधाकृष्णन",
+                "पुलेला गोपीचंद",
+                "हरी रंजन राव",
+                "मनसुख मांडविया"
             ],
-            "correct_answer": "Pullela Gopichand",
+            "correct_answer": "पुलेला गोपीचंद",
             "answer_no": 2
         },
         {
             "question_no": 5,
-            "question": "Which rural-focused campaign aims to formalize enterprises and support the 'Lakhpati Didis' mission by onboarding women onto the ONDC platform?",
+            "question": "कोणत्या ग्रामीण-केंद्रित मोहिमेचे उद्दिष्ट उद्योगांना औपचारिक करणे आणि महिलांना ONDC प्लॅटफॉर्मवर ऑनबोर्ड करून 'लखपती दीदी' मिशनला पाठिंबा देणे आहे?",
             "options": [
-                "DAY-NRLM Outreach",
-                "Udyam Sakhi Initiative",
-                "Sankalp Shakti",
-                "National Campaign on Entrepreneurship-II"
+                "DAY-NRLM आउटरीच",
+                "उद्यम सखी उपक्रम",
+                "संकल्प शक्ती",
+                "राष्ट्रीय उद्योजकता मोहीम-II"
             ],
-            "correct_answer": "National Campaign on Entrepreneurship-II",
+            "correct_answer": "राष्ट्रीय उद्योजकता मोहीम-II",
             "answer_no": 4
         },
         {
             "question_no": 6,
-            "question": "India and Singapore are expanding their 'Comprehensive Strategic Partnership' in several key sectors. Which of the following is a focus area under their latest agreement?",
+            "question": "भारत आणि सिंगापूर अनेक प्रमुख क्षेत्रांमध्ये त्यांची 'सर्वसमावेशक धोरणात्मक भागीदारी' वाढवत आहेत. त्यांच्या नवीनतम कराराअंतर्गत खालीलपैकी कोणते फोकस क्षेत्र आहे?",
             "options": [
-                "Textile exports",
-                "Automotive manufacturing",
-                "Semiconductors",
-                "Deep-sea mining"
+                "कापड निर्यात",
+                "ऑटोमोटिव्ह उत्पादन",
+                "सेमीकंडक्टर",
+                "खोल समुद्रातील खाण"
             ],
-            "correct_answer": "Semiconductors",
+            "correct_answer": "सेमीकंडक्टर",
             "answer_no": 3
         },
         {
             "question_no": 7,
-            "question": "What is the primary objective of the five-year supply agreement signed between the Indian Oil Corporation (IOC) and Mauritius's State Trading Corporation?",
+            "question": "इंडियन ऑइल कॉर्पोरेशन (IOC) आणि मॉरिशसचे स्टेट ट्रेडिंग कॉर्पोरेशन यांच्यात झालेल्या पाच वर्षांच्या पुरवठा कराराचे प्राथमिक उद्दिष्ट काय आहे?",
             "options": [
-                "Solar panel technology transfer",
-                "Coal exports for thermal plants",
-                "Natural gas pipeline infrastructure",
-                "Assured delivery of petroleum products"
+                "सौर पॅनेल तंत्रज्ञान हस्तांतरण",
+                "थर्मल प्लांटसाठी कोळसा निर्यात",
+                "नैसर्गिक वायू पाइपलाइन पायाभूत सुविधा",
+                "पेट्रोलियम उत्पादनांची खात्रीशीर वितरण"
             ],
-            "correct_answer": "Assured delivery of petroleum products",
+            "correct_answer": "पेट्रोलियम उत्पादनांची खात्रीशीर वितरण",
             "answer_no": 4
         },
         {
             "question_no": 8,
-            "question": "Which financial institution partnered with the Tamil Nadu government to modernise Chennai's water supply using a ring-main system?",
+            "question": "रिंग-मेन सिस्टीम वापरून चेन्नईच्या पाणीपुरवठ्याचे आधुनिकीकरण करण्यासाठी कोणत्या वित्तीय संस्थेने तामिळनाडू सरकारसोबत भागीदारी केली?",
             "options": [
-                "Asian Development Bank",
-                "World Bank",
-                "International Monetary Fund",
-                "New Development Bank"
+                "आशियाई विकास बँक",
+                "जागतिक बँक",
+                "आंतरराष्ट्रीय नाणेनिधी",
+                "नवीन विकास बँक"
             ],
-            "correct_answer": "Asian Development Bank",
+            "correct_answer": "आशियाई विकास बँक",
             "answer_no": 1
         },
         {
             "question_no": 9,
-            "question": "Which fintech platform launched the 'Multi-Currency EEFC Settlement Facility' to help Indian exporters retain earnings in foreign denominations?",
+            "question": "कोणत्या फिनटेक प्लॅटफॉर्मने भारतीय निर्यातदारांना विदेशी संप्रदायातील कमाई टिकवून ठेवण्यास मदत करण्यासाठी 'मल्टी-करन्सी EEFC सेटलमेंट सुविधा' सुरू केली?",
             "options": [
-                "Paytm",
-                "Instamojo",
-                "Razorpay",
-                "PhonePe"
+                "पेटीएम",
+                "इन्स्टामोजो",
+                "रेझरपे",
+                "फोनपे"
             ],
-            "correct_answer": "Razorpay",
+            "correct_answer": "रेझरपे",
             "answer_no": 3
         },
         {
             "question_no": 10,
-            "question": "Cochin Shipyard Limited recently delivered the 3rd Anti-Submarine Warfare Shallow Water Craft to the Indian Navy. What is the ship named?",
+            "question": "कोचीन शिपयार्ड लिमिटेडने अलीकडेच तिसरे पाणबुडीविरोधी युद्ध शॅलो वॉटर क्राफ्ट भारतीय नौदलाला दिले. जहाजाचे नाव काय आहे?",
             "options": [
                 "INS Androth",
-                "INS Anjadip",
-                "INS Mangrol",
-                "INS Amini"
+                "आयएनएस अंजदीप",
+                "INS मंगरूळ",
+                "आयएनएस अमिनी"
             ],
-            "correct_answer": "INS Mangrol",
+            "correct_answer": "INS मंगरूळ",
             "answer_no": 3
         },
         {
             "question_no": 11,
-            "question": "The RDE technology, recently demonstrated by D-Propulse Aerospace, offers a significant efficiency advantage over traditional jet engines by using which principle?",
+            "question": "डी-प्रोपल्स एरोस्पेसद्वारे नुकतेच प्रदर्शित केलेले RDE तंत्रज्ञान, कोणत्या तत्त्वाचा वापर करून पारंपारिक जेट इंजिनच्या तुलनेत महत्त्वपूर्ण कार्यक्षमतेचा फायदा देते?",
             "options": [
-                "Electro-magnetic lift",
-                "Pressure-gain combustion",
-                "Liquid-fuel cooling",
-                "Solid-state propulsion"
+                "इलेक्ट्रो-मॅग्नेटिक लिफ्ट",
+                "प्रेशर-गेन ज्वलन",
+                "द्रव-इंधन थंड करणे",
+                "सॉलिड-स्टेट प्रोपल्शन"
             ],
-            "correct_answer": "Pressure-gain combustion",
+            "correct_answer": "प्रेशर-गेन ज्वलन",
             "answer_no": 2
         },
         {
             "question_no": 12,
-            "question": "The late actress Sowcar Janaki, a recipient of the Padma Shri in 2022, is best remembered for her debut performance in which landmark Telugu film?",
+            "question": "2022 मध्ये पद्मश्री पुरस्कार प्राप्त दिवंगत अभिनेत्री सोवकर जानकी, कोणत्या ऐतिहासिक तेलुगू चित्रपटातील तिच्या पदार्पणाच्या अभिनयासाठी सर्वोत्कृष्टपणे लक्षात ठेवली जाते?",
             "options": [
-                "Shavukaru",
-                "Samsaram",
-                "Missamma",
-                "Bangaru Papa"
+                "शवुकरु",
+                "संसारम",
+                "मिसम्मा",
+                "बंगारू पापा"
             ],
-            "correct_answer": "Shavukaru",
+            "correct_answer": "शवुकरु",
             "answer_no": 1
         },
         {
             "question_no": 13,
-            "question": "August 22 is observed annually as the International Day commemorating victims of violence based on what?",
+            "question": "दरवर्षी 22 ऑगस्ट हा दिवस कशाच्या आधारावर हिंसाचारात बळी पडलेल्यांच्या स्मरणार्थ आंतरराष्ट्रीय दिवस म्हणून पाळला जातो?",
             "options": [
-                "Race or Ethnicity",
-                "Religion or Belief",
-                "Political ideology",
-                "Gender identity"
+                "वंश किंवा वांशिकता",
+                "धर्म किंवा श्रद्धा",
+                "राजकीय विचारधारा",
+                "लिंग ओळख"
             ],
-            "correct_answer": "Religion or Belief",
+            "correct_answer": "धर्म किंवा श्रद्धा",
             "answer_no": 2
         },
         {
             "question_no": 14,
-            "question": "Himachal Pradesh is collaborating with the Indian School of Business (ISB) to unlock the potential of which specific economic sector?",
+            "question": "हिमाचल प्रदेश कोणत्या विशिष्ट आर्थिक क्षेत्राची क्षमता अनलॉक करण्यासाठी इंडियन स्कूल ऑफ बिझनेस (ISB) सह सहयोग करत आहे?",
             "options": [
-                "Tourism and Hospitality",
-                "High-altitude Agriculture",
-                "IT and Startups",
-                "Forest and Pastoral economy"
+                "पर्यटन आणि आदरातिथ्य",
+                "उच्च उंचीची शेती",
+                "आयटी आणि स्टार्टअप्स",
+                "वन आणि खेडूत अर्थव्यवस्था"
             ],
-            "correct_answer": "Forest and Pastoral economy",
+            "correct_answer": "वन आणि खेडूत अर्थव्यवस्था",
             "answer_no": 4
         },
         {
             "question_no": 15,
-            "question": "Chhattisgarh received recognition as a high performer in logistics. Which national framework was the state strengthening through its latest MoUs with BISAG-N and NLDSL?",
+            "question": "छत्तीसगडला लॉजिस्टिकमध्ये उच्च कामगिरी करणारा म्हणून ओळख मिळाली. BISAG-N आणि NLDSL सोबत केलेल्या नवीनतम सामंजस्य कराराद्वारे राज्य कोणत्या राष्ट्रीय फ्रेमवर्कला बळकट करत आहे?",
             "options": [
-                "PM GatiShakti",
-                "Startup India",
-                "Make in India",
-                "Digital India"
+                "पीएम गतिशक्ती",
+                "स्टार्टअप इंडिया",
+                "मेक इन इंडिया",
+                "डिजिटल इंडिया"
             ],
-            "correct_answer": "PM GatiShakti",
+            "correct_answer": "पीएम गतिशक्ती",
             "answer_no": 1
         },
         {
             "question_no": 16,
-            "question": "Under the new Mobile Phone Manufacturing Scheme (MPMS), how much of the incentive can Indian-owned brands earn specifically for indigenous design and R&D?",
+            "question": "नवीन मोबाईल फोन मॅन्युफॅक्चरिंग स्कीम (MPMS) अंतर्गत, भारतीय मालकीचे ब्रँड विशेषत: स्वदेशी डिझाइन आणि R&D साठी किती प्रोत्साहन कमवू शकतात?",
             "options": [
                 "1%",
-                "5%",
-                "3%",
+                "५%",
+                "३%",
                 "2.25%"
             ],
-            "correct_answer": "3%",
+            "correct_answer": "३%",
             "answer_no": 3
         },
         {
             "question_no": 17,
-            "question": "Which of the following describes the core allegation made in the White House report, 'The Great Transhipment Scam'?",
+            "question": "'द ग्रेट ट्रान्सशिपमेंट स्कॅम' या व्हाईट हाऊसच्या अहवालात केलेल्या मूळ आरोपाचे खालीलपैकी कोणते वर्णन करते?",
             "options": [
-                "India is ignoring environmental standards",
-                "Countries are relabeling Chinese goods to bypass US tariffs",
-                "Illegal subsidies are being provided for oil exports",
-                "India is dumping cheap textiles"
+                "भारत पर्यावरणीय मानकांकडे दुर्लक्ष करत आहे",
+                "यूएस टॅरिफला बायपास करण्यासाठी देश चिनी वस्तूंना पुन्हा जोडत आहेत",
+                "तेल निर्यातीसाठी बेकायदेशीर अनुदान दिले जात आहे",
+                "भारत स्वस्त कापड टाकत आहे"
             ],
-            "correct_answer": "Countries are relabeling Chinese goods to bypass US tariffs",
+            "correct_answer": "यूएस टॅरिफला बायपास करण्यासाठी देश चिनी वस्तूंना पुन्हा जोडत आहेत",
             "answer_no": 2
         },
         {
             "question_no": 18,
-            "question": "Which US legislative act would, if passed, require voters to submit proof of citizenship for registration?",
+            "question": "कोणता यूएस विधायी कायदा मंजूर झाल्यास, मतदारांना नोंदणीसाठी नागरिकत्वाचा पुरावा सादर करणे आवश्यक आहे?",
             "options": [
-                "Voter Eligibility Act",
-                "SAVE America Act",
-                "Help America Vote Act",
-                "Elections Clause Act"
+                "मतदार पात्रता कायदा",
+                "अमेरिका कायदा वाचवा",
+                "अमेरिका मतदान कायदा मदत करा",
+                "निवडणूक कलम कायदा"
             ],
-            "correct_answer": "SAVE America Act",
+            "correct_answer": "अमेरिका कायदा वाचवा",
             "answer_no": 2
         },
         {
             "question_no": 19,
-            "question": "The Election Commission of India's Special Intensive Revision (SIR) process is legally supported by what practice to purify electoral rolls?",
+            "question": "भारतीय निवडणूक आयोगाच्या स्पेशल इंटेन्सिव्ह रिव्हिजन (SIR) प्रक्रियेला मतदार याद्या शुद्ध करण्याच्या कोणत्या पद्धतीचा कायदेशीर आधार आहे?",
             "options": [
-                "Online Aadhaar seeding only",
-                "Automatic data scrapping",
-                "Third-party audit of names",
-                "House-to-house enumeration"
+                "फक्त ऑनलाइन आधार सीडिंग",
+                "स्वयंचलित डेटा स्क्रॅपिंग",
+                "नावांचे तृतीय-पक्ष ऑडिट",
+                "घरोघरी प्रगणना"
             ],
-            "correct_answer": "House-to-house enumeration",
+            "correct_answer": "घरोघरी प्रगणना",
             "answer_no": 4
         },
         {
             "question_no": 20,
-            "question": "Compared to India, which major factor makes the US electoral system decentralized according to constitutional experts?",
+            "question": "भारताच्या तुलनेत, कोणता प्रमुख घटक घटनात्मक तज्ञांच्या मते अमेरिकन निवडणूक प्रणाली विकेंद्रित करतो?",
             "options": [
-                "Absence of a national election authority",
-                "Compulsory postal balloting",
-                "Presidential power to override states",
-                "Electronic voting machine diversity"
+                "राष्ट्रीय निवडणूक प्राधिकरणाची अनुपस्थिती",
+                "अनिवार्य पोस्टल मतदान",
+                "राज्यांना अधिग्रहित करण्याचा राष्ट्रपतींचा अधिकार",
+                "इलेक्ट्रॉनिक मतदान यंत्राची विविधता"
             ],
-            "correct_answer": "Absence of a national election authority",
+            "correct_answer": "राष्ट्रीय निवडणूक प्राधिकरणाची अनुपस्थिती",
             "answer_no": 1
         }
     ]
