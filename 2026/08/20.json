@@ -5,21 +5,21 @@
     "data": [
         {
             "question_no": 1,
-            "question": "सक्रिय कनेक्शनला चालना देण्यासाठी भारत सरकारच्या नवीन PNG प्रोत्साहन योजनेअंतर्गत सिटी गॅस डिस्ट्रिब्युशन (CGD) संस्थांना कोणते विशिष्ट प्रोत्साहन दिले जाते?",
+            "question": "Which specific incentive is offered to City Gas Distribution (CGD) entities under the GoI’s new PNG promotion scheme to boost active connections?",
             "options": [
-                "राज्यस्तरीय पाईप टाकण्याच्या शुल्कातून सूट",
-                "कमी किमतीच्या APM गॅसचे अतिरिक्त वाटप",
-                "प्रति नवीन कनेक्शन फ्लॅट रोख सबसिडी",
-                "पायाभूत सुविधांच्या खर्चावर थेट कर सुट्टी"
+                "Exemption from state-level pipe laying fees",
+                "Additional allocation of lower-priced APM gas",
+                "A flat cash subsidy per new connection",
+                "Direct tax holiday on infrastructure expenditure"
             ],
-            "correct_answer": "कमी किमतीच्या APM गॅसचे अतिरिक्त वाटप",
+            "correct_answer": "Additional allocation of lower-priced APM gas",
             "answer_no": 2
         },
         {
             "question_no": 2,
-            "question": "इलेक्ट्रॉनिक्स कॉम्पोनंट्स मॅन्युफॅक्चरिंग स्कीम (ECMS) च्या अलीकडील विस्ताराबाबत, आता एकूण किती प्रकल्पांना मंजुरी देण्यात आली आहे?",
+            "question": "Regarding the recent expansion of the Electronics Components Manufacturing Scheme (ECMS), how many total projects have now been sanctioned?",
             "options": [
-                "८६",
+                "86",
                 "106",
                 "75",
                 "125"
@@ -29,218 +29,218 @@
         },
         {
             "question_no": 3,
-            "question": "जुलै 2026 मध्ये भारताची एकूण व्यापार तूट जुलै 2025 मध्ये नोंदवलेल्या आकड्याच्या तुलनेत कशी होती?",
+            "question": "How did India's overall trade deficit in July 2026 compare to the figure recorded in July 2025?",
             "options": [
-                "उच्च सेवा निर्यातीमुळे घटली",
-                "वर्ष-दर-वर्ष सारखेच राहिले",
-                "USD 11.43 बिलियन वरून USD 15.03 बिलियन पर्यंत वाढले",
-                "लोह खनिज निर्यातीमुळे लक्षणीय सुधारणा झाली"
+                "Decreased due to higher services export",
+                "Remained identical year-on-year",
+                "Increased from USD 11.43 billion to USD 15.03 billion",
+                "Improved significantly due to Iron ore exports"
             ],
-            "correct_answer": "USD 11.43 बिलियन वरून USD 15.03 बिलियन पर्यंत वाढले",
+            "correct_answer": "Increased from USD 11.43 billion to USD 15.03 billion",
             "answer_no": 3
         },
         {
             "question_no": 4,
-            "question": "जुलै 2026 साठी PLFS बुलेटिनमध्ये कोणत्या निर्देशकाने 54.4% वरून 55.4% पर्यंत वाढ केली आहे?",
+            "question": "Which indicator saw an increase from 54.4% to 55.4% in the PLFS bulletin for July 2026?",
             "options": [
-                "सेवा क्षेत्राची वाढ",
-                "कामगार लोकसंख्येचे प्रमाण",
-                "कामगार दल सहभाग दर (LFPR)",
-                "बेरोजगारीचा दर"
+                "Services Sector Growth",
+                "Worker Population Ratio",
+                "Labour Force Participation Rate (LFPR)",
+                "Unemployment Rate"
             ],
-            "correct_answer": "कामगार दल सहभाग दर (LFPR)",
+            "correct_answer": "Labour Force Participation Rate (LFPR)",
             "answer_no": 3
         },
         {
             "question_no": 5,
-            "question": "संरक्षण मंत्रालयाने अधिसूचित केलेल्या 6व्या सकारात्मक स्वदेशीकरण यादीचे प्राथमिक उद्दिष्ट काय आहे?",
+            "question": "What is the primary objective of the 6th Positive Indigenisation List notified by the Ministry of Defence?",
             "options": [
-                "इंडो-पॅसिफिकमध्ये नवीन नौदल तळांची स्थापना",
-                "धोरणात्मक आंतरराष्ट्रीय आयातीवर वाढते अवलंबित्व",
-                "खाजगी खेळाडूंसाठी अंतराळ संशोधन खुले करणे",
-                "आयात कमी करण्यासाठी लष्करी वस्तूंच्या देशांतर्गत उत्पादनाला चालना देणे"
+                "Establishing new naval bases in the Indo-Pacific",
+                "Increasing dependency on strategic international imports",
+                "Opening up space exploration to private players",
+                "Boosting domestic manufacturing of military items to slash imports"
             ],
-            "correct_answer": "आयात कमी करण्यासाठी लष्करी वस्तूंच्या देशांतर्गत उत्पादनाला चालना देणे",
+            "correct_answer": "Boosting domestic manufacturing of military items to slash imports",
             "answer_no": 4
         },
         {
             "question_no": 6,
-            "question": "'अपराजिता - परांग ला 2026' ट्रेकिंग मोहीम कोणत्या संस्थेशी संबंधित आहे?",
+            "question": "The 'Aparajita – Parang La 2026' trekking expedition is a flagship activity associated with which organization?",
             "options": [
-                "इंडियन माउंटेनियरिंग फाउंडेशन (IMF)",
-                "भारतीय हवाई दल (IAF)",
-                "बॉर्डर रोड ऑर्गनायझेशन (BRO)",
-                "नॅशनल कॅडेट कॉर्प्स (NCC)"
+                "Indian Mountaineering Foundation (IMF)",
+                "Indian Air Force (IAF)",
+                "Border Roads Organisation (BRO)",
+                "National Cadet Corps (NCC)"
             ],
-            "correct_answer": "नॅशनल कॅडेट कॉर्प्स (NCC)",
+            "correct_answer": "National Cadet Corps (NCC)",
             "answer_no": 4
         },
         {
             "question_no": 7,
-            "question": "छत्तीसगडमध्ये अंमलात आणलेल्या सुधारित भारतनेट कार्यक्रमाला (ABP) कोणत्या नव्या नावाच्या निधीतून निधी दिला जातो?",
+            "question": "The Amended BharatNet Program (ABP) implemented in Chhattisgarh is funded through which newly named fund?",
             "options": [
-                "डिजिटल भारत निधी (DBN)",
-                "ग्रामीण कनेक्टिव्हिटी उपक्रम",
-                "दूरसंचार विकास निधी",
-                "भारतनेट युनिव्हर्सल फंड"
+                "Digital Bharat Nidhi (DBN)",
+                "Rural Connectivity Initiative",
+                "Telecom Development Fund",
+                "BharatNet Universal Fund"
             ],
-            "correct_answer": "डिजिटल भारत निधी (DBN)",
+            "correct_answer": "Digital Bharat Nidhi (DBN)",
             "answer_no": 1
         },
         {
             "question_no": 8,
-            "question": "भारत-थायलंड संयुक्त लष्करी सराव MAITREE-XV कोणत्या विशिष्ट प्रकारच्या ऑपरेशन्सवर केंद्रित आहे?",
+            "question": "India-Thailand Joint Military Exercise MAITREE-XV focused on which specific types of operations?",
             "options": [
-                "शांतता राखणे आणि वैद्यकीय निर्वासन",
-                "नौदल नाकेबंदी आणि चाचेगिरी विरोधी",
-                "हेलिबोर्न ऑपरेशन्स आणि ओलिसांची सुटका",
-                "माउंटन वॉरफेअर आणि सायबर सुरक्षा"
+                "Peacekeeping and medical evacuations",
+                "Naval blockades and anti-piracy",
+                "Heliborne operations and hostage rescue",
+                "Mountain warfare and cyber security"
             ],
-            "correct_answer": "हेलिबोर्न ऑपरेशन्स आणि ओलिसांची सुटका",
+            "correct_answer": "Heliborne operations and hostage rescue",
             "answer_no": 3
         },
         {
             "question_no": 9,
-            "question": "J&K बँक आणि HDFC लाईफ यांच्यातील अलीकडील भागीदारी खालीलपैकी कोणते वर्णन करते?",
+            "question": "Which of the following describes the recent partnership between J&K Bank and HDFC Life?",
             "options": [
-                "कॉर्पोरेट एजन्सी करार (CAA)",
-                "J&K बँकेच्या शेअर्सचे अधिग्रहण",
-                "नवीन डिजिटल पेमेंट भागीदारी",
-                "ऑपरेशन्सचे विलीनीकरण"
+                "A Corporate Agency Agreement (CAA)",
+                "The acquisition of J&K Bank shares",
+                "A new digital payments partnership",
+                "A merger of operations"
             ],
-            "correct_answer": "कॉर्पोरेट एजन्सी करार (CAA)",
+            "correct_answer": "A Corporate Agency Agreement (CAA)",
             "answer_no": 1
         },
         {
             "question_no": 10,
-            "question": "'Razorpay Vulcan' ला कोणत्या तांत्रिक यशाचे श्रेय दिले जाते?",
+            "question": "What technological achievement is attributed to 'Razorpay Vulcan'?",
             "options": [
-                "MSME साठी पहिली फक्त-मोबाइल बँक",
-                "रिअल-टाइम गोल्ड ट्रेडिंग प्लॅटफॉर्म",
-                "चलनासाठी सरकार-समर्थित ब्लॉकचेन",
-                "भारतातील पहिले AI-शक्तीवर चालणारे पेमेंट फाउंडेशन मॉडेल"
+                "The first mobile-only bank for MSMEs",
+                "A real-time gold trading platform",
+                "A government-backed blockchain for currency",
+                "India's first AI-powered payments foundation model"
             ],
-            "correct_answer": "भारतातील पहिले AI-शक्तीवर चालणारे पेमेंट फाउंडेशन मॉडेल",
+            "correct_answer": "India's first AI-powered payments foundation model",
             "answer_no": 4
         },
         {
             "question_no": 11,
-            "question": "कोणत्या क्षेत्राच्या मंद वाढीमुळे ICRA ने Q1 FY27 साठी 7% GDP वाढीचा अंदाज लावला?",
+            "question": "Which sector's slower growth led to ICRA projecting a 7% GDP growth for Q1 FY27?",
             "options": [
-                "सेवा क्षेत्र",
-                "मॅन्युफॅक्चरिंग",
-                "शेती",
-                "खाणकाम"
+                "Services sector",
+                "Manufacturing",
+                "Agriculture",
+                "Mining"
             ],
-            "correct_answer": "सेवा क्षेत्र",
+            "correct_answer": "Services sector",
             "answer_no": 1
         },
         {
             "question_no": 12,
-            "question": "2025 च्या राष्ट्रीय क्रीडा पुरस्कार अर्जुन पुरस्कारासाठी कोणते प्रख्यात खेळाडूचे नाव नव्हते?",
+            "question": "Which prominent athlete was NOT among those named for the 2025 National Sports Awards' Arjuna Award?",
             "options": [
-                "दिव्या देशमुख",
-                "ट्रीसा जॉली",
-                "मेजर ध्यानचंद खेलरत्न विजेते",
-                "तेजस्वीन शंकर"
+                "Divya Deshmukh",
+                "Treesa Jolly",
+                "Major Dhyan Chand Khel Ratna winners",
+                "Tejaswin Shankar"
             ],
-            "correct_answer": "मेजर ध्यानचंद खेलरत्न विजेते",
+            "correct_answer": "Major Dhyan Chand Khel Ratna winners",
             "answer_no": 3
         },
         {
             "question_no": 13,
-            "question": "झाशीतील परिचा वीरला कोणती जागतिक मान्यता मिळाली?",
+            "question": "What global recognition was bestowed upon the Parichha Weir in Jhansi?",
             "options": [
-                "युनेस्को नैसर्गिक साइट",
-                "जागतिक वारसा सिंचन संरचना (WHIS)",
-                "आंतरराष्ट्रीय कृषी लँडमार्क",
-                "रामसर वेटलँड साइट"
+                "UNESCO Natural Site",
+                "World Heritage Irrigation Structure (WHIS)",
+                "International Agricultural Landmark",
+                "Ramsar Wetland Site"
             ],
-            "correct_answer": "जागतिक वारसा सिंचन संरचना (WHIS)",
+            "correct_answer": "World Heritage Irrigation Structure (WHIS)",
             "answer_no": 2
         },
         {
             "question_no": 14,
-            "question": "'स्पोर्ट्स टेलिव्हिजनचे जनक' आणि ESPN ची सह-संस्थापक म्हणून कोणाला सन्मानित करण्यात आले?",
+            "question": "Who was honoured as the 'Father of Sports Television' and co-founded ESPN?",
             "options": [
-                "विल्यम एफ. रासमुसेन",
-                "जॉन हर्शेल",
-                "हर्षिल माथूर",
-                "स्कॉट रासमुसेन"
+                "William F. Rasmussen",
+                "John Herschel",
+                "Harshil Mathur",
+                "Scott Rasmussen"
             ],
-            "correct_answer": "विल्यम एफ. रासमुसेन",
+            "correct_answer": "William F. Rasmussen",
             "answer_no": 1
         },
         {
             "question_no": 15,
-            "question": "जागतिक छायाचित्रण दिन 2026 ची थीम काय आहे?",
+            "question": "What is the theme of World Photography Day 2026?",
             "options": [
-                "मेमरी",
-                "संस्कृती",
-                "प्रकाश",
-                "घर"
+                "MEMORY",
+                "CULTURE",
+                "LIGHT",
+                "HOME"
             ],
-            "correct_answer": "घर",
+            "correct_answer": "HOME",
             "answer_no": 4
         },
         {
             "question_no": 16,
-            "question": "सद्भावना दिवस कोणत्या भारतीय नेत्याची जयंती आहे?",
+            "question": "Sadbhavana Diwas marks the birth anniversary of which Indian leader?",
             "options": [
-                "सरदार पटेल",
-                "इंदिरा गांधी",
-                "राजीव गांधी",
-                "जवाहरलाल नेहरू"
+                "Sardar Patel",
+                "Indira Gandhi",
+                "Rajiv Gandhi",
+                "Jawaharlal Nehru"
             ],
-            "correct_answer": "राजीव गांधी",
+            "correct_answer": "Rajiv Gandhi",
             "answer_no": 3
         },
         {
             "question_no": 17,
-            "question": "कॉर्पोरेट गुंतवणुकीवरील विश्लेषणानुसार, मोठ्या कंपन्या 'क्रेडिट-संबंधित' ऐवजी 'मागणी-अवरोधित' का असतात?",
+            "question": "According to the analysis on corporate investment, why do large firms tend to be 'demand-constrained' rather than 'credit-constrained'?",
             "options": [
-                "सरकार त्यांना थेट उत्पादन अनुदान देते",
-                "त्यांच्याकडे लक्षणीय अंतर्गत भांडवल आणि विद्यमान क्षमता आहे",
-                "ते कर्जावर शून्य व्याज देतात",
-                "त्यांना गुंतवणुकीच्या करातून सूट देण्यात आली आहे"
+                "Government provides them direct manufacturing subsidies",
+                "They have significant internal capital and existing capacity",
+                "They pay zero interest on loans",
+                "They are exempt from investment taxes"
             ],
-            "correct_answer": "त्यांच्याकडे लक्षणीय अंतर्गत भांडवल आणि विद्यमान क्षमता आहे",
+            "correct_answer": "They have significant internal capital and existing capacity",
             "answer_no": 2
         },
         {
             "question_no": 18,
-            "question": "न्यायाधिकरण सुधारणा विधेयक, 2026 या नावाने एक नवीन संस्था स्थापन करते:",
+            "question": "The Tribunals Reforms Bill, 2026 establishes a new body called:",
             "options": [
-                "न्यायाधिकरण नियुक्ती मंडळ",
-                "राष्ट्रीय न्यायाधिकरण आयोग",
-                "प्रशासकीय सुधारणा आयोग",
-                "न्यायिक निरीक्षण समिती"
+                "The Tribunal Appointments Board",
+                "The National Tribunals Commission",
+                "The Administrative Reforms Commission",
+                "The Judicial Oversight Committee"
             ],
-            "correct_answer": "राष्ट्रीय न्यायाधिकरण आयोग",
+            "correct_answer": "The National Tribunals Commission",
             "answer_no": 2
         },
         {
             "question_no": 19,
-            "question": "स्मॉल मॉड्युलर रिॲक्टर्स (SMRs) साठी भारतीय बाजारपेठेत 'आधीपासूनच कार्यरत' निकषांमुळे कोणता देश सध्या आघाडीवर आहे?",
+            "question": "Which country currently holds an edge in the Indian market for Small Modular Reactors (SMRs) due to the 'already operational' criteria?",
             "options": [
-                "रशिया",
-                "युनायटेड स्टेट्स",
-                "फ्रान्स",
-                "जर्मनी"
+                "Russia",
+                "United States",
+                "France",
+                "Germany"
             ],
-            "correct_answer": "रशिया",
+            "correct_answer": "Russia",
             "answer_no": 1
         },
         {
             "question_no": 20,
-            "question": "शांती कायदा नियम आयात केलेल्या आण्विक अणुभट्टीच्या डिझाइनसाठी कोणत्या निकषांना प्राधान्य देतात?",
+            "question": "The SHANTI Act rules prioritize which criteria for imported nuclear reactor designs?",
             "options": [
-                "सर्वात कमी संभाव्य बांधकाम खर्च",
-                "विद्यमान सोलर ग्रिड्ससह संपूर्ण एकीकरण",
-                "भारतीय देशांतर्गत कंपन्यांसह पेटंट सामायिक करण्याची आवश्यकता",
-                "तंत्रज्ञान सिद्ध आणि आधीच कार्यरत असणे आवश्यक आहे"
+                "Lowest possible construction cost",
+                "Full integration with existing solar grids",
+                "Requirement to share patents with Indian domestic firms",
+                "The requirement that technology be proven and already operational"
             ],
-            "correct_answer": "तंत्रज्ञान सिद्ध आणि आधीच कार्यरत असणे आवश्यक आहे",
+            "correct_answer": "The requirement that technology be proven and already operational",
             "answer_no": 4
         }
     ]
