@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "13-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Regarding the International Criminal Court (ICC), which statement correctly identifies its foundational principle?",
+            "options": [
+                "It only intervenes when local legal systems fail or refuse to act",
+                "It possesses an independent military wing for arrests",
+                "It automatically replaces domestic courts in all cases",
+                "It has retroactive jurisdiction over every sovereign state"
+            ],
+            "correct_answer": "It only intervenes when local legal systems fail or refuse to act",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "Which of these nations is NOT among those that have recently announced their departure from the ICC?",
+            "options": [
+                "Venezuela",
+                "Chad",
+                "Norway",
+                "Niger"
+            ],
+            "correct_answer": "Norway",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "Why does the ICC investigation into the Philippines still hold legal weight even after its withdrawal in 2019?",
+            "options": [
+                "The ICC ignores all state withdrawals",
+                "The UN Security Council revoked their exit",
+                "The Rome Statute dictates that withdrawal isn't retroactive",
+                "Philippines never officially filed for withdrawal"
+            ],
+            "correct_answer": "The Rome Statute dictates that withdrawal isn't retroactive",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "In the context of the BRICS grouping, how does India prefer the bloc to be viewed by the global community?",
+            "options": [
+                "As a rival trade bloc replacing the WTO",
+                "As a vehicle for direct confrontation with the Quad",
+                "As an explicitly anti-Western military alliance",
+                "As a platform for reforming global governance"
+            ],
+            "correct_answer": "As a platform for reforming global governance",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "Which of the following describes Brazil's diplomatic stance within the BRICS framework?",
+            "options": [
+                "It prioritizes total de-dollarisation as its primary goal",
+                "It seeks to overthrow Western-led institutions from the outside",
+                "It pushes for reforms while maintaining strong links to Euro-Atlantic traditions",
+                "It views Iran as its main strategic role model"
+            ],
+            "correct_answer": "It pushes for reforms while maintaining strong links to Euro-Atlantic traditions",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "What is the primary driver behind U.S. President Trump's aggressive rhetoric toward the Federal Reserve?",
+            "options": [
+                "Desire for lower borrowing costs amid massive national debt",
+                "Objection to the Fed's strict environmental policies",
+                "Concerns regarding the global surplus of US Treasury bonds",
+                "A plan to switch the US currency to digital gold"
+            ],
+            "correct_answer": "Desire for lower borrowing costs amid massive national debt",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "Why has the potential India-US Interim Trade Agreement caused unrest among Indian farmers?",
+            "options": [
+                "The agreement removes the state's power to purchase wheat",
+                "It could allow lower tariffs on US farm imports like apples and cotton",
+                "The deal forces them to export all rice stocks",
+                "Farmers are required to switch entirely to US seed brands"
+            ],
+            "correct_answer": "It could allow lower tariffs on US farm imports like apples and cotton",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "How has India adjusted its energy sourcing strategy following the West Asia crisis?",
+            "options": [
+                "Banned the import of crude oil from Russia",
+                "Shifted over half of its LPG imports to US suppliers",
+                "Stopped all energy trading with Gulf nations",
+                "Increased reliance on local wind power solely"
+            ],
+            "correct_answer": "Shifted over half of its LPG imports to US suppliers",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "Which landmark historical event marks the most recent phase of border tension between India and China?",
+            "options": [
+                "The 2017 peaceful border settlement",
+                "The 2020 Eastern Ladakh standoff",
+                "The 1962 Sikkim standoff",
+                "The 1984 Siachen glacier conflict"
+            ],
+            "correct_answer": "The 2020 Eastern Ladakh standoff",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "What specific ecological role does the Przewalski's horse play in its natural steppe environment?",
+            "options": [
+                "It functions as an apex predator",
+                "It increases wildfire risks by encouraging tree growth",
+                "It serves as a primary source of nitrogen for local crops",
+                "It grazes on dry vegetation, helping to lower fire risks"
+            ],
+            "correct_answer": "It grazes on dry vegetation, helping to lower fire risks",
+            "answer_no": 4
+        },
+        {
+            "question_no": 11,
+            "question": "The S-71K Kovyor missile, recently unveiled by Russia, is primarily designed for which aircraft?",
+            "options": [
+                "MiG-29 upgraded variant",
+                "Tu-160 bomber",
+                "Su-27 legacy interceptor",
+                "Su-57E fifth-generation fighter"
+            ],
+            "correct_answer": "Su-57E fifth-generation fighter",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "Which of the following is NOT one of the three thematic books within the Thirukkural?",
+            "options": [
+                "Book of War (Por)",
+                "Book of Love (Inbam)",
+                "Book of Polity (Porul)",
+                "Book of Virtue (Aram)"
+            ],
+            "correct_answer": "Book of War (Por)",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "What core characteristic defines the Thirukkural's approach to the concept of God?",
+            "options": [
+                "Divine favor requires strict adherence to one specific caste",
+                "God is synonymous with pure intelligence and compassion",
+                "He is an angry judge of sinners",
+                "There is no mention of God in the text"
+            ],
+            "correct_answer": "God is synonymous with pure intelligence and compassion",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "Which nation provides the best illustration of a country that maintains strategic autonomy while staying firmly connected to the Western-led legal and constitutional order?",
+            "options": [
+                "Iran",
+                "Russia",
+                "Brazil",
+                "China"
+            ],
+            "correct_answer": "Brazil",
+            "answer_no": 3
+        },
+        {
+            "question_no": 15,
+            "question": "The term 'Shadow Transhipment Network' is frequently used by Washington to describe which country's trade impact?",
+            "options": [
+                "China",
+                "India",
+                "Mexico",
+                "Canada"
+            ],
+            "correct_answer": "China",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "How did the 2023 expansion of BRICS affect the internal dynamics of the bloc regarding anti-Western sentiment?",
+            "options": [
+                "It solidified the bloc as a perfectly unified anti-Western unit",
+                "It expelled countries with pro-Western ties",
+                "It made military alignment with Russia mandatory",
+                "It increased internal diversity, making a single unified stance on the West harder"
+            ],
+            "correct_answer": "It increased internal diversity, making a single unified stance on the West harder",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "Why did India and the US recently initiate tougher documentation requirements for textile exporters?",
+            "options": [
+                "To combat forced labour and verify supply chain transparency",
+                "To increase the weight of every cotton bale shipped",
+                "To prevent the leakage of patented clothing designs",
+                "To standardize the color codes of exported fabrics"
+            ],
+            "correct_answer": "To combat forced labour and verify supply chain transparency",
+            "answer_no": 1
+        },
+        {
+            "question_no": 18,
+            "question": "Which phrase best characterizes the 'S-71K Kovyor' missile's flight profile?",
+            "options": [
+                "It must be guided manually by the pilot until impact",
+                "It is only effective against moving naval targets",
+                "It follows a powered-cruise profile, allowing target approach from various axes",
+                "It behaves like a simple, slow-falling gravity bomb"
+            ],
+            "correct_answer": "It follows a powered-cruise profile, allowing target approach from various axes",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "What was the initial context in which the term 'BRIC' was coined?",
+            "options": [
+                "A European trade organization created for agriculture",
+                "A military alliance pact signed in 1945",
+                "A UN resolution on human rights in Asia",
+                "A Goldman Sachs report on emerging economic powerhouses"
+            ],
+            "correct_answer": "A Goldman Sachs report on emerging economic powerhouses",
+            "answer_no": 4
+        },
+        {
+            "question_no": 20,
+            "question": "What is the primary significance of the S-71K's ability to fly at very low altitudes over water?",
+            "options": [
+                "It increases its internal fuel storage capacity",
+                "It masks the missile from continuous long-range radar tracking",
+                "It enables the pilot to communicate with the missile using sonar",
+                "It allows the missile to be launched from a submarine"
+            ],
+            "correct_answer": "It masks the missile from continuous long-range radar tracking",
+            "answer_no": 2
+        }
+    ]
+}
