@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "14-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Regarding the 18th BRICS Summit’s outcome on West Asia, which of the following is true?",
+            "options": [
+                "A consensus was achieved focusing on dialogue, sovereignty, and humanitarian aid.",
+                "The declaration officially assigned blame for the ongoing conflict.",
+                "It ignored the issue of nuclear facility security during the crisis.",
+                "Members agreed on a framework for common currency adoption."
+            ],
+            "correct_answer": "A consensus was achieved focusing on dialogue, sovereignty, and humanitarian aid.",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "Which specific initiative reflects India's contribution to promoting 'Industry 4.0' via BRICS?",
+            "options": [
+                "The establishment of a new sovereign wealth fund.",
+                "An India Centre for BRICS Industrial Competencies.",
+                "A regional manufacturing grant scheme.",
+                "Joint patent filing platforms for heavy machinery."
+            ],
+            "correct_answer": "An India Centre for BRICS Industrial Competencies.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 3,
+            "question": "What is the status of a 'common BRICS currency' based on the New Delhi Declaration?",
+            "options": [
+                "It was rejected in favor of payment system interoperability.",
+                "It is currently being tested in pilot markets.",
+                "It will be launched in the next fiscal year.",
+                "The plan has been delayed due to technical friction with the NDB."
+            ],
+            "correct_answer": "It was rejected in favor of payment system interoperability.",
+            "answer_no": 1
+        },
+        {
+            "question_no": 4,
+            "question": "Which temple corridor served as the symbolic backdrop for the BRICS summit, representing India's architectural heritage?",
+            "options": [
+                "Brihadeeswarar Temple",
+                "Meenakshi Amman Temple",
+                "Shore Temple",
+                "Ramanathaswamy Temple"
+            ],
+            "correct_answer": "Ramanathaswamy Temple",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "The 'Petroline' shutdown highlights a major vulnerability in energy transit. What is its primary function?",
+            "options": [
+                "Directing oil flows from Iraq to Mediterranean ports.",
+                "Enabling the bypassing of the Strait of Hormuz for Saudi exports.",
+                "Transporting natural gas between India and UAE.",
+                "Connecting Iranian oil fields to Red Sea infrastructure."
+            ],
+            "correct_answer": "Enabling the bypassing of the Strait of Hormuz for Saudi exports.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 6,
+            "question": "Which technology was used by ICAR and G.B. Pant University to produce the 'Badri' cattle calf?",
+            "options": [
+                "Genome editing (CRISPR)",
+                "Artificial Insemination with imported semen",
+                "Ovum Pick-Up and In Vitro Fertilization (OPU-IVF)",
+                "Somatic Cell Nuclear Transfer"
+            ],
+            "correct_answer": "Ovum Pick-Up and In Vitro Fertilization (OPU-IVF)",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "The Colombo Security Conclave (CSC) has expanded recently. Who is the newest member of this regional body?",
+            "options": [
+                "Seychelles",
+                "Bhutan",
+                "Singapore",
+                "Nepal"
+            ],
+            "correct_answer": "Seychelles",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "What primary objection did bank employee unions raise regarding the proposed Performance-Linked Incentive (PLI) scheme?",
+            "options": [
+                "The scheme failed to account for regional inflation differences.",
+                "It was seen as creating discriminatory gaps between senior officers and the wider workforce.",
+                "It only provided bonuses to the top 10 percent of employees.",
+                "It decreased base salaries for junior staff."
+            ],
+            "correct_answer": "It was seen as creating discriminatory gaps between senior officers and the wider workforce.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "Chhattisgarh's 'Steel Slag' road holds which global distinction?",
+            "options": [
+                "The world's longest steel slag road.",
+                "The highest-altitude paved road.",
+                "The only road built entirely from byproduct iron oxides.",
+                "The first carbon-negative highway."
+            ],
+            "correct_answer": "The world's longest steel slag road.",
+            "answer_no": 1
+        },
+        {
+            "question_no": 10,
+            "question": "The New Delhi Declaration highlights concerns regarding the safety of which specific facilities?",
+            "options": [
+                "Global desalination plants.",
+                "Cross-border data storage hubs.",
+                "Peaceful nuclear installations.",
+                "Offshore deep-sea mining rigs."
+            ],
+            "correct_answer": "Peaceful nuclear installations.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "Which state animal of Uttarakhand is known for grazing on medicinal herbs and shrubs in high-altitude terrain?",
+            "options": [
+                "Himalayan Yak",
+                "Kumaoni buffalo",
+                "Nilgai",
+                "Badri cattle"
+            ],
+            "correct_answer": "Badri cattle",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "How did the recent BRICS summit handle the issue of the 'two-state solution' in the Middle East?",
+            "options": [
+                "It opted for a single secular state approach.",
+                "The member states failed to agree on the language.",
+                "It deferred the decision to the UN Security Council.",
+                "It supported it based on 1967 borders with East Jerusalem as capital."
+            ],
+            "correct_answer": "It supported it based on 1967 borders with East Jerusalem as capital.",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "What is the main role of the 'BRICS Counter-Terrorism Working Group' mentioned in the text?",
+            "options": [
+                "To impose economic sanctions on rogue nations.",
+                "To coordinate international efforts against extremism and terror financing.",
+                "To facilitate direct military intervention in war zones.",
+                "To train local militias in border regions."
+            ],
+            "correct_answer": "To coordinate international efforts against extremism and terror financing.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "Which economic mechanism is India exploring to improve resilience against unilateral financial sanctions, as noted by the summit?",
+            "options": [
+                "A common gold-backed currency.",
+                "Total abandonment of the WTO framework.",
+                "Fixed commodity trading standards.",
+                "BRICS Risk Lab at GIFT City."
+            ],
+            "correct_answer": "BRICS Risk Lab at GIFT City.",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "What makes the 'Rajagopuram' of the Ramanathaswamy Temple notable?",
+            "options": [
+                "It is the oldest structure in the complex.",
+                "It features a circular design unique to Tamil Nadu.",
+                "It stands 126 feet high across nine levels.",
+                "It was constructed solely from wood and stone."
+            ],
+            "correct_answer": "It stands 126 feet high across nine levels.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "What has been the primary economic impact of the Petroline shutdown on global markets?",
+            "options": [
+                "There was no impact as demand had dropped.",
+                "It led to a total collapse of oil prices.",
+                "It created a surplus of oil in Asia.",
+                "Increased trader nervousness contributed to Brent crude crossing $100 per barrel."
+            ],
+            "correct_answer": "Increased trader nervousness contributed to Brent crude crossing $100 per barrel.",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "Apart from the PLI scheme, which other demand remained a major sticking point for bank employees during the strike?",
+            "options": [
+                "Creation of a bank nationalization commission.",
+                "Permanent status for contract workers.",
+                "Implementation of a five-day work week.",
+                "Doubling of daily ATM transaction limits."
+            ],
+            "correct_answer": "Implementation of a five-day work week.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "How did the 18th BRICS Summit reflect the goal of 'Inclusive AI'?",
+            "options": [
+                "By signing an exclusive contract with a single US tech firm.",
+                "By mandating that only AI generated content be used in trade.",
+                "By welcoming the AI Impact Summit to be hosted by India in 2026.",
+                "By banning the development of non-member AI software."
+            ],
+            "correct_answer": "By welcoming the AI Impact Summit to be hosted by India in 2026.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "What is the permanent secretariat of the Colombo Security Conclave located?",
+            "options": [
+                "Port Louis, Mauritius",
+                "Colombo, Sri Lanka",
+                "New Delhi, India",
+                "Male, Maldives"
+            ],
+            "correct_answer": "Colombo, Sri Lanka",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "How does steel slag help in environmental remediation of acidic water?",
+            "options": [
+                "Through its high oxide content, which helps neutralize acidity.",
+                "By lowering the temperature of the water.",
+                "By converting pollutants into biodegradable gases.",
+                "By acting as a natural filter for radioactive elements."
+            ],
+            "correct_answer": "Through its high oxide content, which helps neutralize acidity.",
+            "answer_no": 1
+        }
+    ]
+}
