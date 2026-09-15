@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "15-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which specific duration marks the recently completed milestone for the Pradhan Mantri Matsya Sampada Yojana?",
+            "options": [
+                "Six years",
+                "Four years",
+                "Seven years",
+                "Five years"
+            ],
+            "correct_answer": "Six years",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "Regarding the Bankers’ Books Evidence Act, 2026, which of the following is true concerning its approach to modern banking records?",
+            "options": [
+                "It prioritizes physical ledger documentation only",
+                "It is technology-neutral, covering digital and cloud-based formats",
+                "It mandates all banks to stop using paper records entirely",
+                "It strictly requires physical signatures for court evidence"
+            ],
+            "correct_answer": "It is technology-neutral, covering digital and cloud-based formats",
+            "answer_no": 2
+        },
+        {
+            "question_no": 3,
+            "question": "What is the primary objective of the partnership between Cochin Shipyard Limited and Drydocks World?",
+            "options": [
+                "Creating a new shipyard in Dubai",
+                "Establishing a new international shipping port",
+                "Operating and expanding the International Ship Repair Facility in Kochi",
+                "Launching a joint luxury cruise line"
+            ],
+            "correct_answer": "Operating and expanding the International Ship Repair Facility in Kochi",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "The Memorandum of Understanding between NIXI and APNIC is aimed primarily at improving which aspect of India's internet infrastructure?",
+            "options": [
+                "Fiber optic cable laying beneath the ocean",
+                "Internet routing security and network resilience",
+                "Mobile cellular network spectrum allocation",
+                "Government social media regulation"
+            ],
+            "correct_answer": "Internet routing security and network resilience",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "Tata Steel's new Coke Oven Gas (COG) injection project at the Meramandali plant is particularly significant for its contribution toward what global objective?",
+            "options": [
+                "Increasing coal import efficiency",
+                "Expanding retail distribution channels",
+                "Boosting quarterly dividends",
+                "Achieving Net Zero emissions by 2045"
+            ],
+            "correct_answer": "Achieving Net Zero emissions by 2045",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "During his September 2026 visit to Sri Lanka, what major infrastructure project did Defence Minister Rajnath Singh virtually inaugurate alongside local leadership?",
+            "options": [
+                "Three Bailey Bridges",
+                "A regional airport runway",
+                "A coastal radar station",
+                "A modern naval jetty"
+            ],
+            "correct_answer": "Three Bailey Bridges",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "The inaugural International Space Summit 2026, held in Paris, focused on which of the following themes?",
+            "options": [
+                "Private rocket launch competitions",
+                "Global space economy and sustainable security",
+                "Commercializing space tourism exclusively",
+                "Deep space mining regulation"
+            ],
+            "correct_answer": "Global space economy and sustainable security",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "Which navies participated in the 4th edition of the ‘Samudra Laksamana’ maritime exercise conducted in Malaysia?",
+            "options": [
+                "Indian Navy and Royal Australian Navy",
+                "Indian Navy and Singaporean Navy",
+                "Indian Navy and Royal Malaysian Navy",
+                "Indian Navy and Indonesian Navy"
+            ],
+            "correct_answer": "Indian Navy and Royal Malaysian Navy",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "What is the newly recognized second Self-regulatory Organisation (SRO) for the fintech sector by the RBI?",
+            "options": [
+                "Payments Council of India",
+                "Digital Lending Association of India",
+                "Fintech Convergence Council",
+                "Unified Fintech Forum"
+            ],
+            "correct_answer": "Unified Fintech Forum",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "Which international honor was conferred upon Maharashtra Deputy CM Eknath Shinde at the House of Commons in London?",
+            "options": [
+                "Excellence in Regional Policy",
+                "International Heritage Recognition",
+                "Statesmanship Award for Transformative Leadership",
+                "Global Governance Achievement"
+            ],
+            "correct_answer": "Statesmanship Award for Transformative Leadership",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "Researchers from the Wildlife Institute of India recently identified the presence of 'Ophiopogon japonicus' in which Indian state?",
+            "options": [
+                "Meghalaya",
+                "Himachal Pradesh",
+                "Sikkim",
+                "Arunachal Pradesh"
+            ],
+            "correct_answer": "Arunachal Pradesh",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "N Purushothama Mallya, who passed away in 2026, was a well-known activist for which language?",
+            "options": [
+                "Malayalam",
+                "Tulu",
+                "Konkani",
+                "Tamil"
+            ],
+            "correct_answer": "Konkani",
+            "answer_no": 3
+        },
+        {
+            "question_no": 13,
+            "question": "What is the primary call to action for the 2024-26 World Suicide Prevention Day observance?",
+            "options": [
+                "Support Every Soul",
+                "Start the Conversation",
+                "Silence the Stigma",
+                "Prevent and Protect"
+            ],
+            "correct_answer": "Start the Conversation",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "National Forest Martyrs Day is observed on September 11 to commemorate a historical sacrifice made in which state?",
+            "options": [
+                "Maharashtra",
+                "Uttarakhand",
+                "Madhya Pradesh",
+                "Rajasthan"
+            ],
+            "correct_answer": "Rajasthan",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "The UN International Day for South-South Cooperation commemorates the adoption of which historic plan in 1978?",
+            "options": [
+                "Buenos Aires Plan of Action",
+                "Technical Alliance Treaty",
+                "Global Solidarity Framework",
+                "Developing Nations Accord"
+            ],
+            "correct_answer": "Buenos Aires Plan of Action",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "The Chhattisgarh 'NIPUN' mission has allocated land near Nava Raipur for establishing an institute under which central ministry?",
+            "options": [
+                "Ministry of Skill Development and Entrepreneurship",
+                "Ministry of Commerce",
+                "Ministry of Education",
+                "Ministry of Electronics and IT"
+            ],
+            "correct_answer": "Ministry of Skill Development and Entrepreneurship",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "During his chairship of BRICS, which of the following did the Indian Prime Minister highlight as a strategic pillar for the group?",
+            "options": [
+                "Weaponization of supply chains",
+                "Global military intervention",
+                "Resilience, Innovation, Cooperation, and Sustainability",
+                "Western-aligned economic integration"
+            ],
+            "correct_answer": "Resilience, Innovation, Cooperation, and Sustainability",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "The EU’s new steel import regime, which replaced safeguard measures in 2026, introduced which significant market access requirement?",
+            "options": [
+                "Absolute total ban on all steel imports",
+                "Melt-and-pour requirement for production transparency",
+                "Compulsory export of iron ore",
+                "Elimination of all tariffs for developing nations"
+            ],
+            "correct_answer": "Melt-and-pour requirement for production transparency",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "Why is the New Development Bank (NDB) currently considered India's most practical tool for BRICS engagement?",
+            "options": [
+                "It dictates all global currency policies",
+                "It is exclusively controlled by Beijing's banks",
+                "It strictly manages anti-Western security pacts",
+                "It allows for tangible infrastructure funding without overtly challenging the US dollar"
+            ],
+            "correct_answer": "It allows for tangible infrastructure funding without overtly challenging the US dollar",
+            "answer_no": 4
+        },
+        {
+            "question_no": 20,
+            "question": "What is the primary benefit of the 'Tariff-Rate Quota' mechanism negotiated by India with the European Union for its steel sector?",
+            "options": [
+                "Fixed quantities at preferential duty rates",
+                "Guaranteed entry for infinite steel volumes",
+                "Mandatory purchasing by the EU private sector",
+                "Complete abolition of all trade regulations"
+            ],
+            "correct_answer": "Fixed quantities at preferential duty rates",
+            "answer_no": 1
+        }
+    ]
+}
