@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "16-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which specific category of farmers is eligible for the Pradhan Mantri Kisan Maandhan Yojana (PM-KMY)?",
+            "options": [
+                "Farmers with landholdings up to 2 hectares",
+                "Farmers above the age of 50",
+                "All farmers regardless of landholding size",
+                "Tenant farmers only"
+            ],
+            "correct_answer": "Farmers with landholdings up to 2 hectares",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "The First Additional Protocol to the India–MERCOSUR PTA primarily aims to simplify trade by incorporating which feature?",
+            "options": [
+                "Unified currency exchange",
+                "Shared logistical hubs",
+                "Common agricultural tax norms",
+                "Electronic Certificates of Origin (e-CoO)"
+            ],
+            "correct_answer": "Electronic Certificates of Origin (e-CoO)",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "In the 9th ASEAN–India Ministerial Meeting on Agriculture and Forestry, which future event was agreed upon?",
+            "options": [
+                "Forming the 10th AIMMAF in 2028",
+                "A shared maritime military treaty",
+                "Establishing a unified ASEAN-India currency",
+                "The abolition of agricultural tariffs"
+            ],
+            "correct_answer": "Forming the 10th AIMMAF in 2028",
+            "answer_no": 1
+        },
+        {
+            "question_no": 4,
+            "question": "Which upcoming landmark is India and Vietnam preparing to observe in 2027?",
+            "options": [
+                "50 years of independence",
+                "The Year of India-Vietnam Friendship",
+                "A centenary celebration of economic ties",
+                "The formal signing of an AI treaty"
+            ],
+            "correct_answer": "The Year of India-Vietnam Friendship",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "Where has the Mangrove Geographic Information System (MGIS) portal been launched to promote science-based restoration?",
+            "options": [
+                "Odisha",
+                "Andhra Pradesh",
+                "Gujarat",
+                "West Bengal"
+            ],
+            "correct_answer": "Gujarat",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "Which location is being developed as the third major missile-testing hub for the DRDO?",
+            "options": [
+                "Chandipur, Odisha",
+                "Kanyakumari, Tamil Nadu",
+                "Nagayalanka, Andhra Pradesh",
+                "Junput, West Bengal"
+            ],
+            "correct_answer": "Junput, West Bengal",
+            "answer_no": 4
+        },
+        {
+            "question_no": 7,
+            "question": "What is the primary focus of the Colombo Security Conclave (CSC) exercises recently held in Visakhapatnam?",
+            "options": [
+                "Joint aerospace training",
+                "Deep-sea mining regulations",
+                "Illegal maritime activities in the Indian Ocean Region",
+                "Establishment of an undersea telecommunication cable"
+            ],
+            "correct_answer": "Illegal maritime activities in the Indian Ocean Region",
+            "answer_no": 3
+        },
+        {
+            "question_no": 8,
+            "question": "Which Artificial Intelligence model was launched by NPCI for the Indian retail banking sector?",
+            "options": [
+                "FiMI Banking",
+                "RetailAI Bharat",
+                "BharatAI GPT",
+                "FinServe Neural"
+            ],
+            "correct_answer": "FiMI Banking",
+            "answer_no": 1
+        },
+        {
+            "question_no": 9,
+            "question": "Which payment entity is the first in India to introduce 'Cross Border Scan to Pay' for international transactions?",
+            "options": [
+                "BHIM UPI",
+                "Google Pay",
+                "Paytm",
+                "PhonePe"
+            ],
+            "correct_answer": "PhonePe",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "The Ministry of Finance notified that charges are prohibited for UPI transactions up to which amount?",
+            "options": [
+                "Rs 500",
+                "Rs 5,000",
+                "Rs 2,000",
+                "Rs 1,000"
+            ],
+            "correct_answer": "Rs 2,000",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "‘Gegeneophis chandgadi’, a recently discovered legless amphibian, belongs to which group?",
+            "options": [
+                "Newts",
+                "Frogs",
+                "Caecilians",
+                "Salamanders"
+            ],
+            "correct_answer": "Caecilians",
+            "answer_no": 3
+        },
+        {
+            "question_no": 12,
+            "question": "Which player secured the Women’s Singles title at the 2026 US Open?",
+            "options": [
+                "Aryna Sabalenka",
+                "Elena Rybakina",
+                "Kateřina Siniaková",
+                "Taylor Townsend"
+            ],
+            "correct_answer": "Elena Rybakina",
+            "answer_no": 2
+        },
+        {
+            "question_no": 13,
+            "question": "Which hockey tournament served as a qualifying event for the 2027 FIH Junior World Cups?",
+            "options": [
+                "FIH Hockey League",
+                "AHF Junior Asia Cup 2026",
+                "Olympic Qualifiers",
+                "Asia Cup"
+            ],
+            "correct_answer": "AHF Junior Asia Cup 2026",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "Who became the first Indian male recurve archer to win the individual title at the Archery World Cup Final?",
+            "options": [
+                "Dhiraj Bommadevara",
+                "Atanu Das",
+                "Jayanta Talukdar",
+                "Tarundeep Rai"
+            ],
+            "correct_answer": "Dhiraj Bommadevara",
+            "answer_no": 1
+        },
+        {
+            "question_no": 15,
+            "question": "Princess Astrid of Norway, who passed away recently, was known for which royal role?",
+            "options": [
+                "Empress of the North",
+                "First Lady of Norway",
+                "Queen Consort",
+                "Princess Regent"
+            ],
+            "correct_answer": "First Lady of Norway",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "The 77th anniversary of Hindi’s adoption as an official language was celebrated on which date?",
+            "options": [
+                "September 12",
+                "September 15",
+                "September 13",
+                "September 14"
+            ],
+            "correct_answer": "September 14",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "National Engineers’ Day is commemorated to honor the birth anniversary of which Indian icon?",
+            "options": [
+                "S. Chandrasekhar",
+                "Vikram Sarabhai",
+                "Mokshagundam Visvesvaraya",
+                "A.P.J. Abdul Kalam"
+            ],
+            "correct_answer": "Mokshagundam Visvesvaraya",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "What is the key objective of the proposed amendments to the personal guarantor insolvency framework?",
+            "options": [
+                "Extending bankruptcy protection to all defaulters",
+                "Abolishing interest rates",
+                "Granting loan waivers",
+                "Maximising creditor recovery through transparency"
+            ],
+            "correct_answer": "Maximising creditor recovery through transparency",
+            "answer_no": 4
+        },
+        {
+            "question_no": 19,
+            "question": "Which country proposed the formation of a BRICS open-source AI community?",
+            "options": [
+                "China",
+                "Brazil",
+                "South Africa",
+                "India"
+            ],
+            "correct_answer": "China",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "Which article of the Indian Constitution provides the directive for the development of Hindi?",
+            "options": [
+                "Article 348",
+                "Article 351",
+                "Article 343",
+                "Article 350A"
+            ],
+            "correct_answer": "Article 351",
+            "answer_no": 2
+        }
+    ]
+}
