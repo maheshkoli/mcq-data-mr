@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "17-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "The 18th BRICS Summit in 2026 was hosted by India at which venue in New Delhi?",
+            "options": [
+                "Kushal Bhawan",
+                "Pragati Maidan",
+                "Bharat Mandapam",
+                "Yashobhoomi"
+            ],
+            "correct_answer": "Bharat Mandapam",
+            "answer_no": 3
+        },
+        {
+            "question_no": 2,
+            "question": "Which of the following was NOT one of the key pillars structured for the 2026 BRICS Summit?",
+            "options": [
+                "Resilience",
+                "Digitalisation",
+                "Innovation",
+                "Sustainability"
+            ],
+            "correct_answer": "Digitalisation",
+            "answer_no": 2
+        },
+        {
+            "question_no": 3,
+            "question": "During the 2026 BRICS Summit, which Indian institution was designated as the coordinating centre for mental health training hubs?",
+            "options": [
+                "AIIMS, Delhi",
+                "CIP, Ranchi",
+                "NIMHANS, Bengaluru",
+                "PGIMER, Chandigarh"
+            ],
+            "correct_answer": "NIMHANS, Bengaluru",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "The Periodic Labour Force Survey (PLFS) released by the NSO in September 2026 revealed that the unemployment rate in August 2026 was what percentage?",
+            "options": [
+                "5.2%",
+                "5.0%",
+                "5.1%",
+                "4.9%"
+            ],
+            "correct_answer": "5.0%",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "The 'Delhi Declaration on Drylands (3D)' was adopted during the Dryland Congress 2026 to promote which specific type of cooperation?",
+            "options": [
+                "North-South and multilateral",
+                "East-West and bilateral",
+                "Regional and ASEAN",
+                "South-South and triangular"
+            ],
+            "correct_answer": "South-South and triangular",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "Who has been appointed to lead the 10-member Task Force established to assess the feasibility of reviving Formula 1 in India?",
+            "options": [
+                "Mansukh Mandaviya",
+                "Sebastian Coe",
+                "Yugal Kishore Joshi",
+                "Kunal"
+            ],
+            "correct_answer": "Yugal Kishore Joshi",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "What is the primary objective of the SAMAR version 2.0 system developed by the DRDO in collaboration with the QCI?",
+            "options": [
+                "Defence export auditing",
+                "Satellite communication",
+                "Software source code security",
+                "Manufacturing maturity assessment"
+            ],
+            "correct_answer": "Manufacturing maturity assessment",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "The newly signed MoU between the DoRD and PFRDA aims to empower rural women through which dedicated network?",
+            "options": [
+                "Lakhpati Didis",
+                "Pension Sakhis",
+                "Banking Correspondent Sakhis",
+                "Community Resource Persons"
+            ],
+            "correct_answer": "Pension Sakhis",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "Tata Consultancy Services (TCS) partnered with the Dubai Gold and Commodities Exchange to modernize its infrastructure using which platform?",
+            "options": [
+                "Quartz™",
+                "BaNCS™",
+                "Saksham",
+                "Finacle"
+            ],
+            "correct_answer": "BaNCS™",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "Which trophy was announced by the IOA to honour the best male athlete of the Asian Games?",
+            "options": [
+                "Jaspal Rana Trophy",
+                "PT Usha Award",
+                "Raja Randhir Singh Trophy",
+                "National Sports Trophy"
+            ],
+            "correct_answer": "Raja Randhir Singh Trophy",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "Shafali Verma’s performance in the 2026 Women’s T20 Asia Cup final made history by scoring the fastest fifty in the tournament's record, off how many balls?",
+            "options": [
+                "24",
+                "30",
+                "26",
+                "22"
+            ],
+            "correct_answer": "24",
+            "answer_no": 1
+        },
+        {
+            "question_no": 12,
+            "question": "Which city was officially confirmed by World Athletics to host the 2029 World Athletics Championships?",
+            "options": [
+                "Nairobi",
+                "London",
+                "Beijing",
+                "Rome"
+            ],
+            "correct_answer": "Nairobi",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "The late Alla Nani, who passed away in 2026, served as the Deputy Chief Minister of which state?",
+            "options": [
+                "Karnataka",
+                "Kerala",
+                "Telangana",
+                "Andhra Pradesh"
+            ],
+            "correct_answer": "Andhra Pradesh",
+            "answer_no": 4
+        },
+        {
+            "question_no": 14,
+            "question": "Dr. Tamilisai Soundararajan is the author of the book released by the Vice President, titled:",
+            "options": [
+                "A Century of Service",
+                "The RSS Journey",
+                "Viksit Bharat Saga",
+                "Service in Nation Building"
+            ],
+            "correct_answer": "A Century of Service",
+            "answer_no": 1
+        },
+        {
+            "question_no": 15,
+            "question": "What is the 2026 theme for the International Day of Democracy observed on September 15?",
+            "options": [
+                "Bring human rights into focus",
+                "Governance in the Digital Age",
+                "Empowering the Next Generation",
+                "Strengthening Global Peace"
+            ],
+            "correct_answer": "Bring human rights into focus",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "The theme 'Global action for a cooler planet' for the 2026 International Day for the Preservation of the Ozone Layer marks the anniversary of which historic protocol?",
+            "options": [
+                "Vienna Convention",
+                "Kyoto Protocol",
+                "Paris Agreement",
+                "Montreal Protocol"
+            ],
+            "correct_answer": "Montreal Protocol",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "Under the new UP Cabinet approvals, what specific economic incentive is being provided for small and marginal farmers?",
+            "options": [
+                "6% interest long-term loans",
+                "Loan waiver scheme",
+                "Free electricity for 11 months",
+                "Direct cash transfer for ethanol"
+            ],
+            "correct_answer": "6% interest long-term loans",
+            "answer_no": 1
+        },
+        {
+            "question_no": 18,
+            "question": "The Kishau Multipurpose Project, a major infrastructure agreement, straddles which two regions?",
+            "options": [
+                "Delhi and Rajasthan",
+                "Punjab and Himachal Pradesh",
+                "Himachal Pradesh and Uttarakhand",
+                "Uttar Pradesh and Haryana"
+            ],
+            "correct_answer": "Himachal Pradesh and Uttarakhand",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "Section 29A of the IBC, frequently highlighted by the ED in recent fraud cases, is designed primarily to prevent:",
+            "options": [
+                "Related party fund diversion",
+                "Ineligible promoters from bidding",
+                "Asset stripping after liquidation",
+                "Bank account freezing"
+            ],
+            "correct_answer": "Ineligible promoters from bidding",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "The Western Dedicated Freight Corridor (WDFC) connects Dadri to which terminal?",
+            "options": [
+                "Mundra",
+                "Pipavav",
+                "Kandla",
+                "JNPT"
+            ],
+            "correct_answer": "JNPT",
+            "answer_no": 4
+        }
+    ]
+}
