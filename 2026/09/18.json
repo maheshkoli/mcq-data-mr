@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "18-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which ministry celebrated the third anniversary of the PM Vishwakarma scheme in September 2026?",
+            "options": [
+                "Ministry of Rural Development",
+                "Ministry of Finance",
+                "Ministry of Skill Development",
+                "Ministry of MSME"
+            ],
+            "correct_answer": "Ministry of MSME",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "In the April–August 2026 period, which ministry reported a 15.5% growth in combined merchandise and services exports?",
+            "options": [
+                "NITI Aayog",
+                "Ministry of Finance",
+                "Ministry of External Affairs",
+                "Ministry of Commerce and Industry"
+            ],
+            "correct_answer": "Ministry of Commerce and Industry",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "The Kishau Multipurpose Project, involving a dam on the Tons River, was signed by how many states?",
+            "options": [
+                "Seven",
+                "Four",
+                "Five",
+                "Six"
+            ],
+            "correct_answer": "Six",
+            "answer_no": 4
+        },
+        {
+            "question_no": 4,
+            "question": "Under which legislative framework was the Central Board of Film Certification (CBFC) recently reconstituted?",
+            "options": [
+                "Cinematograph Act, 1952",
+                "Press Council Act, 1978",
+                "Copyright Act, 1957",
+                "Information Technology Act, 2000"
+            ],
+            "correct_answer": "Cinematograph Act, 1952",
+            "answer_no": 1
+        },
+        {
+            "question_no": 5,
+            "question": "What is the primary objective of the newly inaugurated NIELIT–Infineon Centre of Excellence in Gujarat?",
+            "options": [
+                "Robotics and Automation",
+                "Artificial Intelligence research",
+                "Semiconductor manufacturing",
+                "Cybersecurity forensics"
+            ],
+            "correct_answer": "Semiconductor manufacturing",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "The CISF signed a cybersecurity training MoU with which academic institution?",
+            "options": [
+                "IIT Kanpur",
+                "IIT Madras",
+                "IIT Bombay",
+                "IIT Delhi"
+            ],
+            "correct_answer": "IIT Kanpur",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "Where is the proposed Artificial Intelligence Centre of Excellence being established with MeitY’s approval?",
+            "options": [
+                "Hyderabad",
+                "Bhubaneswar",
+                "Bengaluru",
+                "Pune"
+            ],
+            "correct_answer": "Bhubaneswar",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "For how many years have BHEL and Titagarh Rail Systems agreed to maintain the Vande Bharat Sleeper trains?",
+            "options": [
+                "35 years",
+                "30 years",
+                "10 years",
+                "20 years"
+            ],
+            "correct_answer": "35 years",
+            "answer_no": 1
+        },
+        {
+            "question_no": 9,
+            "question": "According to the 2026 Global Gender Gap Report, what is India's rank?",
+            "options": [
+                "131st",
+                "120th",
+                "125th",
+                "135th"
+            ],
+            "correct_answer": "131st",
+            "answer_no": 1
+        },
+        {
+            "question_no": 10,
+            "question": "The Bharat Forge collaboration with Pratt & Whitney Canada is targeted at improving which platform?",
+            "options": [
+                "Fighter jets",
+                "Helicopters",
+                "Commercial aircraft",
+                "HALE UAVs"
+            ],
+            "correct_answer": "HALE UAVs",
+            "answer_no": 4
+        },
+        {
+            "question_no": 11,
+            "question": "Which veteran actor was selected for the Dadasaheb Phalke Award 2024?",
+            "options": [
+                "Kamal Haasan",
+                "Anant Nag",
+                "Rajkumar",
+                "Mammootty"
+            ],
+            "correct_answer": "Anant Nag",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "Dileep Sanghani has been elected to the Global Board of which international organization?",
+            "options": [
+                "World Bank",
+                "ICA",
+                "FAO",
+                "WTO"
+            ],
+            "correct_answer": "ICA",
+            "answer_no": 2
+        },
+        {
+            "question_no": 13,
+            "question": "Sanjukta Parashar has become the first woman IG of which elite unit?",
+            "options": [
+                "Garud Commando Force",
+                "CoBRA",
+                "NSG",
+                "SPG"
+            ],
+            "correct_answer": "CoBRA",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "NASA's newly discovered 'McGetchin' crater on the Moon was formed in which year?",
+            "options": [
+                "2022",
+                "2023",
+                "2025",
+                "2024"
+            ],
+            "correct_answer": "2024",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "Which Indian state is home to the newly discovered frog species 'Ingerana aizawl'?",
+            "options": [
+                "Manipur",
+                "Assam",
+                "Mizoram",
+                "Nagaland"
+            ],
+            "correct_answer": "Mizoram",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "When is the International Day of Science, Technology and Innovation for the South observed?",
+            "options": [
+                "September 18",
+                "September 16",
+                "September 17",
+                "September 15"
+            ],
+            "correct_answer": "September 16",
+            "answer_no": 2
+        },
+        {
+            "question_no": 17,
+            "question": "The first coronary angioplasty, commemorated by the International Day for Interventional Cardiology, was performed in what year?",
+            "options": [
+                "1982",
+                "1967",
+                "1977",
+                "1972"
+            ],
+            "correct_answer": "1977",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "Which village was recently declared the first 'Heritage Village' by the Lieutenant Governor of Ladakh?",
+            "options": [
+                "Kumik",
+                "Leh",
+                "Zanskar",
+                "Kargil"
+            ],
+            "correct_answer": "Kumik",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "Which city topped the India Electric Mobility Index (IEMI) 2025?",
+            "options": [
+                "Bengaluru",
+                "Mumbai",
+                "Delhi",
+                "Chennai"
+            ],
+            "correct_answer": "Delhi",
+            "answer_no": 3
+        },
+        {
+            "question_no": 20,
+            "question": "The 1991 India-Pakistan agreement on military exercise notification prohibits ships from closing within how many nautical miles of each other in international waters?",
+            "options": [
+                "1 mile",
+                "10 miles",
+                "3 miles",
+                "5 miles"
+            ],
+            "correct_answer": "3 miles",
+            "answer_no": 3
+        }
+    ]
+}
