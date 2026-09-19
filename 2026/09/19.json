@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "19-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "The newly introduced Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 focuses on which specific economic tool?",
+            "options": [
+                "Mandatory divestment from tech sectors",
+                "Freezing central bank assets",
+                "High tariffs on Russian energy buyers",
+                "Complete trade embargoes"
+            ],
+            "correct_answer": "High tariffs on Russian energy buyers",
+            "answer_no": 3
+        },
+        {
+            "question_no": 2,
+            "question": "What is the primary concern for India regarding the potential passage of the aforementioned US sanctions bill?",
+            "options": [
+                "Banning of all Indian tech services in the US",
+                "Total severance of Indo-US diplomatic ties",
+                "Restriction on Indian migration to America",
+                "Spike in energy import costs and refinery impacts"
+            ],
+            "correct_answer": "Spike in energy import costs and refinery impacts",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "How did the 2022 conflict in Eastern Europe shift India’s crude oil sourcing strategy?",
+            "options": [
+                "An exclusive dependence on African markets",
+                "A total reliance on domestic production",
+                "The complete cessation of oil imports from the US",
+                "A pivot from West Asian dominance to discounted Russian supplies"
+            ],
+            "correct_answer": "A pivot from West Asian dominance to discounted Russian supplies",
+            "answer_no": 4
+        },
+        {
+            "question_no": 4,
+            "question": "Under CITES guidelines, the orangutans seized in Odisha belong to which regulatory category?",
+            "options": [
+                "Appendix II",
+                "Appendix I",
+                "Appendix III",
+                "Unlisted"
+            ],
+            "correct_answer": "Appendix I",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "Which of these statements best characterizes India’s recent legal adjustment regarding wildlife trade?",
+            "options": [
+                "The 2022 Wildlife Amendment aligned domestic law with CITES",
+                "Section 49Q was removed from the Act to facilitate faster trials",
+                "The government fully delegated forest enforcement to the private sector",
+                "Wildlife trade was legalized for internal state commerce"
+            ],
+            "correct_answer": "The 2022 Wildlife Amendment aligned domestic law with CITES",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "What is the primary obstacle to the repatriation of rescued orangutans in India, as illustrated by the Assam precedent?",
+            "options": [
+                "Stalled investigations and lack of origin tracking",
+                "Lack of flight availability",
+                "The high cost of veterinarian logistics",
+                "Indonesia's refusal to accept its animals"
+            ],
+            "correct_answer": "Stalled investigations and lack of origin tracking",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "How much of India’s GDP is estimated to be directly or indirectly supported by the Himalayan region?",
+            "options": [
+                "Nearly 10%",
+                "Just under 40%",
+                "Around 21.5%",
+                "Over 55%"
+            ],
+            "correct_answer": "Around 21.5%",
+            "answer_no": 3
+        },
+        {
+            "question_no": 8,
+            "question": "Why is the concept of 'Peak Water' critical for the Indian economy in the mid-21st century?",
+            "options": [
+                "Hydropower generation will become redundant",
+                "All rivers will switch their courses to the north",
+                "Melting rates will decline after peaking, reducing flow",
+                "Water availability will reach an infinite surplus"
+            ],
+            "correct_answer": "Melting rates will decline after peaking, reducing flow",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "Black carbon, produced by industrial brick kilns, impacts the Himalayas in which of the following ways?",
+            "options": [
+                "By chemically neutralizing glacial ice",
+                "By slowing down the overall melting cycle",
+                "By reflecting solar radiation away from the peaks",
+                "By settling on snow and increasing surface heat absorption"
+            ],
+            "correct_answer": "By settling on snow and increasing surface heat absorption",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "Why did Fiji recently declare a national health emergency?",
+            "options": [
+                "An uncontrolled surge in HIV transmission",
+                "A rapid spread of forest-based respiratory illness",
+                "Severe economic collapse leading to famine",
+                "An outbreak of tropical water-borne disease"
+            ],
+            "correct_answer": "An uncontrolled surge in HIV transmission",
+            "answer_no": 1
+        },
+        {
+            "question_no": 11,
+            "question": "Regarding HIV transmission in Fiji, which of these is identified as a major driver of the recent crisis?",
+            "options": [
+                "Contaminated needle sharing and sexual contact",
+                "Spread through public water supplies",
+                "Lack of sanitation in urban hospitals",
+                "Consuming contaminated shellfish"
+            ],
+            "correct_answer": "Contaminated needle sharing and sexual contact",
+            "answer_no": 1
+        },
+        {
+            "question_no": 12,
+            "question": "Which of these institutions is responsible for calculating and publishing the Global Gender Gap Index?",
+            "options": [
+                "United Nations Development Programme",
+                "World Economic Forum",
+                "International Monetary Fund",
+                "World Bank"
+            ],
+            "correct_answer": "World Economic Forum",
+            "answer_no": 2
+        },
+        {
+            "question_no": 13,
+            "question": "Where does India currently stand in the 2026 Global Gender Gap Index rankings?",
+            "options": [
+                "143rd",
+                "50th",
+                "131st",
+                "95th"
+            ],
+            "correct_answer": "131st",
+            "answer_no": 3
+        },
+        {
+            "question_no": 14,
+            "question": "Which of the four dimensions used in the Global Gender Gap Index actually showed a decline in global performance?",
+            "options": [
+                "Health and Survival",
+                "Political Empowerment",
+                "Economic Participation",
+                "Educational Attainment"
+            ],
+            "correct_answer": "Political Empowerment",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "The newly identified feline species, Leopardus Tilcayo, was discovered in which unique biome?",
+            "options": [
+                "Amazonian river basin",
+                "Bolivian Yungas forest",
+                "High-altitude Peruvian steppes",
+                "Patagonian coastal scrubland"
+            ],
+            "correct_answer": "Bolivian Yungas forest",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "What is unique about the newly discovered cat, Leopardus Tilcayo, in terms of its size?",
+            "options": [
+                "It is twice the size of a mountain lion",
+                "It is smaller than a typical house cat",
+                "It is as large as a tiger",
+                "It is comparable to a wolf in height"
+            ],
+            "correct_answer": "It is smaller than a typical house cat",
+            "answer_no": 2
+        },
+        {
+            "question_no": 17,
+            "question": "What does the 'Indo-Gangetic Plain' connection to the Himalayan economy primarily represent?",
+            "options": [
+                "A zone independent of water recharge from mountain rivers",
+                "The site of the highest manufacturing output in the world",
+                "The only region in India where brick kilns are prohibited",
+                "A primary area benefiting from Himalayan water for agriculture"
+            ],
+            "correct_answer": "A primary area benefiting from Himalayan water for agriculture",
+            "answer_no": 4
+        },
+        {
+            "question_no": 18,
+            "question": "In the context of brick manufacturing, what is the primary benefit of switching to 'zigzag' technology?",
+            "options": [
+                "It allows kilns to function without any heat source",
+                "It doubles the cost of production for higher profits",
+                "It completely stops all production noise",
+                "It reduces carbon emissions and fuel usage by roughly 70% and 30%"
+            ],
+            "correct_answer": "It reduces carbon emissions and fuel usage by roughly 70% and 30%",
+            "answer_no": 4
+        },
+        {
+            "question_no": 19,
+            "question": "How did the Indian government recently respond to concerns regarding the US sanctions bill?",
+            "options": [
+                "By communicating worries about the bill's impact to US officials",
+                "By publicly boycotting all American goods",
+                "By announcing an immediate halt to all oil imports",
+                "By aligning its laws with US foreign policy"
+            ],
+            "correct_answer": "By communicating worries about the bill's impact to US officials",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "Which of these is a known method through which HIV is NOT transmitted?",
+            "options": [
+                "Mother-to-child during birth",
+                "Exposure to infected body fluids",
+                "Routine social contact like handshaking",
+                "Sharing infected syringes"
+            ],
+            "correct_answer": "Routine social contact like handshaking",
+            "answer_no": 3
+        }
+    ]
+}
