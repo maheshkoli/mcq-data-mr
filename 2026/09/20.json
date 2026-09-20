@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "20-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Regarding the recent board decisions at Tata Sons, which of the following is true?",
+            "options": [
+                "N Chandrasekaran was reappointed for a five-year term despite Noel Tata’s dissent.",
+                "The board successfully reached a consensus on all major agenda items.",
+                "The Reserve Bank of India permitted the company to exit its Core Investment Company status.",
+                "Shareholders at the AGM have already ratified the board's decision to go public."
+            ],
+            "correct_answer": "N Chandrasekaran was reappointed for a five-year term despite Noel Tata’s dissent.",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "Why has the AGM of Tata Sons been unable to proceed to a vote recently?",
+            "options": [
+                "Lack of a quorum prevents the necessary joint nomination from the charitable trusts.",
+                "Noel Tata secured a stay order from the National Company Law Tribunal.",
+                "Institutional shareholders failed to attend the meeting in person.",
+                "The board has indefinitely postponed the meeting due to legal risks."
+            ],
+            "correct_answer": "Lack of a quorum prevents the necessary joint nomination from the charitable trusts.",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "What is the primary rationale behind Noel Tata's opposition to listing Tata Sons?",
+            "options": [
+                "He claims the regulatory requirements for a public listing are too expensive to manage.",
+                "He believes the valuation of the group is currently too low for an IPO.",
+                "He fears public pressure will compromise the company's ability to fund social and charitable goals.",
+                "He argues that the Shapoorji Pallonji group's stake should be bought out first."
+            ],
+            "correct_answer": "He fears public pressure will compromise the company's ability to fund social and charitable goals.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "The recent revision to the EPFO wage ceiling has increased the mandatory coverage threshold to:",
+            "options": [
+                "Rs 35,000 per month.",
+                "Rs 20,000 per month.",
+                "Rs 25,000 per month.",
+                "Rs 30,000 per month."
+            ],
+            "correct_answer": "Rs 25,000 per month.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "Which component of the employer's contribution to the Employees' Pension Scheme (EPS) is adjusted due to the new wage ceiling?",
+            "options": [
+                "0.5% for life insurance benefits.",
+                "8.33% of the monthly wage up to the ceiling.",
+                "1.16% as an additional government subsidy.",
+                "12% of the total monthly basic salary."
+            ],
+            "correct_answer": "8.33% of the monthly wage up to the ceiling.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 6,
+            "question": "How does the revised EPFO wage ceiling impact take-home pay for some employees?",
+            "options": [
+                "It increases as the government covers the extra contribution.",
+                "It has no impact since all contributions are voluntary above Rs 15,000.",
+                "It might decrease if the company adjusts their total cost-to-company package.",
+                "It remains completely unaffected as the employer pays the difference."
+            ],
+            "correct_answer": "It might decrease if the company adjusts their total cost-to-company package.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "The new film certification guidelines include specific warnings for scenes involving:",
+            "options": [
+                "Depiction of political figures.",
+                "Violence against animals.",
+                "Display of national emblems.",
+                "Use or trafficking of narcotic drugs."
+            ],
+            "correct_answer": "Use or trafficking of narcotic drugs.",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "The recently introduced UA sub-categories in film certification include which age-based markers?",
+            "options": [
+                "UA 10+, UA 14+, UA 18+.",
+                "UA 5+, UA 10+, UA 15+.",
+                "UA 7+, UA 13+, UA 16+.",
+                "UA 6+, UA 12+, UA 18+."
+            ],
+            "correct_answer": "UA 7+, UA 13+, UA 16+.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "In the case of K.A. Abbas v. Union of India, the Supreme Court held that:",
+            "options": [
+                "Pre-censorship of films is legally permissible given the medium's unique mass appeal.",
+                "Film certification is unconstitutional as it limits free speech.",
+                "Only political films are subject to state regulation.",
+                "The government must completely remove the certification board's powers."
+            ],
+            "correct_answer": "Pre-censorship of films is legally permissible given the medium's unique mass appeal.",
+            "answer_no": 1
+        },
+        {
+            "question_no": 10,
+            "question": "What is the biological classification and transmission method of Pneumocystis jirovecii?",
+            "options": [
+                "It is a protozoa transmitted through contaminated water.",
+                "It is a fungus transmitted primarily via the aerosol route.",
+                "It is a virus transmitted by vector-borne insects.",
+                "It is a bacteria transmitted through direct physical contact."
+            ],
+            "correct_answer": "It is a fungus transmitted primarily via the aerosol route.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "What is the primary medical treatment for Pneumocystis pneumonia?",
+            "options": [
+                "Strict isolation and vitamin therapy.",
+                "Antifungal medications like fluconazole.",
+                "Immunoglobulin infusions.",
+                "High doses of the antibiotic TMP-SMX."
+            ],
+            "correct_answer": "High doses of the antibiotic TMP-SMX.",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "Gandhi Sagar Wildlife Sanctuary is primarily situated in which Indian state?",
+            "options": [
+                "Madhya Pradesh.",
+                "Gujarat.",
+                "Rajasthan.",
+                "Chhattisgarh."
+            ],
+            "correct_answer": "Madhya Pradesh.",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "Which of these is a distinctive topographical feature of the Gandhi Sagar Wildlife Sanctuary?",
+            "options": [
+                "Wetland ecosystems located at high altitudes.",
+                "Dense alpine forests with year-round snowfall.",
+                "Coastal mangroves forming the bulk of its habitat.",
+                "Vast open landscapes mixed with rocky terrain and sparse vegetation."
+            ],
+            "correct_answer": "Vast open landscapes mixed with rocky terrain and sparse vegetation.",
+            "answer_no": 4
+        },
+        {
+            "question_no": 14,
+            "question": "Why is Sohar Port considered strategically important for India?",
+            "options": [
+                "It offers uninterrupted energy access as an alternative to the Strait of Hormuz.",
+                "It serves as a primary hub for Himalayan trade.",
+                "It controls all container traffic between Africa and Russia.",
+                "It is the largest naval base for the Indian Ocean fleet."
+            ],
+            "correct_answer": "It offers uninterrupted energy access as an alternative to the Strait of Hormuz.",
+            "answer_no": 1
+        },
+        {
+            "question_no": 15,
+            "question": "The Sohar Port is managed by a joint venture between the Government of Oman and:",
+            "options": [
+                "The Singapore Port Authority.",
+                "The Port of Rotterdam.",
+                "The Adani Group.",
+                "DP World."
+            ],
+            "correct_answer": "The Port of Rotterdam.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "Which of the following is NOT one of the 'eight specified requirements' for film certification in India?",
+            "options": [
+                "Ensuring public order is not endangered.",
+                "Maintaining the sovereignty and integrity of the country.",
+                "Avoiding scenes that promote anti-national attitudes.",
+                "Allowing scenes depicting detailed methods of committing crimes."
+            ],
+            "correct_answer": "Allowing scenes depicting detailed methods of committing crimes.",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "Who recently expressed a legal objection to the reappointment of the Tata Sons Chairman?",
+            "options": [
+                "Venu Srinivasan.",
+                "Noel Tata.",
+                "Saurabh Agrawal.",
+                "N Chandrasekaran."
+            ],
+            "correct_answer": "Noel Tata.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "What is the primary purpose of the Employees' Deposit Linked Insurance (EDLI) Scheme?",
+            "options": [
+                "Providing tax-free dividends for retirees.",
+                "Offering life insurance cover to families upon the death of an employee during service.",
+                "Subsidizing housing loans for low-income workers.",
+                "Funding medical research into occupational diseases."
+            ],
+            "correct_answer": "Offering life insurance cover to families upon the death of an employee during service.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "Which of these best describes the 'Shapoorji Pallonji' interest in the listing of Tata Sons?",
+            "options": [
+                "They are lobbying the government to block the IPO for personal profit.",
+                "They oppose listing because they want to control the Trusts.",
+                "They believe a public listing will provide necessary liquidity for their large stake.",
+                "They wish to maintain the status quo to keep the company private."
+            ],
+            "correct_answer": "They believe a public listing will provide necessary liquidity for their large stake.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 20,
+            "question": "The term 'Core Investment Company' as mentioned in the news relates to:",
+            "options": [
+                "A new government initiative to promote startup investment.",
+                "Environmental sustainability standards for manufacturing firms.",
+                "The legal framework for NGOs receiving foreign funding.",
+                "A regulatory classification for holding companies by the RBI."
+            ],
+            "correct_answer": "A regulatory classification for holding companies by the RBI.",
+            "answer_no": 4
+        }
+    ]
+}
