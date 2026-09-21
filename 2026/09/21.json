@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "21-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which state topped the 'India Electric Mobility Index (IEMI) 2025' for large states in NITI Aayog's recent assessment?",
+            "options": [
+                "Tamil Nadu",
+                "Karnataka",
+                "Maharashtra",
+                "Delhi"
+            ],
+            "correct_answer": "Maharashtra",
+            "answer_no": 3
+        },
+        {
+            "question_no": 2,
+            "question": "As per the 2026 amendment, whose approval is now essential for registering births or deaths reported after one year but within two years?",
+            "options": [
+                "Health Officer",
+                "Panchayat Secretary",
+                "District Magistrate",
+                "Local Registrar"
+            ],
+            "correct_answer": "District Magistrate",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "What is the new wage ceiling for mandatory EPFO coverage approved by the Union Cabinet in September 2026?",
+            "options": [
+                "Rs 15,000",
+                "Rs 30,000",
+                "Rs 25,000",
+                "Rs 20,000"
+            ],
+            "correct_answer": "Rs 25,000",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "Which ministry issued the operational guidelines for the GOBARdhan scheme aimed at boosting the Compressed Biogas (CBG) sector?",
+            "options": [
+                "Ministry of Environment",
+                "Ministry of Petroleum and Natural Gas",
+                "Ministry of Agriculture",
+                "Ministry of New and Renewable Energy"
+            ],
+            "correct_answer": "Ministry of Petroleum and Natural Gas",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "The Swachhata Hi Seva 2026 campaign featured a plantation drive under which specific initiative?",
+            "options": [
+                "Green India Mission",
+                "Vriksharopan Yojna",
+                "Swachh Bharat Abhiyan",
+                "Ek Ped Ma Ke Naam"
+            ],
+            "correct_answer": "Ek Ped Ma Ke Naam",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "According to NITI Aayog's 9th Trade Watch Quarterly report, which factor significantly influenced India's export growth in Q1 FY27?",
+            "options": [
+                "Software services",
+                "Agricultural produce",
+                "Mineral fuels",
+                "Textiles"
+            ],
+            "correct_answer": "Mineral fuels",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "The SPROUT facility inaugurated at BRIC-NIPGR focuses primarily on developing climate-resilient varieties of which crop?",
+            "options": [
+                "Chickpea",
+                "Wheat",
+                "Maize",
+                "Rice"
+            ],
+            "correct_answer": "Chickpea",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "Which government department manages the Nasha Mukt Bharat Abhiyaan?",
+            "options": [
+                "Ministry of Home Affairs",
+                "Department of Youth Affairs",
+                "Department of Health and Family Welfare",
+                "Department of Social Justice and Empowerment"
+            ],
+            "correct_answer": "Department of Social Justice and Empowerment",
+            "answer_no": 4
+        },
+        {
+            "question_no": 9,
+            "question": "The smart classroom project in 29 Rajasthan EMRSs is a joint initiative involving NSTFDC and which PSU?",
+            "options": [
+                "BPCL",
+                "HPCL",
+                "IOCL",
+                "ONGC"
+            ],
+            "correct_answer": "HPCL",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "In the Global Financial Centres Index (GFCI 40), where does GIFT City stand?",
+            "options": [
+                "37th",
+                "30th",
+                "46th",
+                "50th"
+            ],
+            "correct_answer": "37th",
+            "answer_no": 1
+        },
+        {
+            "question_no": 11,
+            "question": "What is the new MDR charge for UPI transactions exceeding Rs 2,000, as finalized by the NPCI?",
+            "options": [
+                "0.5%",
+                "1%",
+                "0.2%",
+                "0.4%"
+            ],
+            "correct_answer": "0.4%",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "Which technology facilitated India’s first tokenised corporate bond issuance worth Rs 1,000 crore?",
+            "options": [
+                "Blockchain",
+                "Cryptographic Signing",
+                "Cloud Ledger",
+                "Distributed Ledger Technology"
+            ],
+            "correct_answer": "Distributed Ledger Technology",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "Sethuraman Panchanathan, the recipient of the 2026 Arthur M. Bueche Award, is known for his contributions to which field?",
+            "options": [
+                "Aerospace Engineering",
+                "Science and Technology Policy",
+                "Climate Science",
+                "Medical Research"
+            ],
+            "correct_answer": "Science and Technology Policy",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "Until which year will Kamlesh Chandra Varshney continue as a SEBI Whole-Time Member following his reappointment?",
+            "options": [
+                "2027",
+                "2029",
+                "2030",
+                "2028"
+            ],
+            "correct_answer": "2029",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "E.M. Sudarsana Natchiappan, who recently passed away, was a prominent lawyer who also chaired a parliamentary committee on which subject?",
+            "options": [
+                "Personnel and Law",
+                "External Affairs",
+                "Defense",
+                "Commerce and Industry"
+            ],
+            "correct_answer": "Personnel and Law",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "What is the primary theme for World Patient Safety Day 2026?",
+            "options": [
+                "Safe care for life!",
+                "Safe care for Noncommunicable Diseases",
+                "Medication without harm",
+                "Patient dignity matters"
+            ],
+            "correct_answer": "Safe care for Noncommunicable Diseases",
+            "answer_no": 2
+        },
+        {
+            "question_no": 17,
+            "question": "Which organisation proposed the resolution that eventually led to International Equal Pay Day?",
+            "options": [
+                "International Labour Organization",
+                "UN Women",
+                "World Economic Forum",
+                "Equal Pay International Coalition (EPIC)"
+            ],
+            "correct_answer": "Equal Pay International Coalition (EPIC)",
+            "answer_no": 4
+        },
+        {
+            "question_no": 18,
+            "question": "Mazagon Dock Shipbuilders Limited (MDL) is set to develop a major shipbuilding cluster in which district of Maharashtra?",
+            "options": [
+                "Raigad",
+                "Mumbai",
+                "Thane",
+                "Ratnagiri"
+            ],
+            "correct_answer": "Raigad",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "According to the Indian PM, how does India's per capita carbon emission compare to the global average?",
+            "options": [
+                "It is less than half",
+                "It is equal",
+                "It is double",
+                "It is about the same"
+            ],
+            "correct_answer": "It is less than half",
+            "answer_no": 1
+        },
+        {
+            "question_no": 20,
+            "question": "Why is Greenland considered strategically significant for the United States, as per recent defense reports?",
+            "options": [
+                "Tourism revenue",
+                "High-speed rail projects",
+                "Monitoring missile threats",
+                "Agricultural trade"
+            ],
+            "correct_answer": "Monitoring missile threats",
+            "answer_no": 3
+        }
+    ]
+}
