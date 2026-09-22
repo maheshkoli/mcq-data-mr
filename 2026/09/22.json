@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "22-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "The 13th edition of the SLINEX-26 maritime exercise was held between which two countries?",
+            "options": [
+                "India and Sri Lanka",
+                "India and Maldives",
+                "India and Russia",
+                "India and Bhutan"
+            ],
+            "correct_answer": "India and Sri Lanka",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "Which specific agreement was signed at the Indo-Russia Innopraktika Technology Hub during INNOPROM India 2026?",
+            "options": [
+                "A treaty for border security",
+                "A pact for coal mining in Siberia",
+                "An accord for agricultural grain exports",
+                "A partnership for AI and cybersecurity center"
+            ],
+            "correct_answer": "A partnership for AI and cybersecurity center",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "The inaugural farm-level soil carbon payments in India were initiated by which body for farmers in Punjab and Haryana?",
+            "options": [
+                "Ministry of Finance",
+                "NITI Aayog",
+                "Indian Council of Agricultural Research (ICAR)",
+                "World Bank"
+            ],
+            "correct_answer": "Indian Council of Agricultural Research (ICAR)",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "APEDA signed an MoU with InD Events Dubai to increase India's visibility as an Official Partner Country at which upcoming event?",
+            "options": [
+                "Global Fintech Fest 2027",
+                "World Expo 2027",
+                "Innoprom 2027",
+                "Gulfood 2027"
+            ],
+            "correct_answer": "Gulfood 2027",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "The LOI signed between IIIT-Bangalore and the Taipei Computer Association marks the first tech partnership of its kind between Taiwan and:",
+            "options": [
+                "West India",
+                "Northeast India",
+                "South India",
+                "North India"
+            ],
+            "correct_answer": "South India",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "During his September 2026 visit to Bhutan, Dr. S. Jaishankar discussed the Joint Vision on Energy Partnership, which prominently features which type of infrastructure?",
+            "options": [
+                "Solar farms",
+                "Thermal Power",
+                "Nuclear energy",
+                "Hydropower"
+            ],
+            "correct_answer": "Hydropower",
+            "answer_no": 4
+        },
+        {
+            "question_no": 7,
+            "question": "The co-branded RuPay credit card launched by novio and Indian Overseas Bank is specifically designed to expand access to:",
+            "options": [
+                "Formal credit",
+                "Foreign currency exchange",
+                "Retail banking",
+                "Digital wallets"
+            ],
+            "correct_answer": "Formal credit",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "What is the new GDP growth forecast for India in FY27 as updated by Moody’s in September 2026?",
+            "options": [
+                "7.5%",
+                "6.5%",
+                "7.0%",
+                "8.2%"
+            ],
+            "correct_answer": "7.0%",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "Which film was selected as India's official entry for the 99th Academy Awards (Oscars 2027)?",
+            "options": [
+                "Shwaas",
+                "Gondhal",
+                "Harishchandrachi Factory",
+                "Court"
+            ],
+            "correct_answer": "Gondhal",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "Hindustan Aeronautics Limited (HAL) delivered which indigenous trainer aircraft to the Indian Air Force?",
+            "options": [
+                "HTT-40",
+                "Tejas FOC Twin Seater",
+                "Rafale",
+                "Sukhoi-30MKI"
+            ],
+            "correct_answer": "HTT-40",
+            "answer_no": 1
+        },
+        {
+            "question_no": 11,
+            "question": "Where was India's first indigenous long-range One-Way Attack (OWA) drone, 'KAL', successfully tested?",
+            "options": [
+                "Wheeler Island",
+                "Pokhran Field Firing Range",
+                "Sriharikota",
+                "Kargil border"
+            ],
+            "correct_answer": "Pokhran Field Firing Range",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "The new tiger cat species 'Leopardus tilcayo' was discovered in which country’s cloud forests?",
+            "options": [
+                "Colombia",
+                "Bolivia",
+                "Peru",
+                "Brazil"
+            ],
+            "correct_answer": "Bolivia",
+            "answer_no": 2
+        },
+        {
+            "question_no": 13,
+            "question": "In 2028, India will host which major international sports competition for the very first time?",
+            "options": [
+                "Asian Chess Olympiad",
+                "Commonwealth Games",
+                "World Badminton Championship",
+                "Asian Senior Wushu Championships"
+            ],
+            "correct_answer": "Asian Senior Wushu Championships",
+            "answer_no": 4
+        },
+        {
+            "question_no": 14,
+            "question": "When is World Bamboo Day, an observance originating from an initiative by an Indian expert, celebrated?",
+            "options": [
+                "September 18",
+                "September 28",
+                "August 15",
+                "October 12"
+            ],
+            "correct_answer": "September 18",
+            "answer_no": 1
+        },
+        {
+            "question_no": 15,
+            "question": "Which global day, observed on September 18, encourages citizens to actively participate in the monitoring of water quality?",
+            "options": [
+                "Global Hydrology Summit",
+                "World Water Monitoring Day",
+                "Clean Water Awareness Day",
+                "World Water Day"
+            ],
+            "correct_answer": "World Water Monitoring Day",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "Madhya Pradesh became the first state to offer free rural property registration under which newly launched 2026 scheme?",
+            "options": [
+                "Swamitva Adhikar Abhilekh Nispadan Evam Panjiyan Yojana",
+                "Gramin Sampatti Suraksha Scheme",
+                "Vikas Registration Program",
+                "Pradhan Mantri Bhumi Kalyan"
+            ],
+            "correct_answer": "Swamitva Adhikar Abhilekh Nispadan Evam Panjiyan Yojana",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "What is the primary legal obstacle discussed by experts regarding the commercial use of traditional Indian crafts by international brands?",
+            "options": [
+                "The government prohibits exporting cultural handicrafts.",
+                "Foreign brands only use machine-made replicas.",
+                "Intellectual property laws are territorial, while culture transcends borders.",
+                "Artisans refuse to sell designs to foreign firms."
+            ],
+            "correct_answer": "Intellectual property laws are territorial, while culture transcends borders.",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "The proposed Public Insurance Registry (PIR) is being hailed as the 'UPI moment' for which financial sector?",
+            "options": [
+                "Banking loans",
+                "Stock Markets",
+                "Insurance",
+                "Mutual Funds"
+            ],
+            "correct_answer": "Insurance",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "What milestone occurred at Kuno National Park shortly after the relocation of a female cheetah from Botswana?",
+            "options": [
+                "Arrival of more lions from Gujarat",
+                "Birth of four cubs to an India-born female",
+                "Official opening of a new park entry",
+                "Transition of Kuno to a Tiger Reserve"
+            ],
+            "correct_answer": "Birth of four cubs to an India-born female",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "Which river flows through the center of Gandhi Sagar Wildlife Sanctuary, splitting it into two sections?",
+            "options": [
+                "Son",
+                "Narmada",
+                "Betwa",
+                "Chambal"
+            ],
+            "correct_answer": "Chambal",
+            "answer_no": 4
+        }
+    ]
+}
