@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "23-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which specific location was chosen for the 'Odisha Silicon Valley' project as announced at SEMICON India 2026?",
+            "options": [
+                "Gopalpur",
+                "Naraj",
+                "Bhubaneswar",
+                "Paradip"
+            ],
+            "correct_answer": "Naraj",
+            "answer_no": 2
+        },
+        {
+            "question_no": 2,
+            "question": "What is the primary mechanism for implementing the Pradhan Mantri Khanij Kshetra Kalyan Yojana (PMKKKY)?",
+            "options": [
+                "Tribal Welfare Boards",
+                "Gram Panchayats",
+                "District Mineral Foundations",
+                "State Mining Corporations"
+            ],
+            "correct_answer": "District Mineral Foundations",
+            "answer_no": 3
+        },
+        {
+            "question_no": 3,
+            "question": "The 'Nasha Mukt Yuva Abhiyan' recently launched by the Ministry of Youth Affairs focuses on a specific number of weeks. What is the duration?",
+            "options": [
+                "150 weeks",
+                "100 weeks",
+                "50 weeks",
+                "75 weeks"
+            ],
+            "correct_answer": "100 weeks",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "Exercise 'NOMADIC ELEPHANT 2026' was conducted between India and which other nation?",
+            "options": [
+                "Uzbekistan",
+                "Mongolia",
+                "Kazakhstan",
+                "Kyrgyzstan"
+            ],
+            "correct_answer": "Mongolia",
+            "answer_no": 2
+        },
+        {
+            "question_no": 5,
+            "question": "Which company secured the contract to manufacture Auxiliary Power Units (APUs) for India's T-72 and T-90 battle tanks?",
+            "options": [
+                "Accurate Industrial Controls Private Limited",
+                "Tata Advanced Systems",
+                "Larsen & Toubro",
+                "Bharat Forge"
+            ],
+            "correct_answer": "Accurate Industrial Controls Private Limited",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "Under the Swachh Seva Aankalan (SSA) framework, which local body is responsible for validating the sanitation assessment of a village?",
+            "options": [
+                "District Collectorate",
+                "Panchayat Samiti",
+                "Gram Sabha",
+                "Block Development Officer"
+            ],
+            "correct_answer": "Gram Sabha",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "What is the primary scientific purpose of a Doppler Weather Radar (DWR) like the one inaugurated in Sambalpur?",
+            "options": [
+                "Seismic activity monitoring",
+                "Atmospheric ozone tracking",
+                "Precipitation and wind pattern detection",
+                "Forest fire prediction"
+            ],
+            "correct_answer": "Precipitation and wind pattern detection",
+            "answer_no": 3
+        },
+        {
+            "question_no": 8,
+            "question": "How will a consumer be affected if they do not complete Biometric Aadhaar Authentication (BAA) for LPG refills starting October 2026?",
+            "options": [
+                "They must pay the full market price without subsidy",
+                "Service will be terminated",
+                "They receive only 5kg cylinders",
+                "They face a fine on every booking"
+            ],
+            "correct_answer": "They must pay the full market price without subsidy",
+            "answer_no": 1
+        },
+        {
+            "question_no": 9,
+            "question": "In the recently signed MoU between Nibe Limited and France’s Naval Group, which area of naval technology is specifically highlighted?",
+            "options": [
+                "Underwater autonomous systems",
+                "Satellite surveillance",
+                "Long-range ballistic missiles",
+                "Aircraft carrier design"
+            ],
+            "correct_answer": "Underwater autonomous systems",
+            "answer_no": 1
+        },
+        {
+            "question_no": 10,
+            "question": "According to 'The Gender Snapshot 2026' report, which institution-related trend was identified as a major concern?",
+            "options": [
+                "Budgetary reductions for gender equality bodies",
+                "Higher political representation in finance ministries",
+                "Growth in funding for women's organizations",
+                "Rise in female leadership across private sectors"
+            ],
+            "correct_answer": "Budgetary reductions for gender equality bodies",
+            "answer_no": 1
+        },
+        {
+            "question_no": 11,
+            "question": "Which U.S. city hosted the G20 Energy Abundance Ministerial Meeting 2026 where India participated?",
+            "options": [
+                "Washington D.C.",
+                "Houston",
+                "Chicago",
+                "San Francisco"
+            ],
+            "correct_answer": "Houston",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "Starting April 2027, the RBI's new market-risk framework for commercial banks will align with which international regulatory standard?",
+            "options": [
+                "Basel II",
+                "Bretton Woods",
+                "Solvency II",
+                "Basel III"
+            ],
+            "correct_answer": "Basel III",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "Which country remains the top destination for India's software services exports, according to the recent RBI survey?",
+            "options": [
+                "United States",
+                "United Kingdom",
+                "Canada",
+                "Germany"
+            ],
+            "correct_answer": "United States",
+            "answer_no": 1
+        },
+        {
+            "question_no": 14,
+            "question": "Why did eight NBFCs surrender their Certificate of Registration (CoR) to the RBI recently?",
+            "options": [
+                "Failure to pay taxes",
+                "Data privacy violations",
+                "Mergers or business exits",
+                "High interest rate caps"
+            ],
+            "correct_answer": "Mergers or business exits",
+            "answer_no": 3
+        },
+        {
+            "question_no": 15,
+            "question": "RNFI Money has received RBI approval for which specialized financial service?",
+            "options": [
+                "Issuance of debit cards",
+                "Crypto-asset trading",
+                "Cross-border trade remittances",
+                "Merchant banking"
+            ],
+            "correct_answer": "Cross-border trade remittances",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "Who is the incoming Executive Director of the World Food Programme (WFP), appointed for a five-year term?",
+            "options": [
+                "Qu Dongyu",
+                "Carl Skau",
+                "Cindy McCain",
+                "Luke J. Lindberg"
+            ],
+            "correct_answer": "Luke J. Lindberg",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "Before taking charge as Chairperson of the IBBI, what was Jayanti Prasad’s professional background?",
+            "options": [
+                "Corporate Law Consultant",
+                "Whole-Time Member of IBBI",
+                "Banking CEO",
+                "High Court Judge"
+            ],
+            "correct_answer": "Whole-Time Member of IBBI",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "The recent CCI approval for acquiring cricket franchises like the Rajasthan Royals involved which group of investors?",
+            "options": [
+                "Adani Sportsline",
+                "Tata Group",
+                "Reliance Industries",
+                "Mittal family and Adar Cyrus Poonawalla"
+            ],
+            "correct_answer": "Mittal family and Adar Cyrus Poonawalla",
+            "answer_no": 4
+        },
+        {
+            "question_no": 19,
+            "question": "Dr. G. Vijayaraghavan, who recently passed away, was a pioneer in which Indian state's medical infrastructure?",
+            "options": [
+                "Maharashtra",
+                "Tamil Nadu",
+                "Karnataka",
+                "Kerala"
+            ],
+            "correct_answer": "Kerala",
+            "answer_no": 4
+        },
+        {
+            "question_no": 20,
+            "question": "Under Article 22(1), the Supreme Court clarified that an illegal arrest does not depend on which factor?",
+            "options": [
+                "Procedural norms",
+                "Written notification",
+                "Magistrate oversight",
+                "Gravity of the offense"
+            ],
+            "correct_answer": "Gravity of the offense",
+            "answer_no": 4
+        }
+    ]
+}
