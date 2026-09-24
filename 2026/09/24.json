@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "24-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which specific portal has the Ministry of Civil Aviation introduced to allow states to nominate airstrips for the latest phase of the UDAN scheme?",
+            "options": [
+                "Airstrip Development Portal",
+                "Regional Air Connectivity Portal",
+                "Challenge Mode Portal for Aerodrome Development",
+                "UDAN Infrastructure Gateway"
+            ],
+            "correct_answer": "Challenge Mode Portal for Aerodrome Development",
+            "answer_no": 3
+        },
+        {
+            "question_no": 2,
+            "question": "Under which constitutional article has the President of India amended the Inter-State Council Order, 1990 to allow Governors' participation during President’s Rule?",
+            "options": [
+                "Article 239AB",
+                "Article 356",
+                "Article 370",
+                "Article 263"
+            ],
+            "correct_answer": "Article 263",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "India has marked a milestone by becoming the first South Asian host of the World Circular Economy Forum (WCEF) 2026. Where was this edition held?",
+            "options": [
+                "Gandhinagar",
+                "Bengaluru",
+                "New Delhi",
+                "Mumbai"
+            ],
+            "correct_answer": "Gandhinagar",
+            "answer_no": 1
+        },
+        {
+            "question_no": 4,
+            "question": "The newly commissioned advanced radar facility in Assam, supported by ISRO, is part of which specific program aimed at safeguarding space assets?",
+            "options": [
+                "GAGANYAAN",
+                "CHANDRAYAAN-4",
+                "NAVIGATOR",
+                "NETRA"
+            ],
+            "correct_answer": "NETRA",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "Which premier engineering institute in India recently finalized an MoU with the University of Michigan to advance electric mobility research?",
+            "options": [
+                "IIT Madras",
+                "IIT-BHU",
+                "IIT Delhi",
+                "IIT Bombay"
+            ],
+            "correct_answer": "IIT-BHU",
+            "answer_no": 2
+        },
+        {
+            "question_no": 6,
+            "question": "The government has recently dissolved the Digital Communications Commission after nearly four decades. Which department previously housed this apex body?",
+            "options": [
+                "Department of Telecommunications",
+                "Department of Science and Technology",
+                "Ministry of Electronics and Information Technology",
+                "Department of Space"
+            ],
+            "correct_answer": "Department of Telecommunications",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "PM Narendra Modi recently unveiled the logo commemorating the birth centenary of which distinguished Udupi seer?",
+            "options": [
+                "Sri Vidyaprasanna Tirtha",
+                "Sri Vishwesha Tirtha Swamiji",
+                "Sri Madhvacharya",
+                "Sri Raghavendra Swamiji"
+            ],
+            "correct_answer": "Sri Vishwesha Tirtha Swamiji",
+            "answer_no": 2
+        },
+        {
+            "question_no": 8,
+            "question": "Which educational institution recently made history as the first NIT to set up a dedicated campus-based astronomical observatory?",
+            "options": [
+                "NIT Rourkela",
+                "NIT Trichy",
+                "NIT Srinagar",
+                "NIT Surathkal"
+            ],
+            "correct_answer": "NIT Srinagar",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "Which Indian company recently achieved the country's largest solar cell manufacturing capacity, reaching 10.6 GW?",
+            "options": [
+                "Reliance New Energy",
+                "Tata Power Solar",
+                "Adani Solar",
+                "Premier Energies"
+            ],
+            "correct_answer": "Premier Energies",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "Mazagon Dock Shipbuilders Limited (MDL) has entered an agreement to build a major shipyard cluster in which state?",
+            "options": [
+                "Gujarat",
+                "Maharashtra",
+                "Andhra Pradesh",
+                "Odisha"
+            ],
+            "correct_answer": "Andhra Pradesh",
+            "answer_no": 3
+        },
+        {
+            "question_no": 11,
+            "question": "The WMO’s 2025 State of Global Water Resources report identifies that glaciated regions have faced net ice mass loss for how many consecutive years?",
+            "options": [
+                "Two years",
+                "Five years",
+                "Four years",
+                "Three years"
+            ],
+            "correct_answer": "Four years",
+            "answer_no": 3
+        },
+        {
+            "question_no": 12,
+            "question": "In the Global Business Climate Survey 2026, which country topped the rankings out of 41 international markets?",
+            "options": [
+                "Singapore",
+                "India",
+                "Vietnam",
+                "Ireland"
+            ],
+            "correct_answer": "India",
+            "answer_no": 2
+        },
+        {
+            "question_no": 13,
+            "question": "What is the new GDP growth forecast for India in FY27, as projected by S&P Global Ratings in their recent outlook?",
+            "options": [
+                "6.8%",
+                "6.6%",
+                "7.0%",
+                "7.2%"
+            ],
+            "correct_answer": "7.0%",
+            "answer_no": 3
+        },
+        {
+            "question_no": 14,
+            "question": "Who was recently re-elected as the President of the International Cooperative Alliance (ICA) Youth Committee for the 2026–2030 term?",
+            "options": [
+                "Vipin Kumar",
+                "Harsh Sanghani",
+                "Ana Aguirre",
+                "Praveen Adhithya"
+            ],
+            "correct_answer": "Harsh Sanghani",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "Mastercard recently sold its stake in which Indian fintech major to institutional investors?",
+            "options": [
+                "Pine Labs",
+                "BharatPe",
+                "Paytm",
+                "Razorpay"
+            ],
+            "correct_answer": "Pine Labs",
+            "answer_no": 1
+        },
+        {
+            "question_no": 16,
+            "question": "Which bank recently signed an escrow agreement to partially divest its stake in PNB MetLife India Insurance?",
+            "options": [
+                "Axis Bank",
+                "HDFC Bank",
+                "ICICI Bank",
+                "J&K Bank"
+            ],
+            "correct_answer": "J&K Bank",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "After an 11-year international career, which English cricketer announced his retirement from all formats in September 2026?",
+            "options": [
+                "Joe Root",
+                "Ben Stokes",
+                "James Anderson",
+                "Mark Wood"
+            ],
+            "correct_answer": "Mark Wood",
+            "answer_no": 4
+        },
+        {
+            "question_no": 18,
+            "question": "The late Flight Lieutenant Alfred Tyrone Cooke was famously awarded which decoration for his gallantry during the 1965 war?",
+            "options": [
+                "Vir Chakra",
+                "Param Vir Chakra",
+                "Maha Vir Chakra",
+                "Ashoka Chakra"
+            ],
+            "correct_answer": "Vir Chakra",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "Which state has become the first to enact legislation that separates the identity of a farmer from land ownership by providing a 'Woman Farmer Certificate'?",
+            "options": [
+                "Punjab",
+                "Maharashtra",
+                "Kerala",
+                "Odisha"
+            ],
+            "correct_answer": "Maharashtra",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "Which coffee chain has signed an MoU to establish its first Global Capability Centre (GCC) in Chennai, creating 800 new tech jobs?",
+            "options": [
+                "Starbucks",
+                "Blue Tokai",
+                "Lavazza",
+                "Barista"
+            ],
+            "correct_answer": "Starbucks",
+            "answer_no": 1
+        }
+    ]
+}
