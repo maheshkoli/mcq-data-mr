@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "25-09-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which prominent health insurance initiative completed eight years of nationwide service in September 2026, crossing the massive milestone of over 60 crore beneficiaries?",
+            "options": [
+                "National Health Mission",
+                "Employees' State Insurance Scheme",
+                "Central Government Health Scheme",
+                "Ayushman Bharat Pradhan-Mantri Jan Aarogya Yojana"
+            ],
+            "correct_answer": "Ayushman Bharat Pradhan-Mantri Jan Aarogya Yojana",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "Under the funding mechanism of the AB PM-JAY Centrally Sponsored Scheme, what's the financial sharing ratio between the Centre and North-Eastern States like Himachal Pradesh and Uttarakhand?",
+            "options": [
+                "60:40",
+                "75:25",
+                "50:50",
+                "90:10"
+            ],
+            "correct_answer": "90:10",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "When does the newly signed Free Trade Agreement between India and New Zealand officially come into force, granting 100% duty-free access to Indian exports?",
+            "options": [
+                "20 October 2026",
+                "15 November 2026",
+                "26 January 2027",
+                "1 January 2027"
+            ],
+            "correct_answer": "20 October 2026",
+            "answer_no": 1
+        },
+        {
+            "question_no": 4,
+            "question": "By which target date has the Ministry of Home Affairs resolved to achieve a completely drug-free India, as discussed during the 3rd ANTF conference?",
+            "options": [
+                "15 August 2027",
+                "2 October 2030",
+                "31 December 2029",
+                "31 March 2047"
+            ],
+            "correct_answer": "31 December 2029",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "Which government body is mandated to oversee the newly introduced compulsory BIS certification for smartphone screen protectors starting April 2027?",
+            "options": [
+                "Competition Commission of India",
+                "Directorate General of Foreign Trade",
+                "Telecom Regulatory Authority of India",
+                "Bureau of Indian Standards"
+            ],
+            "correct_answer": "Bureau of Indian Standards",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "The Ministry of Defence recently contracted Bharat Dynamics Limited for 160 Satellite Smart Anti-Airfield Weapons. What is the designated category of this procurement?",
+            "options": [
+                "Fast Track Procurement",
+                "Buy (Global - Manufacture in India)",
+                "Buy and Make (Indian)",
+                "Buy (Indian-IDDM)"
+            ],
+            "correct_answer": "Buy (Indian-IDDM)",
+            "answer_no": 4
+        },
+        {
+            "question_no": 7,
+            "question": "Following regulatory restructuring by its UK-based parent Prudential plc, what is the new official name of ICICI Prudential Life Insurance?",
+            "options": [
+                "ICICI Life Insurance Limited",
+                "ICICI Direct Life Insurance",
+                "ICICI Assurance & Life Co.",
+                "Prudential ICICI Life Corporation"
+            ],
+            "correct_answer": "ICICI Life Insurance Limited",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "Which corporate banking platform launched B2B bill payments via Bharat Connect for Business in collaboration with NBBL?",
+            "options": [
+                "Invoicemart",
+                "Yono Business",
+                "TrustHub by TBX",
+                "CredAble Connect"
+            ],
+            "correct_answer": "TrustHub by TBX",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "Fitch Ratings revised India’s GDP growth projection upward to what percentage for the Financial Year 2026-27 in its September report?",
+            "options": [
+                "7.2%",
+                "6.4%",
+                "7.8%",
+                "6.9%"
+            ],
+            "correct_answer": "6.9%",
+            "answer_no": 4
+        },
+        {
+            "question_no": 10,
+            "question": "Who claimed the top spot in the M3M Hurun India Rich List 2026 with a recorded family wealth of Rs. 9.23 lakh crore?",
+            "options": [
+                "Cyrus S. Poonawalla",
+                "Gautam Adani",
+                "Mukesh Ambani",
+                "L.N. Mittal"
+            ],
+            "correct_answer": "Gautam Adani",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "Where is the prestigious UCI Road World Championships 2032 scheduled to be held, marking India's debut as host?",
+            "options": [
+                "Hyderabad, Telangana",
+                "Pune, Maharashtra",
+                "New Delhi, Delhi",
+                "Bengaluru, Karnataka"
+            ],
+            "correct_answer": "Pune, Maharashtra",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "Savithri Sreedharan, who recently passed away, earned widespread acclaim and a Special Jury Mention at the National Film Awards for her portrayal of Jameela in which field?",
+            "options": [
+                "Malayalam Theatre and Cinema",
+                "Classical Mohiniyattam Dance",
+                "Classical Carnatic Music",
+                "Contemporary Indian Painting"
+            ],
+            "correct_answer": "Malayalam Theatre and Cinema",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "Sandro Mazzola, who passed away at 83, is famously remembered as a legendary football icon for which European club?",
+            "options": [
+                "Inter Milan",
+                "Real Madrid",
+                "AC Milan",
+                "Juventus"
+            ],
+            "correct_answer": "Inter Milan",
+            "answer_no": 1
+        },
+        {
+            "question_no": 14,
+            "question": "What was the official global theme designated for World Alzheimer's Day observed on September 21, 2026?",
+            "options": [
+                "Let's Talk About Dementia",
+                "Time to Act on Dementia",
+                "The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters",
+                "Never Too Early, Never Too Late"
+            ],
+            "correct_answer": "The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters",
+            "answer_no": 3
+        },
+        {
+            "question_no": 15,
+            "question": "Under the newly launched DURGA scheme by the Delhi Cabinet, pink e-autos are primarily allocated to provide livelihoods for which demographic groups?",
+            "options": [
+                "Retired defense personnel",
+                "Senior citizens and war veterans",
+                "Women and transgender persons",
+                "Unemployed engineering graduates"
+            ],
+            "correct_answer": "Women and transgender persons",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "The Supreme Court reference regarding the 2023 law on Election Commissioner appointments stems from a constitutional judgment delivered in which landmark case?",
+            "options": [
+                "Maneka Gandhi v. Union of India",
+                "Anoop Baranwal v. Union of India",
+                "Kesavananda Bharati v. State of Kerala",
+                "Indra Sawhney v. Union of India"
+            ],
+            "correct_answer": "Anoop Baranwal v. Union of India",
+            "answer_no": 2
+        },
+        {
+            "question_no": 17,
+            "question": "According to Justice Dipankar Datta's observations in the recent EC appointment case, what analogy did he use to highlight the importance of fair institutional processes?",
+            "options": [
+                "A chess game with loaded dice",
+                "A cricket match where the umpire's fairness must be beyond suspicion",
+                "A race with unequal starting blocks",
+                "A ship sailing without a compass"
+            ],
+            "correct_answer": "A cricket match where the umpire's fairness must be beyond suspicion",
+            "answer_no": 2
+        },
+        {
+            "question_no": 18,
+            "question": "According to the Ministry of Road Transport and Highways report for 2024, what was India's approximate total road network length, making it one of the largest globally?",
+            "options": [
+                "4.5 million kilometres",
+                "8.1 million kilometres",
+                "6.7 million kilometres",
+                "5.2 million kilometres"
+            ],
+            "correct_answer": "6.7 million kilometres",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "As reaffirmed in recent motor accident jurisprudence, how does an acquittal in a criminal case for rash driving impact separate Motor Accidents Claims Tribunal proceedings?",
+            "options": [
+                "It reduces the compensation amount by half",
+                "It has no direct bearing because civil and criminal matters apply different standards of proof",
+                "It shifts the liability entirely to the state government",
+                "It automatically dismisses the civil claim"
+            ],
+            "correct_answer": "It has no direct bearing because civil and criminal matters apply different standards of proof",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "Under the Motor Vehicles Act no-fault liability provisions, what is the statutory compensation amount mandated in case of a fatal road accident?",
+            "options": [
+                "Rs. 5 lakh",
+                "Rs. 2.5 lakh",
+                "Rs. 50,000",
+                "Rs. 25,000"
+            ],
+            "correct_answer": "Rs. 5 lakh",
+            "answer_no": 1
+        }
+    ]
+}
