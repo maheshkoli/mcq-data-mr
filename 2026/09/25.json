@@ -5,103 +5,103 @@
     "data": [
         {
             "question_no": 1,
-            "question": "Which prominent health insurance initiative completed eight years of nationwide service in September 2026, crossing the massive milestone of over 60 crore beneficiaries?",
+            "question": "कोणत्या प्रमुख आरोग्य विमा उपक्रमाने सप्टेंबर 2026 मध्ये देशव्यापी सेवेची आठ वर्षे पूर्ण केली आणि 60 कोटींहून अधिक लाभार्थ्यांचा भव्य मैलाचा दगड ओलांडला?",
             "options": [
-                "National Health Mission",
-                "Employees' State Insurance Scheme",
-                "Central Government Health Scheme",
-                "Ayushman Bharat Pradhan-Mantri Jan Aarogya Yojana"
+                "राष्ट्रीय आरोग्य अभियान",
+                "कर्मचारी राज्य विमा योजना",
+                "केंद्र सरकारची आरोग्य योजना",
+                "आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना"
             ],
-            "correct_answer": "Ayushman Bharat Pradhan-Mantri Jan Aarogya Yojana",
+            "correct_answer": "आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना",
             "answer_no": 4
         },
         {
             "question_no": 2,
-            "question": "Under the funding mechanism of the AB PM-JAY Centrally Sponsored Scheme, what's the financial sharing ratio between the Centre and North-Eastern States like Himachal Pradesh and Uttarakhand?",
+            "question": "एबी पीएम - जेएवाय केंद्र पुरस्कृत योजनेअंतर्गत हिमाचल प्रदेश आणि उत्तराखंड सारख्या केंद्र आणि ईशान्येकडील राज्यांमध्ये आर्थिक सामायिकरण प्रमाण किती आहे?",
             "options": [
-                "60:40",
+                "= 60 +40",
                 "75:25",
-                "50:50",
-                "90:10"
+                "50\n50",
+                "९०: १०"
             ],
-            "correct_answer": "90:10",
+            "correct_answer": "९०: १०",
             "answer_no": 4
         },
         {
             "question_no": 3,
-            "question": "When does the newly signed Free Trade Agreement between India and New Zealand officially come into force, granting 100% duty-free access to Indian exports?",
+            "question": "भारत आणि न्यूझीलंड यांच्यातील नव्याने स्वाक्षरी केलेला मुक्त व्यापार करार अधिकृतपणे कधी लागू होईल आणि भारतीय निर्यातीला 100% शुल्कमुक्त प्रवेश देईल?",
             "options": [
-                "20 October 2026",
-                "15 November 2026",
-                "26 January 2027",
-                "1 January 2027"
+                "20 ऑक्टोबर 2026",
+                "15 नोव्हेंबर 2026",
+                "26 जानेवारी 2027",
+                "1 जानेवारी 2027"
             ],
-            "correct_answer": "20 October 2026",
+            "correct_answer": "20 ऑक्टोबर 2026",
             "answer_no": 1
         },
         {
             "question_no": 4,
-            "question": "By which target date has the Ministry of Home Affairs resolved to achieve a completely drug-free India, as discussed during the 3rd ANTF conference?",
+            "question": "कोणत्या लक्ष्य तारखेपर्यंत गृह मंत्रालयाने तिसऱ्या एएनटीएफ परिषदेत चर्चा केल्याप्रमाणे पूर्णपणे अंमली पदार्थमुक्त भारत साध्य करण्याचा संकल्प केला आहे?",
             "options": [
-                "15 August 2027",
-                "2 October 2030",
-                "31 December 2029",
-                "31 March 2047"
+                "15 ऑगस्ट 2027",
+                "2 ऑक्टोबर 2030",
+                "३१ डिसेंबर २०२९",
+                "३१ मार्च २०४७"
             ],
-            "correct_answer": "31 December 2029",
+            "correct_answer": "३१ डिसेंबर २०२९",
             "answer_no": 3
         },
         {
             "question_no": 5,
-            "question": "Which government body is mandated to oversee the newly introduced compulsory BIS certification for smartphone screen protectors starting April 2027?",
+            "question": "एप्रिल 2027 पासून स्मार्टफोन स्क्रीन प्रोटेक्टर्ससाठी नव्याने सादर केलेल्या अनिवार्य बीआयएस प्रमाणपत्राची देखरेख करण्यासाठी कोणती सरकारी संस्था अनिवार्य आहे?",
             "options": [
-                "Competition Commission of India",
-                "Directorate General of Foreign Trade",
-                "Telecom Regulatory Authority of India",
-                "Bureau of Indian Standards"
+                "भारतीय प्रतिस्पर्धी आयोग",
+                "विदेशी व्यापार महासंचालनालय",
+                "भारतीय दूरसंचार नियामक प्राधिकरण",
+                "ब्युरो ऑफ इंडियन स्टँडर्ड्स"
             ],
-            "correct_answer": "Bureau of Indian Standards",
+            "correct_answer": "ब्युरो ऑफ इंडियन स्टँडर्ड्स",
             "answer_no": 4
         },
         {
             "question_no": 6,
-            "question": "The Ministry of Defence recently contracted Bharat Dynamics Limited for 160 Satellite Smart Anti-Airfield Weapons. What is the designated category of this procurement?",
+            "question": "संरक्षण मंत्रालयाने भारत डायनॅमिक्स लिमिटेडला 160 उपग्रह स्मार्ट एअरफिल्ड शस्त्रे खरेदी करण्याचा करार केला आहे. या खरेदीची नेमणूक केलेली श्रेणी काय आहे?",
             "options": [
-                "Fast Track Procurement",
-                "Buy (Global - Manufacture in India)",
-                "Buy and Make (Indian)",
-                "Buy (Indian-IDDM)"
+                "फास्ट ट्रॅक खरेदी",
+                "खरेदी करा (ग्लोबल - मॅन्युफॅक्चरिंग इन इंडिया)",
+                "खरेदी करा आणि तयार करा (भारतीय)",
+                "खरेदी करा (भारतीय - आयडीडीएम)"
             ],
-            "correct_answer": "Buy (Indian-IDDM)",
+            "correct_answer": "खरेदी करा (भारतीय - आयडीडीएम)",
             "answer_no": 4
         },
         {
             "question_no": 7,
-            "question": "Following regulatory restructuring by its UK-based parent Prudential plc, what is the new official name of ICICI Prudential Life Insurance?",
+            "question": "आयसीआयसीआय प्रुडेन्शियल लाइफ इन्शुरन्स (आयसीआयसीआय प्रुडेन्शियल लाइफ इन्शुरन्स) चे नवीन अधिकृत नाव काय आहे?",
             "options": [
-                "ICICI Life Insurance Limited",
-                "ICICI Direct Life Insurance",
-                "ICICI Assurance & Life Co.",
-                "Prudential ICICI Life Corporation"
+                "आयसीआयसीआय लाइफ इन्शुरन्स लिमिटेड",
+                "आयसीआयसीआय डायरेक्ट लाइफ इन्शुरन्स",
+                "आयसीआयसीआय अ‍ॅश्युरन्स अँड लाइफ कंपनी",
+                "प्रुडेन्शियल आयसीआयसीआय लाइफ कॉर्पोरेशन"
             ],
-            "correct_answer": "ICICI Life Insurance Limited",
+            "correct_answer": "आयसीआयसीआय लाइफ इन्शुरन्स लिमिटेड",
             "answer_no": 1
         },
         {
             "question_no": 8,
-            "question": "Which corporate banking platform launched B2B bill payments via Bharat Connect for Business in collaboration with NBBL?",
+            "question": "कोणत्या कॉर्पोरेट बँकिंग प्लॅटफॉर्मने एनबीबीएलच्या सहकार्याने भारत कनेक्ट फॉर बिझिनेसद्वारे बी 2 बी बिल पेमेंट सुरू केले?",
             "options": [
-                "Invoicemart",
-                "Yono Business",
-                "TrustHub by TBX",
-                "CredAble Connect"
+                "इन्व्हॉईसमार्ट",
+                "योनो व्यवसाय",
+                "TBX द्वारे TrustHub",
+                "विश्वासार्ह कनेक्ट"
             ],
-            "correct_answer": "TrustHub by TBX",
+            "correct_answer": "TBX द्वारे TrustHub",
             "answer_no": 3
         },
         {
             "question_no": 9,
-            "question": "Fitch Ratings revised India’s GDP growth projection upward to what percentage for the Financial Year 2026-27 in its September report?",
+            "question": "फिच रेटिंग्जने सप्टेंबरच्या अहवालात भारताचा जीडीपी वाढीचा अंदाज 2026 -27 या आर्थिक वर्षासाठी किती टक्क्यांपर्यंत वाढविला आहे?",
             "options": [
                 "7.2%",
                 "6.4%",
@@ -113,134 +113,134 @@
         },
         {
             "question_no": 10,
-            "question": "Who claimed the top spot in the M3M Hurun India Rich List 2026 with a recorded family wealth of Rs. 9.23 lakh crore?",
+            "question": "कोणत्या व्यक्तीने M3M हुरुन इंडिया रिच लिस्ट 2026 मध्ये 9.23 लाख कोटी रुपयांच्या विक्रमी कौटुंबिक संपत्तीसह अव्वल स्थान पटकावले?",
             "options": [
-                "Cyrus S. Poonawalla",
-                "Gautam Adani",
-                "Mukesh Ambani",
-                "L.N. Mittal"
+                "सायरस एस. पूनावाला",
+                "गौतम अदानी",
+                "मुकेश अंबानी",
+                "एलएन मित्तल"
             ],
-            "correct_answer": "Gautam Adani",
+            "correct_answer": "गौतम अदानी",
             "answer_no": 2
         },
         {
             "question_no": 11,
-            "question": "Where is the prestigious UCI Road World Championships 2032 scheduled to be held, marking India's debut as host?",
+            "question": "2032 ची यूसीआय रोड वर्ल्ड चॅम्पियनशिप कोठे होणार आहे आणि यजमान म्हणून भारताचे पदार्पण कुठे आहे?",
             "options": [
-                "Hyderabad, Telangana",
-                "Pune, Maharashtra",
-                "New Delhi, Delhi",
-                "Bengaluru, Karnataka"
+                "हैदराबाद, तेलंगणा",
+                "पुणे, महाराष्ट्र",
+                "नवी दिल्ली, दिल्ली",
+                "बंगळुरू, कर्नाटक"
             ],
-            "correct_answer": "Pune, Maharashtra",
+            "correct_answer": "पुणे, महाराष्ट्र",
             "answer_no": 2
         },
         {
             "question_no": 12,
-            "question": "Savithri Sreedharan, who recently passed away, earned widespread acclaim and a Special Jury Mention at the National Film Awards for her portrayal of Jameela in which field?",
+            "question": "नुकतेच निधन झालेल्या सावित्री श्रीधरन यांना 'जमीला' या चित्रपटासाठी राष्ट्रीय चित्रपट पुरस्काराने सन्मानित करण्यात आले.",
             "options": [
-                "Malayalam Theatre and Cinema",
-                "Classical Mohiniyattam Dance",
-                "Classical Carnatic Music",
-                "Contemporary Indian Painting"
+                "मल्याळम थिएटर आणि सिनेमा",
+                "शास्त्रीय मोहिनीयट्टम नृत्य",
+                "शास्त्रीय कर्नाटकी संगीत",
+                "आधुनिक भारतीय चित्रकला"
             ],
-            "correct_answer": "Malayalam Theatre and Cinema",
+            "correct_answer": "मल्याळम थिएटर आणि सिनेमा",
             "answer_no": 1
         },
         {
             "question_no": 13,
-            "question": "Sandro Mazzola, who passed away at 83, is famously remembered as a legendary football icon for which European club?",
+            "question": "83 वर्षीय सँड्रो मॅझोला यांना कोणत्या युरोपियन क्लबसाठी प्रसिद्ध फुटबॉल आयकॉन म्हणून ओळखले जाते?",
             "options": [
-                "Inter Milan",
-                "Real Madrid",
-                "AC Milan",
-                "Juventus"
+                "इंटर मिलान",
+                "रिअल माद्रिद",
+                "एसी मिलान",
+                "युव्हेंटस"
             ],
-            "correct_answer": "Inter Milan",
+            "correct_answer": "इंटर मिलान",
             "answer_no": 1
         },
         {
             "question_no": 14,
-            "question": "What was the official global theme designated for World Alzheimer's Day observed on September 21, 2026?",
+            "question": "21 सप्टेंबर 2026 रोजी साजरा करण्यात आलेल्या जागतिक अल्झायमर दिनासाठी अधिकृत जागतिक थीम कोणती होती?",
             "options": [
-                "Let's Talk About Dementia",
-                "Time to Act on Dementia",
-                "The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters",
-                "Never Too Early, Never Too Late"
+                "चला डिमेन्शियाबद्दल बोलूया",
+                "नैराश्यावर उपाय शोधण्याची वेळ",
+                "तुम्हाला जितके आधी माहित असेल तितके तुम्ही करू शकता: डिमेंशिया निदान बाबी",
+                "कधीही खूप लवकर, कधीही खूप उशीर करू नका"
             ],
-            "correct_answer": "The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters",
+            "correct_answer": "तुम्हाला जितके आधी माहित असेल तितके तुम्ही करू शकता: डिमेंशिया निदान बाबी",
             "answer_no": 3
         },
         {
             "question_no": 15,
-            "question": "Under the newly launched DURGA scheme by the Delhi Cabinet, pink e-autos are primarily allocated to provide livelihoods for which demographic groups?",
+            "question": "दिल्ली मंत्रिमंडळाने नव्याने सुरू केलेल्या दुर्गा योजनेंतर्गत, गुलाबी ई-ऑटोचे वाटप प्रामुख्याने कोणत्या लोकसंख्याशास्त्रीय गटांना उपजीविका देण्यासाठी केले जाते?",
             "options": [
-                "Retired defense personnel",
-                "Senior citizens and war veterans",
-                "Women and transgender persons",
-                "Unemployed engineering graduates"
+                "निवृत्त संरक्षण कर्मचारी",
+                "ज्येष्ठ नागरिक आणि युद्धातील दिग्गज",
+                "महिला आणि ट्रान्सजेंडर व्यक्ती",
+                "बेरोजगार अभियांत्रिकी पदवीधर"
             ],
-            "correct_answer": "Women and transgender persons",
+            "correct_answer": "महिला आणि ट्रान्सजेंडर व्यक्ती",
             "answer_no": 3
         },
         {
             "question_no": 16,
-            "question": "The Supreme Court reference regarding the 2023 law on Election Commissioner appointments stems from a constitutional judgment delivered in which landmark case?",
+            "question": "निवडणूक आयुक्त नियुक्तीवरील 2023 कायद्याबाबत सर्वोच्च न्यायालयाचा संदर्भ कोणत्या ऐतिहासिक खटल्यात दिलेल्या घटनात्मक निर्णयामुळे आहे?",
             "options": [
-                "Maneka Gandhi v. Union of India",
-                "Anoop Baranwal v. Union of India",
-                "Kesavananda Bharati v. State of Kerala",
-                "Indra Sawhney v. Union of India"
+                "मनेका गांधी विरुद्ध भारतीय संघ",
+                "अनूप बरनवाल विरुद्ध भारतीय संघ",
+                "केशवानंद भारती विरुद्ध केरळ राज्य",
+                "इंद्रा साहनी वि. युनियन ऑफ इंडिया"
             ],
-            "correct_answer": "Anoop Baranwal v. Union of India",
+            "correct_answer": "अनूप बरनवाल विरुद्ध भारतीय संघ",
             "answer_no": 2
         },
         {
             "question_no": 17,
-            "question": "According to Justice Dipankar Datta's observations in the recent EC appointment case, what analogy did he use to highlight the importance of fair institutional processes?",
+            "question": "न्यायमूर्ती दिपंकर दत्त यांच्या नुकत्याच झालेल्या EC नियुक्ती प्रकरणातील निरीक्षणानुसार, न्याय्य संस्थात्मक प्रक्रियेचे महत्त्व अधोरेखित करण्यासाठी त्यांनी कोणते उपमा वापरले?",
             "options": [
-                "A chess game with loaded dice",
-                "A cricket match where the umpire's fairness must be beyond suspicion",
-                "A race with unequal starting blocks",
-                "A ship sailing without a compass"
+                "भरलेल्या फासेसह बुद्धिबळाचा खेळ",
+                "असा क्रिकेट सामना जिथे अंपायरची निष्पक्षता संशयाच्या पलीकडे असावी",
+                "असमान प्रारंभिक ब्लॉक असलेली शर्यत",
+                "होकायंत्राशिवाय जाणारे जहाज"
             ],
-            "correct_answer": "A cricket match where the umpire's fairness must be beyond suspicion",
+            "correct_answer": "असा क्रिकेट सामना जिथे अंपायरची निष्पक्षता संशयाच्या पलीकडे असावी",
             "answer_no": 2
         },
         {
             "question_no": 18,
-            "question": "According to the Ministry of Road Transport and Highways report for 2024, what was India's approximate total road network length, making it one of the largest globally?",
+            "question": "2024 च्या रस्ते वाहतूक आणि महामार्ग मंत्रालयाच्या अहवालानुसार, भारताच्या एकूण रस्त्यांच्या नेटवर्कची लांबी किती होती, ज्यामुळे ते जागतिक स्तरावर सर्वात मोठे होते?",
             "options": [
-                "4.5 million kilometres",
-                "8.1 million kilometres",
-                "6.7 million kilometres",
-                "5.2 million kilometres"
+                "4.5 दशलक्ष किलोमीटर",
+                "8.1 दशलक्ष किलोमीटर",
+                "6.7 दशलक्ष किलोमीटर",
+                "5.2 दशलक्ष किलोमीटर"
             ],
-            "correct_answer": "6.7 million kilometres",
+            "correct_answer": "6.7 दशलक्ष किलोमीटर",
             "answer_no": 3
         },
         {
             "question_no": 19,
-            "question": "As reaffirmed in recent motor accident jurisprudence, how does an acquittal in a criminal case for rash driving impact separate Motor Accidents Claims Tribunal proceedings?",
+            "question": "अलीकडील मोटार अपघात न्यायशास्त्रात पुष्टी केल्याप्रमाणे, रॅश ड्रायव्हिंगसाठी फौजदारी खटल्यात निर्दोष सुटल्याने स्वतंत्र मोटार अपघात दावा न्यायाधिकरणाच्या कार्यवाहीवर कसा परिणाम होतो?",
             "options": [
-                "It reduces the compensation amount by half",
-                "It has no direct bearing because civil and criminal matters apply different standards of proof",
-                "It shifts the liability entirely to the state government",
-                "It automatically dismisses the civil claim"
+                "त्यामुळे नुकसानभरपाईची रक्कम निम्म्याने कमी होते",
+                "याचा थेट संबंध नाही कारण दिवाणी आणि फौजदारी बाबी पुराव्याचे वेगवेगळे मानक लागू करतात",
+                "त्याची जबाबदारी संपूर्णपणे राज्य सरकारवर हलवली जाते",
+                "हे आपोआप दिवाणी दावा फेटाळून लावते"
             ],
-            "correct_answer": "It has no direct bearing because civil and criminal matters apply different standards of proof",
+            "correct_answer": "याचा थेट संबंध नाही कारण दिवाणी आणि फौजदारी बाबी पुराव्याचे वेगवेगळे मानक लागू करतात",
             "answer_no": 2
         },
         {
             "question_no": 20,
-            "question": "Under the Motor Vehicles Act no-fault liability provisions, what is the statutory compensation amount mandated in case of a fatal road accident?",
+            "question": "मोटार वाहन कायदा नो-फॉल्ट लायबिलिटी तरतुदींनुसार, जीवघेणा रस्ता अपघात झाल्यास कायदेशीर नुकसान भरपाईची रक्कम किती अनिवार्य आहे?",
             "options": [
-                "Rs. 5 lakh",
-                "Rs. 2.5 lakh",
-                "Rs. 50,000",
-                "Rs. 25,000"
+                "रु. 5 लाख",
+                "रु. 2.5 लाख",
+                "रु. 50,000",
+                "रु. 25,000"
             ],
-            "correct_answer": "Rs. 5 lakh",
+            "correct_answer": "रु. 5 लाख",
             "answer_no": 1
         }
     ]
