@@ -197,7 +197,7 @@
         },
         {
             "question_no": 17,
-            "question": "आपत्ती जोखीम कमी करण्याच्या आंतरराष्ट्रीय दिवसासाठी 13 ऑक्टोबर रोजी जागतिक स्तरावर अधिकृत थीम काय आहे?",
+            "question": "What is the official theme adopted globally for the International Day for Disaster Risk Reduction observed on October 13?",
             "options": [
                 "उज्ज्वल भविष्यासाठी असमानतेचा मुकाबला",
                 "लठ्ठपणाची सुरुवात घरापासून होते",
@@ -209,38 +209,38 @@
         },
         {
             "question_no": 18,
-            "question": "आयएसओ, आंतरराष्ट्रीय दूरसंचार संघ आणि इतर कोणत्या जागतिक संस्थेद्वारे संयुक्तपणे जागतिक मानक दिन साजरा केला जातो?",
+            "question": "World Standards Day is jointly organized by the ISO, the International Telecommunication Union, and which other global body?",
             "options": [
-                "आंतरराष्ट्रीय कामगार संघटना",
-                "वर्ल्ड ट्रेड ऑर्गनायझेशन",
-                "युनायटेड नेशन्स इंडस्ट्रियल डेव्हलपमेंट ऑर्गनायझ",
-                "आंतरराष्ट्रीय इलेक्ट्रोटेक्निकल कमिशन"
+                "International Labour Organization",
+                "World Trade Organization",
+                "United Nations Industrial Development Organization",
+                "International Electrotechnical Commission"
             ],
-            "correct_answer": "आंतरराष्ट्रीय इलेक्ट्रोटेक्निकल कमिशन",
+            "correct_answer": "International Electrotechnical Commission",
             "answer_no": 4
         },
         {
             "question_no": 19,
-            "question": "पश्चिम बंगालमधील नव्याने मंजूर झालेल्या '; भागिनी निवेदिता योजने '; चे उद्दीष्ट आहे की रु. कोणत्या लोकसंख्याशास्त्रीय 50,000 रुपये?",
+            "question": "The newly approved 'Bhagini Nivedita Scheme' in West Bengal aims to provide financial support of Rs. 50,000 to which demographic?",
             "options": [
-                "ग्रामीण कुटीर उद्योगातील विधवा कारागीर",
-                "उच्च शिक्षण घेणाऱ्या अविवाहित महिला",
-                "एमएसएमई क्षेत्रात प्रथमच महिला उद्योजक",
-                "दारिद्र्य रेषेखालील माता"
+                "Widowed artisans in rural cottage industries",
+                "Unmarried women pursuing higher education",
+                "First-time women entrepreneurs in MSMEs",
+                "Expectant mothers below the poverty line"
             ],
-            "correct_answer": "उच्च शिक्षण घेणाऱ्या अविवाहित महिला",
+            "correct_answer": "Unmarried women pursuing higher education",
             "answer_no": 2
         },
         {
             "question_no": 20,
-            "question": "पश्चिम बंगालमधील मंत्रिमंडळाच्या नुकत्याच झालेल्या सुधारणांचा एक भाग म्हणून सरकारी वसतिगृहांमध्ये राहणाऱ्या अनुसूचित जाती आणि जमातींच्या विद्यार्थ्यांना मासिक भत्ता किती वाढविण्यात आला?",
+            "question": "As part of recent cabinet revisions in West Bengal, the monthly allowance for students belonging to SC and ST communities residing in government hostels was raised to how much?",
             "options": [
-                "रु. 4,000",
-                "रु. 2,500",
-                "रु. 3,300",
-                "रु. 3,000"
+                "Rs. 4,000",
+                "Rs. 2,500",
+                "Rs. 3,300",
+                "Rs. 3,000"
             ],
-            "correct_answer": "रु. 3,300",
+            "correct_answer": "Rs. 3,300",
             "answer_no": 3
         }
     ]
