@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "19-10-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "एमएससीएआरओ 2026 अंतर्गत बहु - राज्य सहकारी संस्थांसाठी लेखापरीक्षण मानके स्थापित करण्यासाठी केंद्र सरकारला कोणता विशिष्ट कायदा विभाग अधिकार देतो?",
+            "options": [
+                "कलम 73(6) 2023 संशोधन अधिनियम",
+                "कलम 9 - सहकार मंत्रालयाचे नियम",
+                "कंपनी कायदा कलम 12(4)",
+                "कलम 45(2) सहकारी संस्था अधिनियम"
+            ],
+            "correct_answer": "कलम 73(6) 2023 संशोधन अधिनियम",
+            "answer_no": 1
+        },
+        {
+            "question_no": 2,
+            "question": "नवीन प्रस्तावित बीएस -7 उत्सर्जन मानके कोणत्या जागतिक नियामक बेंचमार्कद्वारे प्रेरित आहेत?",
+            "options": [
+                "युनायटेड स्टेट्स ईपीए मानके",
+                "जपान पर्यावरण मंत्रालय नियम",
+                "इंटरनॅशनल मेरिटाइम ऑर्गनायझेशन (IMO) टायर III",
+                "युरोपियन युनियन (युरो 7) मानके"
+            ],
+            "correct_answer": "युरोपियन युनियन (युरो 7) मानके",
+            "answer_no": 4
+        },
+        {
+            "question_no": 3,
+            "question": "नव्याने सुरू करण्यात आलेल्या नीती आयोग डेटा सेंटर मूल्यमापन आराखड्यासंदर्भात खालीलपैकी कोणता स्तंभ त्याच्या पाच प्रमुख स्तंभांपैकी एक नाही?",
+            "options": [
+                "पाणी आणि थंड प्रणाली",
+                "पर्यावरण संरक्षण",
+                "सार्वजनिक आरोग्य देखरेख",
+                "ऊर्जा व ऊर्जा प्रबंधन"
+            ],
+            "correct_answer": "सार्वजनिक आरोग्य देखरेख",
+            "answer_no": 3
+        },
+        {
+            "question_no": 4,
+            "question": "आयआयटी कानपूरने नुकत्याच सुरू केलेल्या 1 अब्ज डॉलर्सच्या 'आमच्यापेक्षा मोठे' मोहिमेचे प्राथमिक उद्दीष्ट काय आहे?",
+            "options": [
+                "ग्लोबल स्टुडंट एक्स्चेंज प्रोग्राम",
+                "पदवीपूर्व फी माफीसाठी वित्तपुरवठा",
+                "संशोधन, नवोन्मेष आणि पायाभूत सुविधांना चालना देणे",
+                "नवीन इंटरनॅशनल कॅम्पसची स्थापना"
+            ],
+            "correct_answer": "संशोधन, नवोन्मेष आणि पायाभूत सुविधांना चालना देणे",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "नॅशनल स्ट्रॅटेजिक ट्रेड कमांड सेंटर (एनएसटीसीसी) कोणत्या डिजिटल पायाभूत सुविधांचा वापर करीत आहे?",
+            "options": [
+                "विद्यमान डीजीएफटी प्रणाली आणि ट्रेड कनेक्ट ई - प्लॅटफॉर्म",
+                "युनिफाइड पेमेंट इंटरफेस (यूपीआय)",
+                "जीएसटीएन बॅकएंड पोर्टल",
+                "राष्ट्रीय एकल खिडकी प्रणाली"
+            ],
+            "correct_answer": "विद्यमान डीजीएफटी प्रणाली आणि ट्रेड कनेक्ट ई - प्लॅटफॉर्म",
+            "answer_no": 1
+        },
+        {
+            "question_no": 6,
+            "question": "5) सॅमसंग सेमीकंडक्टर इंडिया रिसर्च (एसएसआयआर) आणि आयआयएससी यांच्यातील भागीदारीद्वारे क्वांटम रिसर्च लॅब कोठे स्थापित केली गेली आहे?",
+            "options": [
+                "एनआयटी सुरथकल",
+                "आयआयटी दिल्ली",
+                "आयआयटी कानपूर",
+                "आयआयएससी बेंगळुरू"
+            ],
+            "correct_answer": "आयआयएससी बेंगळुरू",
+            "answer_no": 4
+        },
+        {
+            "question_no": 7,
+            "question": "हेनली पासपोर्ट निर्देशांक 2026 मध्ये भारताने जागतिक स्तरावर कोणते स्थान मिळवले आहे?",
+            "options": [
+                "84 वा",
+                "82 वा",
+                "85 वा",
+                "८३ वी"
+            ],
+            "correct_answer": "84 वा",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "कोणत्या देशाची आंतरराष्ट्रीय नाणेनिधी (IMF) आणि जागतिक बँकेच्या गव्हर्नर्स बोर्डाच्या (World Bank Board of Governors) अध्यक्षपदी निवड करण्यात आली?",
+            "options": [
+                "व्हिएतनाम",
+                "भारत",
+                "पाकिस्तान",
+                "बांग्लादेश"
+            ],
+            "correct_answer": "पाकिस्तान",
+            "answer_no": 3
+        },
+        {
+            "question_no": 9,
+            "question": "'अॅक्शन फॉर क्रिएटिंग एनर्जी सिक्युरिटी फॉर लाँग टर्म रेझिलियन्स' (एसीईएल) उपक्रम, जो ग्रीन अमोनिया प्लांटमध्ये आपली पहिली गुंतवणूक दर्शवितो, त्यात कोणत्या आंतरराष्ट्रीय सावकाराचा समावेश आहे?",
+            "options": [
+                "जागतिक बँक",
+                "आशियाई विकास बँक (ADB)",
+                "न्यू डेव्हलपमेंट बँक (एनडीबी)",
+                "आंतरराष्ट्रीय नाणेनिधी (IMF)"
+            ],
+            "correct_answer": "आशियाई विकास बँक (ADB)",
+            "answer_no": 2
+        },
+        {
+            "question_no": 10,
+            "question": "आयसीआयसीआय लाइफ इन्शुरन्सने त्यांच्या अलीकडील ब्रँडिंग प्रयत्नांमध्ये नवीन टॅगलाइन काय आहे?",
+            "options": [
+                "Bima Hai Toh Bharosa Hai",
+                "झिम्मेदारी का वाडा",
+                "सुरक्षा आपकी पहचान",
+                "हर कला आसन"
+            ],
+            "correct_answer": "हर कला आसन",
+            "answer_no": 4
+        },
+        {
+            "question_no": 11,
+            "question": "बँकिंग रेग्युलेशन अॅक्ट 1949 च्या कोणत्या कलमाअंतर्गत भारतीय रिझर्व्ह बँकेने अमिराती एनबीडीच्या भारतीय शाखांचे आरबीएल बँकेत विलीनीकरण करण्यास मान्यता दिली आहे?",
+            "options": [
+                "कलम 35 (अ)",
+                "कलम ४४ (अ)",
+                "कलम 22 (1)",
+                "कलम 10 (2)"
+            ],
+            "correct_answer": "कलम ४४ (अ)",
+            "answer_no": 2
+        },
+        {
+            "question_no": 12,
+            "question": "INS Samarthak, India's first indigenous Multi-Purpose Vessel, was built by which private company?",
+            "options": [
+                "गोवा शिपयार्ड लिमिटेड",
+                "Reliance Defence",
+                "Mazagon Dock Shipbuilders",
+                "Larsen & Toubro"
+            ],
+            "correct_answer": "Larsen & Toubro",
+            "answer_no": 4
+        },
+        {
+            "question_no": 13,
+            "question": "What is the primary focus of the upcoming Gaganyaan-1 (G1) mission scheduled for launch?",
+            "options": [
+                "Sending the first female Indian astronaut",
+                "Uncrewed test flight carrying a half-humanoid",
+                "Launching a Mars rover",
+                "Deploying a weather satellite"
+            ],
+            "correct_answer": "Uncrewed test flight carrying a half-humanoid",
+            "answer_no": 2
+        },
+        {
+            "question_no": 14,
+            "question": "What was the theme for World Food Day 2026?",
+            "options": [
+                "Healthy Diets for All",
+                "Innovate today. Nourish tomorrow.",
+                "Grow, Nourish, Sustain",
+                "Zero Hunger by 2030"
+            ],
+            "correct_answer": "Innovate today. Nourish tomorrow.",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "The International Day for the Eradication of Poverty commemorates the 1987 event held in which city?",
+            "options": [
+                "London",
+                "New York",
+                "Paris",
+                "Rome"
+            ],
+            "correct_answer": "Paris",
+            "answer_no": 3
+        },
+        {
+            "question_no": 16,
+            "question": "Sankoo was recently carved out of which district to become Ladakh’s 8th district?",
+            "options": [
+                "Leh",
+                "Zanskar",
+                "Nubra",
+                "Kargil"
+            ],
+            "correct_answer": "Kargil",
+            "answer_no": 4
+        },
+        {
+            "question_no": 17,
+            "question": "What percentage of indigenous content is estimated for the newly commissioned INS Samarthak?",
+            "options": [
+                "Above 75%",
+                "Above 90%",
+                "Above 60%",
+                "Above 50%"
+            ],
+            "correct_answer": "Above 75%",
+            "answer_no": 1
+        },
+        {
+            "question_no": 18,
+            "question": "Which organization leads the global observance of the International Day for the Eradication of Poverty?",
+            "options": [
+                "United Nations",
+                "International Labour Organization",
+                "World Bank",
+                "UNESCO"
+            ],
+            "correct_answer": "United Nations",
+            "answer_no": 1
+        },
+        {
+            "question_no": 19,
+            "question": "Who led the committee responsible for the new Data Centre Evaluation Framework at NITI Aayog?",
+            "options": [
+                "Yugal Kishore Joshi",
+                "Professor Abhay Karandikar",
+                "Sanjay Malhotra",
+                "Anurag Jain"
+            ],
+            "correct_answer": "Professor Abhay Karandikar",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "Which agency is responsible for the implementation of India's National Quantum Mission?",
+            "options": [
+                "ISRO",
+                "MeitY",
+                "Department of Science and Technology (DST)",
+                "Ministry of Defence"
+            ],
+            "correct_answer": "Department of Science and Technology (DST)",
+            "answer_no": 3
+        }
+    ]
+}
