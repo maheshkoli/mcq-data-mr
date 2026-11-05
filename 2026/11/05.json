@@ -173,7 +173,7 @@
         },
         {
             "question_no": 15,
-            "question": "पाकिस्तानने अलीकडेच 'फाज' या क्षेपणास्त्राची रचना कोणत्या प्रकारची शस्त्रास्त्र यंत्रणा म्हणून केली आहे?",
+            "question": "Pakistan’s recently tested ‘Fa’az’ missile is designed as which type of weapon system?",
             "options": [
                 "हवेतून हवेत मारा करणारे क्षेपणास्त्र",
                 "जहाजविरोधी क्षेपणास्त्र",
@@ -185,62 +185,62 @@
         },
         {
             "question_no": 16,
-            "question": "कोणत्या भारतीय बॉक्सरने 65 किलो वजनी गटात सुवर्णपदक जिंकले?",
+            "question": "At the 46th International Tammer Boxing Tournament, which Indian boxer secured gold in the 65 kg category?",
             "options": [
-                "पवन बार्टवाल",
-                "आरती धारियाल",
-                "अंकुशिता बोरो",
-                "अरुंधती चौधरी"
+                "Pawan Bartwal",
+                "Aarti Dhariyal",
+                "Ankushita Boro",
+                "Arundhati Chaudhary"
             ],
-            "correct_answer": "अंकुशिता बोरो",
+            "correct_answer": "Ankushita Boro",
             "answer_no": 3
         },
         {
             "question_no": 17,
-            "question": "कोणत्या मंत्रालयाने बँकॉकमधील जागतिक कार्यक्रमात जागतिक त्सुनामी जागरूकता दिन 2026 साजरा करण्यासाठी पुढाकार घेतला?",
+            "question": "Which ministry led the initiative to observe World Tsunami Awareness Day 2026 at a global event in Bangkok?",
             "options": [
-                "परराष्ट्र व्यवहार मंत्रालय",
-                "गृह मंत्रालय",
+                "Ministry of External Affairs",
+                "Ministry of Home Affairs",
                 "UN Office for Disaster Risk Reduction (UNDRR)",
-                "पृथ्वी विज्ञान मंत्रालय"
+                "Ministry of Earth Sciences"
             ],
             "correct_answer": "UN Office for Disaster Risk Reduction (UNDRR)",
             "answer_no": 3
         },
         {
             "question_no": 18,
-            "question": "आयएएफच्या 'वायू' दृष्टीकोनातील 'ए' काय प्राधान्य देते?",
+            "question": "What does the 'A' in the IAF's 'VAYU' vision prioritize?",
             "options": [
-                "आत्मनिर्भरता (आत्मनिर्भरता)",
-                "विमानचालन उत्कृष्टता",
-                "ऑल - वेदर ट्रेनिंग",
-                "प्रगत पाळत ठेवणे"
+                "Aatmanirbharta (Self-reliance)",
+                "Aviation excellence",
+                "All-weather training",
+                "Advanced surveillance"
             ],
-            "correct_answer": "आत्मनिर्भरता (आत्मनिर्भरता)",
+            "correct_answer": "Aatmanirbharta (Self-reliance)",
             "answer_no": 1
         },
         {
             "question_no": 19,
-            "question": "नीती आयोगाने सुरू केलेल्या इंडिया एस अँड टी स्कोअरबोर्डचा उद्देश खालीलपैकी कोणता आहे?",
+            "question": "The India S&T Scoreboard, launched by NITI Aayog, is intended to do which of the following?",
             "options": [
-                "पेटंट कायद्याचे अनुपालन पुनरावलोकन करा",
-                "वार्षिक संशोधन निधीचे वाटप करा",
-                "परदेशी विद्यार्थ्यांची देवाणघेवाण व्यवस्थापित करा",
-                "राज्यांमधील कामगिरी आणि नाविन्यपूर्ण अंतरांचे मूल्यांकन करा"
+                "Review patent law compliance",
+                "Allocate annual research funds",
+                "Manage foreign student exchanges",
+                "Assess performance and innovation gaps in states"
             ],
-            "correct_answer": "राज्यांमधील कामगिरी आणि नाविन्यपूर्ण अंतरांचे मूल्यांकन करा",
+            "correct_answer": "Assess performance and innovation gaps in states",
             "answer_no": 4
         },
         {
             "question_no": 20,
-            "question": "नवीन तक्रार निवारण नियम, 2026 मध्ये एमओआरडीने अनिवार्य एफआयआर नोंदणीची तरतूद का वगळली?",
+            "question": "Why did the MoRD omit the provision for mandatory FIR registration in the new Grievance Redressal Rules, 2026?",
             "options": [
-                "कायदेशीर प्रक्रिया संक्षिप्त करण्यासाठी",
-                "पोलिसांकडे सत्ता हस्तांतरीत करण्याचे आदेश",
-                "अनियमितता नोंदविण्यापासून परावृत्त करणे",
-                "प्रथम विभागीय चौकशीवर अवलंबून राहणे"
+                "To shorten legal processes",
+                "To hand over powers to the police",
+                "To discourage reporting irregularities",
+                "To rely on departmental inquiries first"
             ],
-            "correct_answer": "प्रथम विभागीय चौकशीवर अवलंबून राहणे",
+            "correct_answer": "To rely on departmental inquiries first",
             "answer_no": 4
         }
     ]
