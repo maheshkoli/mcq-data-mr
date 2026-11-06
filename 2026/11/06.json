@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "06-11-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "Which newly approved Central Sector Scheme aims to revamp India's official statistical architecture in alignment with the Viksit Bharat 2047 vision?",
+            "options": [
+                "National Data Transformation Plan",
+                "Bharat Stat-Tech Mission",
+                "VISTAR Scheme",
+                "Samarth Statistical Initiative"
+            ],
+            "correct_answer": "VISTAR Scheme",
+            "answer_no": 3
+        },
+        {
+            "question_no": 2,
+            "question": "The Union Cabinet recently approved a Rs 14,500 crore Viability Gap Funding scheme primarily targeting the development of which sector?",
+            "options": [
+                "Grid-Scale Energy Storage Systems",
+                "Green Hydrogen Manufacturing Hubs",
+                "Electric Vehicle Charging Corridors",
+                "Offshore Wind Energy Farms"
+            ],
+            "correct_answer": "Grid-Scale Energy Storage Systems",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "Under the newly sanctioned capital expenditure support scheme for critical minerals, the central government offers what percentage of capital subsidy to processing units?",
+            "options": [
+                "50%",
+                "30%",
+                "20%",
+                "25%"
+            ],
+            "correct_answer": "30%",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "The continuation of the Fast Track Special Courts Scheme, including exclusive POCSO courts, has been extended till which year?",
+            "options": [
+                "March 2029",
+                "March 2030",
+                "March 2028",
+                "March 2031"
+            ],
+            "correct_answer": "March 2031",
+            "answer_no": 4
+        },
+        {
+            "question_no": 5,
+            "question": "Where was the 1st International Maize Conference held, focusing on transforming the traditional 4F agricultural framework into a 5F model?",
+            "options": [
+                "New Delhi",
+                "Bengaluru",
+                "Ludhiana",
+                "Hyderabad"
+            ],
+            "correct_answer": "Hyderabad",
+            "answer_no": 4
+        },
+        {
+            "question_no": 6,
+            "question": "Which ministry oversees the newly released indigenous AI foundation models like EKA-1 and Dhīr under the IndiaAI Mission?",
+            "options": [
+                "Ministry of Electronics and Information Technology",
+                "Ministry of Commerce and Industry",
+                "Ministry of Science and Technology",
+                "Ministry of Corporate Affairs"
+            ],
+            "correct_answer": "Ministry of Electronics and Information Technology",
+            "answer_no": 1
+        },
+        {
+            "question_no": 7,
+            "question": "Which regulatory authority launched the 'Network Anubhav' platform to boost transparency in telecommunication service quality?",
+            "options": [
+                "SEBI",
+                "RBI",
+                "IRDAI",
+                "TRAI"
+            ],
+            "correct_answer": "TRAI",
+            "answer_no": 4
+        },
+        {
+            "question_no": 8,
+            "question": "The Indian Institute of Corporate Affairs recently partnered with which arbitration centre to strengthen India's Alternative Dispute Resolution ecosystem?",
+            "options": [
+                "DIAC Delhi",
+                "IAMC Hyderabad",
+                "KIAC Kochi",
+                "MCIA Mumbai"
+            ],
+            "correct_answer": "IAMC Hyderabad",
+            "answer_no": 2
+        },
+        {
+            "question_no": 9,
+            "question": "The Commonwealth of The Bahamas recently joined the International Solar Alliance as its how manyth member country?",
+            "options": [
+                "116th",
+                "125th",
+                "101st",
+                "110th"
+            ],
+            "correct_answer": "116th",
+            "answer_no": 1
+        },
+        {
+            "question_no": 10,
+            "question": "The bilateral joint special forces exercise 'GARUDA SHAKTI 2026' was conducted between the armies of India and which other country?",
+            "options": [
+                "Malaysia",
+                "Indonesia",
+                "France",
+                "Vietnam"
+            ],
+            "correct_answer": "Indonesia",
+            "answer_no": 2
+        },
+        {
+            "question_no": 11,
+            "question": "What is the primary mandate of the newly constituted TCCFM headed by Deputy Governor Rohit Jain at the Reserve Bank of India?",
+            "options": [
+                "Regulating digital lending applications",
+                "Supervising cooperative bank mergers",
+                "Revising retail banking interest caps",
+                "Engaging with stakeholders on financial markets"
+            ],
+            "correct_answer": "Engaging with stakeholders on financial markets",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "SEBI recently formed an 18-member panel to review the regulatory framework governing which platform to ease market access for deep-tech firms?",
+            "options": [
+                "Innovators Growth Platform",
+                "SME Exchange Board",
+                "Startup Listing Corridor",
+                "Growth Capital Window"
+            ],
+            "correct_answer": "Innovators Growth Platform",
+            "answer_no": 1
+        },
+        {
+            "question_no": 13,
+            "question": "What is the name of the newly launched technology arm that has become the fourth wholly-owned subsidiary of the National Payments Corporation of India?",
+            "options": [
+                "NPCI Tech Solutions Limited",
+                "NPCI Core Systems Corp",
+                "NPCI Fintech Innovations",
+                "NPCI Digital Ledger Ltd"
+            ],
+            "correct_answer": "NPCI Tech Solutions Limited",
+            "answer_no": 1
+        },
+        {
+            "question_no": 14,
+            "question": "Researchers recently discovered a new freshwater catfish species named 'Exostoma nasibarbatum' in which Indian state?",
+            "options": [
+                "Nagaland",
+                "Manipur",
+                "Meghalaya",
+                "Arunachal Pradesh"
+            ],
+            "correct_answer": "Manipur",
+            "answer_no": 2
+        },
+        {
+            "question_no": 15,
+            "question": "The late Alan Stanley Jones, who passed away recently, etched his name in sports history by winning the world championship in which discipline?",
+            "options": [
+                "IndyCar Racing",
+                "Formula One",
+                "MotoGP",
+                "World Rally"
+            ],
+            "correct_answer": "Formula One",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "Nand Lal, who passed away recently after serving four consecutive terms as a Himachal Pradesh MLA, was famously known earlier in his career as 'Sonia's Sentinel' due to his stint in which elite security unit?",
+            "options": [
+                "National Security Guard",
+                "Central Reserve Police Force",
+                "Special Protection Group",
+                "Border Security Force"
+            ],
+            "correct_answer": "Special Protection Group",
+            "answer_no": 3
+        },
+        {
+            "question_no": 17,
+            "question": "The International Day against Violence and Bullying at School, Including Cyberbullying is globally observed every year on which recurring schedule?",
+            "options": [
+                "Second Monday of October",
+                "Last Friday of September",
+                "First Thursday of November",
+                "Third Wednesday of November"
+            ],
+            "correct_answer": "First Thursday of November",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "Which international body established the International Day for Preventing the Exploitation of the Environment in War and Armed Conflict back in 2001?",
+            "options": [
+                "Security Council",
+                "United Nations Environment Programme",
+                "United Nations General Assembly",
+                "International Court of Justice"
+            ],
+            "correct_answer": "United Nations General Assembly",
+            "answer_no": 3
+        },
+        {
+            "question_no": 19,
+            "question": "The Government of Odisha signed a multi-year partnership with J-PAL South Asia primarily to achieve what objective?",
+            "options": [
+                "Implement universal healthcare coverage",
+                "Upgrade urban municipal governance",
+                "Expand digital literacy in rural schools",
+                "Strengthen evidence-based policymaking"
+            ],
+            "correct_answer": "Strengthen evidence-based policymaking",
+            "answer_no": 4
+        },
+        {
+            "question_no": 20,
+            "question": "Which prominent digital public infrastructure initiative does NTSL support alongside electronic-KYC Setu?",
+            "options": [
+                "Aadhaar Pay Network",
+                "Bharat Bill Payment System",
+                "Unified Ticketing Platform",
+                "Unified Payments Interface"
+            ],
+            "correct_answer": "Unified Ticketing Platform",
+            "answer_no": 3
+        }
+    ]
+}
