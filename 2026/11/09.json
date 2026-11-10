@@ -1,0 +1,247 @@
+{
+    "status": true,
+    "date": "09-11-2026",
+    "total_questions": 20,
+    "data": [
+        {
+            "question_no": 1,
+            "question": "कोणत्या शहरात नोव्हेंबर 2026 मध्ये भारत नवीकरणीय ऊर्जा शिखर परिषद आणि प्रदर्शनाचे आयोजन करण्यात आले होते?",
+            "options": [
+                "बंगळुरू, कर्नाटक",
+                "गांधीनगर, गुजरात",
+                "मुंबई, महाराष्ट्र",
+                "नवी दिल्ली, दिल्ली"
+            ],
+            "correct_answer": "नवी दिल्ली, दिल्ली",
+            "answer_no": 4
+        },
+        {
+            "question_no": 2,
+            "question": "आर्थिक वर्ष 25 साठी सांख्यिकी आणि कार्यक्रम अंमलबजावणी मंत्रालयाच्या एएसआयनुसार, भारताच्या एकूण उत्पादनात 54% पेक्षा जास्त राज्यांचा वाटा आहे.",
+            "options": [
+                "महाराष्ट्र, गुजरात, तामिळनाडू, कर्नाटक आणि उत्तर प्रदेश",
+                "पंजाब, हरियाणा, दिल्ली, राजस्थान आणि मध्य प्रदेश",
+                "केरळ, आंध्र प्रदेश, तेलंगणा, ओडिशा आणि पश्चिम बंगाल",
+                "बिहार, पश्चिम बंगाल, आसाम, झारखंड आणि छत्तीसगड"
+            ],
+            "correct_answer": "महाराष्ट्र, गुजरात, तामिळनाडू, कर्नाटक आणि उत्तर प्रदेश",
+            "answer_no": 1
+        },
+        {
+            "question_no": 3,
+            "question": "केंद्रीय मंत्री डॉ. वीरेंद्र कुमार यांनी ‘वायो सन्मान राष्ट्रीय अभियान’ सुरू केले ज्या अंतर्गत राष्ट्रीय योजनेचा विस्तार केला आहे.",
+            "options": [
+                "प्रधानमंत्री जन धन योजना",
+                "अटल वायो अभ्युदय योजना",
+                "राष्ट्रीय वयोश्री योजना",
+                "आयुष्मान भारत पीएम - जेएवाय"
+            ],
+            "correct_answer": "अटल वायो अभ्युदय योजना",
+            "answer_no": 2
+        },
+        {
+            "question_no": 4,
+            "question": "कर्नाटक संगीत दिग्गज मुथुस्वामी दीक्षित यांच्या सन्मानार्थ केंद्रीय अर्थमंत्री निर्मला सीतारामन यांनी कोणत्या नाण्याचे प्रकाशन केले?",
+            "options": [
+                "500 रुपये",
+                "100 रुपये",
+                "250 रुपये",
+                "1000 रुपये"
+            ],
+            "correct_answer": "250 रुपये",
+            "answer_no": 3
+        },
+        {
+            "question_no": 5,
+            "question": "भारताच्या रस्ते वाहतूक क्षेत्राला कार्बनमुक्त करण्यासाठी नीती आयोगाने एनडीसी - टीआयए फेज II अंतर्गत कोणत्या आंतरराष्ट्रीय संस्थेशी भागीदारी केली आहे?",
+            "options": [
+                "जपान इंटरनॅशनल को - ऑपरेशन एजन्सी",
+                "वर्ल्ड इकॉनॉमिक फोरम",
+                "जर्मनीचे GIZ GmbH",
+                "युएसएआयडी"
+            ],
+            "correct_answer": "जर्मनीचे GIZ GmbH",
+            "answer_no": 3
+        },
+        {
+            "question_no": 6,
+            "question": "कोणत्या संस्थेने CSIR - DAKSHIN सह ग्लोबल साउथमध्ये तंत्रज्ञान भागीदारी वाढविण्यासाठी एक लेटर ऑफ असोसिएशनवर स्वाक्षरी केली आहे?",
+            "options": [
+                "नॅशनल इनोव्हेशन फाउंडेशन",
+                "भारतीय कृषी संशोधन परिषद",
+                "विकसनशील देशांसाठी संशोधन आणि माहिती प्रणाली",
+                "फेडरेशन ऑफ इंडियन चेंबर्स ऑफ कॉमर्स अँड इंडस्ट्री"
+            ],
+            "correct_answer": "विकसनशील देशांसाठी संशोधन आणि माहिती प्रणाली",
+            "answer_no": 3
+        },
+        {
+            "question_no": 7,
+            "question": "Under the newly signed MoU with the Ministry of Culture, Google Arts & Culture will assist in the digital documentation of which upcoming museum?",
+            "options": [
+                "युगे युजीन भारत संग्रहालय",
+                "राष्ट्रीय सागरी वारसा संकुल",
+                "प्रधानमंत्री संग्राहलय",
+                "राष्ट्रीय युद्ध स्मारक संग्रहालय"
+            ],
+            "correct_answer": "युगे युजीन भारत संग्रहालय",
+            "answer_no": 1
+        },
+        {
+            "question_no": 8,
+            "question": "The Ministry of MSME partnered with TRIFED to expand market access for tribal artisans enrolled under which national initiative?",
+            "options": [
+                "SVAMITVA Scheme",
+                "PM SVANidhi Scheme",
+                "PM Gati Shakti",
+                "Pradhan Mantri Vishwakarma Scheme"
+            ],
+            "correct_answer": "Pradhan Mantri Vishwakarma Scheme",
+            "answer_no": 4
+        },
+        {
+            "question_no": 9,
+            "question": "The Ministry of Skill Development and Entrepreneurship recognized which agricultural institution as a Centre of Excellence-Skills under the Green Channel mechanism?",
+            "options": [
+                "Indian Agricultural Research Institute, New Delhi",
+                "National Dairy Research Institute, Karnal",
+                "National Institute of Agricultural Extension Management, Hyderabad",
+                "Central Plantation Crops Research Institute, Kasaragod"
+            ],
+            "correct_answer": "National Institute of Agricultural Extension Management, Hyderabad",
+            "answer_no": 3
+        },
+        {
+            "question_no": 10,
+            "question": "UNESCO inscribed three iconic Indian literary and historical works in its Memory of the World Asia-Pacific Register during the session held in which country?",
+            "options": [
+                "Vietnam",
+                "Thailand",
+                "Malaysia",
+                "Indonesia"
+            ],
+            "correct_answer": "Indonesia",
+            "answer_no": 4
+        },
+        {
+            "question_no": 11,
+            "question": "Which Indian naval ship participated alongside partner nations in the 30th edition of Exercise Malabar held in Japan?",
+            "options": [
+                "INS Sahyadri",
+                "INS Visakhapatnam",
+                "INS Kochi",
+                "INS Shivalik"
+            ],
+            "correct_answer": "INS Shivalik",
+            "answer_no": 4
+        },
+        {
+            "question_no": 12,
+            "question": "With which country did India sign an Extradition Treaty in November 2026 to curb international crime and terrorism?",
+            "options": [
+                "Mongolia",
+                "Turkmenistan",
+                "Kazakhstan",
+                "Uzbekistan"
+            ],
+            "correct_answer": "Turkmenistan",
+            "answer_no": 2
+        },
+        {
+            "question_no": 13,
+            "question": "PFRDA mandated that Tier II National Pension Scheme schemes must carry which specific suffix in their updated naming format starting December 2026?",
+            "options": [
+                "Secondary",
+                "Voluntary",
+                "Tier II",
+                "NPS-II"
+            ],
+            "correct_answer": "Secondary",
+            "answer_no": 1
+        },
+        {
+            "question_no": 14,
+            "question": "Garden Reach Shipbuilders & Engineers delivered 'Amini', the fifth ASW Shallow Water Craft, to the Indian Navy. The vessel's name is inspired by an island in which Union Territory?",
+            "options": [
+                "Lakshadweep",
+                "Dadra and Nagar Haveli and Daman and Diu",
+                "Andaman and Nicobar Islands",
+                "Puducherry"
+            ],
+            "correct_answer": "Puducherry",
+            "answer_no": 4
+        },
+        {
+            "question_no": 15,
+            "question": "What is the approximate diameter of asteroid 2026 QQ8, which was captured temporarily as Earth's mini-moon?",
+            "options": [
+                "50 metres",
+                "1 metre",
+                "100 metres",
+                "10 metres"
+            ],
+            "correct_answer": "1 metre",
+            "answer_no": 2
+        },
+        {
+            "question_no": 16,
+            "question": "The newly discovered flowering plant species 'Disporum kamakhasiense' belongs to which botanical family?",
+            "options": [
+                "Colchicaceae",
+                "Asteraceae",
+                "Fabaceae",
+                "Orchidaceae"
+            ],
+            "correct_answer": "Colchicaceae",
+            "answer_no": 1
+        },
+        {
+            "question_no": 17,
+            "question": "Which country did the Indian men's hockey team defeat in the final to claim a record sixth title at the Asian Champions Trophy 2026?",
+            "options": [
+                "Malaysia",
+                "Japan",
+                "Pakistan",
+                "South Korea"
+            ],
+            "correct_answer": "Pakistan",
+            "answer_no": 3
+        },
+        {
+            "question_no": 18,
+            "question": "National Cancer Awareness Day is observed annually across India on which date to mark the birth anniversary of Marie Curie?",
+            "options": [
+                "14 November",
+                "7 November",
+                "22 December",
+                "1 December"
+            ],
+            "correct_answer": "7 November",
+            "answer_no": 2
+        },
+        {
+            "question_no": 19,
+            "question": "Sir C.V. Raman won the Nobel Prize in Physics in 1930 for discovering which landmark scientific phenomenon?",
+            "options": [
+                "Superconductivity",
+                "Scattering of light by molecules",
+                "Quantum entanglement",
+                "Photoelectric effect"
+            ],
+            "correct_answer": "Scattering of light by molecules",
+            "answer_no": 2
+        },
+        {
+            "question_no": 20,
+            "question": "Which butterfly species was approved by the Chhattisgarh State Wildlife Board as the state's first official state butterfly?",
+            "options": [
+                "Orange Oakleaf",
+                "Blue Mormon",
+                "Southern Birdwing",
+                "Malabar Banded Peacock"
+            ],
+            "correct_answer": "Orange Oakleaf",
+            "answer_no": 1
+        }
+    ]
+}
