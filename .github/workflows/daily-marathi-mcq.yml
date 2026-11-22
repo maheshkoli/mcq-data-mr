@@ -1,0 +1,144 @@
+name: Publish daily Marathi exam MCQs
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 0,6,12,18 * * *'
+
+permissions:
+  contents: write
+concurrency:
+  group: marathi-mcq-publication
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Validate and publish today's missing edition
+        shell: python
+        run: |
+          import calendar
+          import json
+          import re
+          import subprocess
+          import unicodedata
+          from datetime import datetime
+          from difflib import SequenceMatcher
+          from pathlib import Path
+          from urllib.error import HTTPError
+          from urllib.parse import parse_qs, unquote, urlsplit
+          from urllib.request import Request, urlopen
+          from zoneinfo import ZoneInfo
+
+          today = datetime.now(ZoneInfo("Asia/Kolkata")).date()
+          iso = today.isoformat()
+          year, month, day = iso.split("-")
+          path = Path(year, month, day + ".json")
+          if path.exists():
+              print(f"{path} already exists.")
+              raise SystemExit(0)
+
+          url = "https://exam-study.in/daily-current-affairs-collector.php?date=" + iso + "&format=json"
+          try:
+              with urlopen(Request(url, headers={"Accept": "application/json", "User-Agent": "ExamStudy daily archive"}), timeout=60) as response:
+                  if urlsplit(response.geturl()).hostname != "exam-study.in":
+                      raise ValueError("Unexpected collector domain")
+                  raw = response.read(2_000_001)
+                  if len(raw) > 2_000_000:
+                      raise ValueError("Unexpected edition size")
+                  edition = json.loads(raw)
+          except HTTPError as err:
+              if err.code in (404, 503):
+                  print(f"No edition ready for {iso}. The next run will try again.")
+                  raise SystemExit(0)
+              raise
+
+          rows = edition.get("data")
+          if (edition.get("status") is not True or edition.get("date") != today.strftime("%d-%m-%Y")
+                  or not isinstance(rows, list) or not rows or len(rows) != edition.get("total_questions")):
+              raise ValueError("Invalid edition date, count, or status")
+
+          def norm(text):
+              text = unicodedata.normalize("NFKC", text).casefold()
+              return " ".join("".join(c if unicodedata.category(c)[0] in "LMN" else " " for c in text).split())
+
+          def repeated(q, history):
+              a = set(q.split())
+              for old in history:
+                  b = set(old.split())
+                  if (q == old or len(a & b) / len(a | b) >= .80
+                          or SequenceMatcher(None, q, old, autojunk=False).ratio() >= .88):
+                      return True
+              return False
+
+          def official_citation(url):
+              u = urlsplit(url)
+              if u.scheme != "https" or u.username or u.password or u.port not in (None, 443):
+                  return False
+              if u.hostname in {"pib.gov.in", "www.pib.gov.in"}:
+                  return (u.path.lower() in {"/pressreleasepage.aspx", "/pressrelesedetail.aspx", "/pressrelesedetailm.aspx"}
+                          and re.fullmatch(r"[0-9]+", parse_qs(u.query).get("PRID", [""])[0]) is not None)
+              if u.hostname in {"mausam.imd.gov.in", "internal.imd.gov.in"}:
+                  return unquote(u.path).lower().endswith(".pdf")
+              return False
+
+          editions = sorted(p for p in Path(".").glob("[0-9][0-9][0-9][0-9]/[0-9][0-9]/[0-9][0-9].json") if str(p) < str(path))
+          history = []
+          if editions:
+              previous = json.loads(editions[-1].read_text(encoding="utf-8-sig"))
+              history = [norm(q["question"]) for q in previous["data"]]
+          selected = []
+          for row in rows:
+              stem = norm(row["question"])
+              options = row["options"]
+              answer = row["answer_no"]
+              if (not stem or not re.search(r"[\u0900-\u097f]", stem)
+                      or not isinstance(options, list) or len(options) != 4
+                      or not all(isinstance(o, str) and norm(o) for o in options)
+                      or len(set(map(norm, options))) != 4 or type(answer) is not int or not 1 <= answer <= 4
+                      or row["correct_answer"] != options[answer-1] or not row["explanation"].strip()
+                      or row["source_date"] != iso or not official_citation(row["source_url"])):
+                  raise ValueError("Invalid question, answer key or source citation")
+              if not repeated(stem, history):
+                  history.append(stem)
+                  selected.append(dict(row, question_no=len(selected) + 1))
+          if not selected:
+              print("All candidates repeated. Leaving the date open for fresh questions.")
+              raise SystemExit(0)
+
+          def write(p, obj):
+              p.parent.mkdir(parents=True, exist_ok=True)
+              p.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+          def index(p, key, item, **fields):
+              obj = json.loads(p.read_text(encoding="utf-8-sig")) if p.exists() else dict(status=True, data=[], **fields)
+              if not any(int(entry[key]) == item[key] for entry in obj["data"]):
+                  obj["data"].append(item)
+                  obj["data"].sort(key=lambda entry: int(entry[key]))
+                  obj["total"] = len(obj["data"])
+                  write(p, obj)
+
+          write(path, dict(edition, data=selected, total_questions=len(selected)))
+          days = path.with_name("day.json")
+          months = Path(year, "months.json")
+          years = Path("year.json")
+          index(days, "day", {"day": today.day}, year=year, month=month)
+          index(months, "month_no", {"month_no": today.month, "month_name": calendar.month_name[today.month]}, year=year)
+          index(years, "year", {"year": today.year})
+          def git(*args, check=True):
+              return subprocess.run(["git", *map(str, args)], check=check)
+
+          git("config", "user.name", "github-actions[bot]")
+          git("config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com")
+          git("add", "--", path, days, months, years)
+          git("commit", "-m", "Publish Marathi exam MCQs for " + iso)
+          if git("push", "origin", "HEAD:main", check=False).returncode:
+              git("fetch", "origin", "main")
+              if git("cat-file", "-e", "FETCH_HEAD:" + path.as_posix(), check=False).returncode == 0:
+                  print("Another publisher created the edition first. Existing content retained.")
+              else:
+                  raise RuntimeError("Branch changed or push was denied; rerun against the latest main.")
